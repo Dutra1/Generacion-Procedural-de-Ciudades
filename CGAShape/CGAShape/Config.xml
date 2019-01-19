@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<windowName 	value="Procedural Cities"/>
+	<materialsFile	value="configs/Materials.xml"/>
+	<shapeInfoFile	value="configs/ShapeInfo.xml"/>
+	<rulepoolFile	value="configs/Rulepool.xml"/>
+	<mapToParseFile	value="maps/map7.osm"/>
+	<modelFile		value="models/map"/>
+	
+	<buildingDefaultSymbol				value="Building"/>
+	<polygonizedBuildingDefaultSymbol	value="Building Polygonized"/>
+	
+	<rectanglize value="true"/>
+	
+	<screenWidth  value="1920"/>
+	<screenHeight value="1080"/>
+	
+	<lod value="1.0"/>
+	<streetWidth value="10.0"/>
+	<cameraSpeed value="30.0"/>
+	
+	<cameraPosition	x="50.0" y="100.0" z="50.0"/>
+	<sunDirection	x="4.0"   y="3.0"  z="1.0"/>
+	
+	<buildingHeight>
+		<add>
+			<num value="10"/>
+			<mul>
+				<num value="15"/>
+				<rand type="int" begin="1" end="5"/>
+			</mul>
+		</add>
+	</buildingHeight>
+</config>
+
+
+
+
+

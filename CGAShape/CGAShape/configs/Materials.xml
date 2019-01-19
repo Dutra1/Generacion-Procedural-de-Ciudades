@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<materials>
+	<material name="Wood" file="textures/Wood.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>]
+	<material name="Stone" file="textures/Stone.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>]
+	<material name="Cobble" file="textures/Cobble Wall.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>]
+	<material name="Door" file="textures/Door.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>]
+	<material name="Tile Floor" file="textures/Tile Floor.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>
+	<material name="Roof Tile" file="textures/Roof Tile.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>
+	<material name="Stage" file="textures/Stage.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>
+	<material name="Logs" file="textures/Logs.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>
+	<material name="Thatch" file="textures/Thatch.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>
+
+	<material name="Street" file="textures/Cobble.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>
+	<material name="Skybox" file="textures/Skybox.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>
+	<material name="Floor" file="textures/Grass.jpg" r="1.0" g="1.0" b="1.0" a="1.0"/>
+</materials>

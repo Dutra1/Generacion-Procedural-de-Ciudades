@@ -1,0 +1,221 @@
+﻿  stdafx.cpp
+  Utilities.cpp
+  MaterialHolder.cpp
+  Street.cpp
+  Skybox.cpp
+  Config.cpp
+  GeometryDrawable.cpp
+  ShapeTree.cpp
+  ShapeInfoHolder.cpp
+  ShapeInfo.cpp
+  Shape.cpp
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\shape.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\shape.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\shape.cpp(123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\shape.cpp(201): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\shape.cpp(202): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ShaderRepository.cpp
+  ShaderHolder.cpp
+  SDL_Manager.cpp
+  RulePool.cpp
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rulepool.cpp(77): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+  Rule.cpp
+  RHS.cpp
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\rhs.cpp(136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ProgramHolder.cpp
+  Parser.cpp
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\parser.cpp(103): warning C4804: '-': unsafe use of type 'bool' in operation
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(357): warning C4503: '__LINE__Var': decorated name length exceeded, name was truncated
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(348): note: see reference to function template instantiation 'void std::_Func_class<_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>::_Reset_impl<std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>,_Alloc,_Myimpl,_Alimpl>(_Fx &&,const _Alloc &,_Myimpl *,_Alimpl &,std::true_type)' being compiled
+          with
+          [
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double,
+              _Alloc=std::allocator<int>,
+              _Fx=std::function<double (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &)>,
+              _Myimpl=_Myimpl,
+              _Alimpl=_Alimpl
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(347): note: see reference to function template instantiation 'void std::_Func_class<_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>::_Reset_impl<std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>,_Alloc,_Myimpl,_Alimpl>(_Fx &&,const _Alloc &,_Myimpl *,_Alimpl &,std::true_type)' being compiled
+          with
+          [
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double,
+              _Alloc=std::allocator<int>,
+              _Fx=std::function<double (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &)>,
+              _Myimpl=_Myimpl,
+              _Alimpl=_Alimpl
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(327): note: see reference to function template instantiation 'void std::_Func_class<_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>::_Reset_alloc<std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>,std::allocator<int>>(_Fx &&,const _Alloc &)' being compiled
+          with
+          [
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double,
+              _Fx=std::function<double (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &)>,
+              _Alloc=std::allocator<int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(327): note: see reference to function template instantiation 'void std::_Func_class<_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>::_Reset_alloc<std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>,std::allocator<int>>(_Fx &&,const _Alloc &)' being compiled
+          with
+          [
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double,
+              _Fx=std::function<double (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &)>,
+              _Alloc=std::allocator<int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(498): note: see reference to function template instantiation 'void std::_Func_class<_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>::_Reset<std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double,
+              _Fx=std::function<double (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &)>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(498): note: see reference to function template instantiation 'void std::_Func_class<_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>::_Reset<std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double,
+              _Fx=std::function<double (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &)>
+          ]
+  c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\parser.cpp(101): note: see reference to function template instantiation 'std::function<bool (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>::function<ShapeArgument,double,void>(_Fx)' being compiled
+          with
+          [
+              _Kty=std::string,
+              _Ty=double,
+              _Fx=ShapeArgument
+          ]
+  c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\parser.cpp(101): note: see reference to function template instantiation 'std::function<bool (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>::function<ShapeArgument,double,void>(_Fx)' being compiled
+          with
+          [
+              _Kty=std::string,
+              _Ty=double,
+              _Fx=ShapeArgument
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1468): warning C4800: 'double': forcing value to bool 'true' or 'false' (performance warning)
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(213): note: see reference to function template instantiation '_Rx std::_Invoke_ret<_Rx,_Callable&,const Shape&,std::default_random_engine&,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>&>(std::_Forced<_Rx,false>,_Callable &,const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)' being compiled
+          with
+          [
+              _Rx=bool,
+              _Callable=_Decayed,
+              _Kty=std::string,
+              _Ty=double
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(211): note: while compiling class template member function 'bool std::_Func_impl<_Decayed,_Alloc,_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>::_Do_call(const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)'
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(137): note: see reference to class template instantiation 'std::_Func_impl<_Decayed,_Alloc,_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(348): note: see reference to class template instantiation 'std::_Is_large<_Myimpl>' being compiled
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(856): warning C4503: '__LINE__Var': decorated name length exceeded, name was truncated
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(996): note: see reference to function template instantiation 'void std::allocator_traits<_Alloc>::construct<_Ty,std::function<double (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,double>>> &)>,std::allocator<int>>(std::allocator<_Ty> &,_Objty *,std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,double>>> &)> &&,std::allocator<int> &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<_Myimpl>,
+              _Ty=std::_Func_impl<_Decayed,std::allocator<int>,bool,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &>,
+              _Kty=std::string,
+              _Objty=std::_Func_impl<_Decayed,std::allocator<int>,bool,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory0(995): note: see reference to function template instantiation 'void std::allocator_traits<_Alloc>::construct<_Ty,std::function<double (const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,double>>> &)>,std::allocator<int>>(std::allocator<_Ty> &,_Objty *,std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,double>>> &)> &&,std::allocator<int> &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<_Myimpl>,
+              _Ty=std::_Func_impl<_Decayed,std::allocator<int>,bool,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &>,
+              _Kty=std::string,
+              _Objty=std::_Func_impl<_Decayed,std::allocator<int>,bool,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>> &>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(206): note: see reference to function template instantiation 'void std::_Wrap_alloc<std::allocator<_Other>>::construct<std::_Func_impl<_Decayed,_Alloc,_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>,std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>,std::allocator<int>>(std::_Func_impl<_Decayed,_Alloc,_Ret,const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &> *,std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)> &&,std::allocator<int> &&)' being compiled
+          with
+          [
+              _Other=_Myimpl,
+              _Alloc=std::allocator<int>,
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(206): note: see reference to function template instantiation 'void std::_Wrap_alloc<std::allocator<_Other>>::construct<std::_Func_impl<_Decayed,_Alloc,_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>,std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)>,std::allocator<int>>(std::_Func_impl<_Decayed,_Alloc,_Ret,const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &> *,std::function<double (const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &)> &&,std::allocator<int> &&)' being compiled
+          with
+          [
+              _Other=_Myimpl,
+              _Alloc=std::allocator<int>,
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(203): note: while compiling class template member function 'std::_Func_base<_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &> *std::_Func_impl<_Decayed,_Alloc,_Ret,const Shape &,std::default_random_engine &,const std::map<_Kty,_Ty,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>::_Move(void *)'
+          with
+          [
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double,
+              _Alloc=std::allocator<int>
+          ]
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\parser.cpp(215): warning C4503: 'std::_Func_class<_Ret,const Shape &,std::default_random_engine &,const std::map<std::string,double,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>> &>::_Reset_impl': decorated name length exceeded, name was truncated
+          with
+          [
+              _Ret=bool,
+              _Kty=std::string,
+              _Ty=double
+          ]
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\parser.cpp(215): warning C4503: 'std::allocator_traits<_Alloc>::construct': decorated name length exceeded, name was truncated
+          with
+          [
+              _Alloc=std::allocator<_Myimpl>
+          ]
+  Material.cpp
+  Argument.cpp
+  Generating Code...
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\programholder.cpp(45): warning C4715: 'ProgramHolder::createProgram': not all control paths return a value
+  Compiling...
+  Map.cpp
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\map.cpp(53): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'std::size_t', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\map.cpp(89): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\map.cpp(160): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\map.cpp(161): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\map.cpp(162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\map.cpp(197): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+  MainHolder.cpp
+  Logger.cpp
+  LHS.cpp
+  Floorplan.cpp
+  Floor.cpp
+  Drawable.cpp
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\drawable.cpp(30): warning C4244: 'argument': conversion from 'std::size_t' to 'float', possible loss of data
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\drawable.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\drawable.cpp(471): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CGAShape.cpp
+  Camera.cpp
+c:\users\andrés\documents\visual studio 2015\projects\cgashape\cgashape\camera.cpp(15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Building.cpp
+  Box.cpp
+  BaseDistribution.cpp
+  Generating Code...
+  pugixml.cpp
+  CGAShape.vcxproj -> C:\Users\Andrés\documents\visual studio 2015\Projects\CGAShape\Debug\CGAShape.exe
+  CGAShape.vcxproj -> C:\Users\Andrés\documents\visual studio 2015\Projects\CGAShape\Debug\CGAShape.pdb (Full PDB)

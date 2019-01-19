@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.5.8 (5969 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-34.8893700" minlon="-56.0594700" maxlat="-34.8874100" maxlon="-56.0552600"/>
+ <node id="1614256431" visible="true" version="1" changeset="10558519" timestamp="2012-02-01T13:25:31Z" user="AlfredoGMx" uid="256337" lat="-34.8887316" lon="-56.0565546">
+  <tag k="building" v="office"/>
+  <tag k="name" v="ANTEL"/>
+ </node>
+ <node id="1614257175" visible="true" version="2" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8884016" lon="-56.0565546">
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="denomination" v="catholic"/>
+  <tag k="name" v="Parroquia Stella Maris"/>
+  <tag k="religion" v="christian"/>
+ </node>
+ <node id="917311875" visible="true" version="2" changeset="43648137" timestamp="2016-11-14T17:35:46Z" user="TheNodeWarrior" uid="4759993" lat="-34.8882643" lon="-56.0553226"/>
+ <node id="917318676" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T20:44:54Z" user="MaxM" uid="55730" lat="-34.8884927" lon="-56.0541594"/>
+ <node id="917328458" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T20:48:22Z" user="MaxM" uid="55730" lat="-34.8886477" lon="-56.0566972"/>
+ <node id="917360842" visible="true" version="2" changeset="43648137" timestamp="2016-11-14T17:35:46Z" user="TheNodeWarrior" uid="4759993" lat="-34.8883536" lon="-56.0554931"/>
+ <node id="917401288" visible="true" version="1" changeset="5815134" timestamp="2010-09-18T21:09:07Z" user="MaxM" uid="55730" lat="-34.8879460" lon="-56.0551731"/>
+ <node id="917389558" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:06:12Z" user="MaxM" uid="55730" lat="-34.8804410" lon="-56.0629815"/>
+ <node id="917392453" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:09Z" user="TheNodeWarrior" uid="4759993" lat="-34.8824712" lon="-56.0619493"/>
+ <node id="917395689" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:07:34Z" user="MaxM" uid="55730" lat="-34.8894068" lon="-56.0627464"/>
+ <node id="917403410" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:09:37Z" user="MaxM" uid="55730" lat="-34.8867366" lon="-56.0550297"/>
+ <node id="917409784" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:11:17Z" user="MaxM" uid="55730" lat="-34.8884684" lon="-56.0585835"/>
+ <node id="917414778" visible="true" version="1" changeset="5815134" timestamp="2010-09-18T21:12:43Z" user="MaxM" uid="55730" lat="-34.8884864" lon="-56.0562558"/>
+ <node id="917426171" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:16:39Z" user="MaxM" uid="55730" lat="-34.8890819" lon="-56.0574678"/>
+ <node id="917461933" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:26:36Z" user="MaxM" uid="55730" lat="-34.8881294" lon="-56.0590497"/>
+ <node id="917474418" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:29:36Z" user="MaxM" uid="55730" lat="-34.8885509" lon="-56.0564240"/>
+ <node id="917486880" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T21:33:46Z" user="MaxM" uid="55730" lat="-34.8884266" lon="-56.0543585"/>
+ <node id="917488529" visible="true" version="2" changeset="41600534" timestamp="2016-08-21T19:45:37Z" user="muralito" uid="755114" lat="-34.8882408" lon="-56.0589003"/>
+ <node id="917494138" visible="true" version="2" changeset="43647789" timestamp="2016-11-14T17:27:32Z" user="TheNodeWarrior" uid="4759993" lat="-34.8869803" lon="-56.0564276"/>
+ <node id="917496564" visible="true" version="3" changeset="44194730" timestamp="2016-12-05T22:49:23Z" user="Baconcrisp" uid="3778777" lat="-34.8862374" lon="-56.0585743">
+  <tag k="highway" v="traffic_signals"/>
+  <tag k="traffic_signals" v="signal"/>
+ </node>
+ <node id="917501690" visible="true" version="2" changeset="43648137" timestamp="2016-11-14T17:35:46Z" user="TheNodeWarrior" uid="4759993" lat="-34.8883608" lon="-56.0555807"/>
+ <node id="917506662" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:40:45Z" user="MaxM" uid="55730" lat="-34.8898730" lon="-56.0641542"/>
+ <node id="917512247" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T21:42:52Z" user="MaxM" uid="55730" lat="-34.8922203" lon="-56.0569388"/>
+ <node id="917531478" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:09Z" user="TheNodeWarrior" uid="4759993" lat="-34.8830665" lon="-56.0616393"/>
+ <node id="917540095" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T21:53:05Z" user="MaxM" uid="55730" lat="-34.8887762" lon="-56.0569953"/>
+ <node id="917545516" visible="true" version="2" changeset="43647789" timestamp="2016-11-14T17:27:33Z" user="TheNodeWarrior" uid="4759993" lat="-34.8885785" lon="-56.0540352"/>
+ <node id="917547388" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:57:05Z" user="MaxM" uid="55730" lat="-34.8889690" lon="-56.0615154"/>
+ <node id="917548080" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T21:57:29Z" user="MaxM" uid="55730" lat="-34.8874629" lon="-56.0550836"/>
+ <node id="917553333" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:10Z" user="TheNodeWarrior" uid="4759993" lat="-34.8848629" lon="-56.0607734"/>
+ <node id="917565305" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:03:02Z" user="MaxM" uid="55730" lat="-34.8874511" lon="-56.0576321"/>
+ <node id="917578708" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T22:06:48Z" user="MaxM" uid="55730" lat="-34.8874729" lon="-56.0587022"/>
+ <node id="917582887" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:08:14Z" user="MaxM" uid="55730" lat="-34.8875002" lon="-56.0581507"/>
+ <node id="917589879" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:12:10Z" user="MaxM" uid="55730" lat="-34.8881631" lon="-56.0552623"/>
+ <node id="917591016" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:12:40Z" user="MaxM" uid="55730" lat="-34.8873569" lon="-56.0594436"/>
+ <node id="917590924" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T22:12:36Z" user="MaxM" uid="55730" lat="-34.8883922" lon="-56.0545675"/>
+ <node id="917596048" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T22:15:28Z" user="MaxM" uid="55730" lat="-34.8888905" lon="-56.0571957"/>
+ <node id="917598897" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:16:48Z" user="MaxM" uid="55730" lat="-34.8876976" lon="-56.0551171"/>
+ <node id="917608603" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T22:23:01Z" user="MaxM" uid="55730" lat="-34.8887846" lon="-56.0580765"/>
+ <node id="917606947" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T22:22:13Z" user="MaxM" uid="55730" lat="-34.8872153" lon="-56.0568811"/>
+ <node id="917609896" visible="true" version="2" changeset="17248480" timestamp="2013-08-07T00:10:29Z" user="muralito" uid="755114" lat="-34.8899050" lon="-56.0581462"/>
+ <node id="917624112" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:30:58Z" user="MaxM" uid="55730" lat="-34.8873490" lon="-56.0572564"/>
+ <node id="917624517" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:31:24Z" user="MaxM" uid="55730" lat="-34.8890410" lon="-56.0574149"/>
+ <node id="917665322" visible="true" version="1" changeset="5815922" timestamp="2010-09-18T22:56:58Z" user="MaxM" uid="55730" lat="-34.8889178" lon="-56.0572344"/>
+ <node id="917673785" visible="true" version="2" changeset="17248480" timestamp="2013-08-07T00:10:29Z" user="muralito" uid="755114" lat="-34.8893825" lon="-56.0577872"/>
+ <node id="917677276" visible="true" version="3" changeset="43647789" timestamp="2016-11-14T17:27:33Z" user="TheNodeWarrior" uid="4759993" lat="-34.8903771" lon="-56.0655157"/>
+ <node id="917688551" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:10Z" user="TheNodeWarrior" uid="4759993" lat="-34.8812003" lon="-56.0625956"/>
+ <node id="917689118" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:10:15Z" user="MaxM" uid="55730" lat="-34.8883626" lon="-56.0548216"/>
+ <node id="917707026" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:17:38Z" user="MaxM" uid="55730" lat="-34.8883831" lon="-56.0557255"/>
+ <node id="917716030" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:20:29Z" user="MaxM" uid="55730" lat="-34.8870687" lon="-56.0565723"/>
+ <node id="917719991" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:21:28Z" user="MaxM" uid="55730" lat="-34.8886733" lon="-56.0582638"/>
+ <node id="917717421" visible="true" version="2" changeset="17248480" timestamp="2013-08-07T00:10:29Z" user="muralito" uid="755114" lat="-34.8902032" lon="-56.0582572"/>
+ <node id="917737602" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:30:38Z" user="MaxM" uid="55730" lat="-34.8885212" lon="-56.0601615"/>
+ <node id="917742962" visible="true" version="2" changeset="43647789" timestamp="2016-11-14T17:27:33Z" user="TheNodeWarrior" uid="4759993" lat="-34.8870078" lon="-56.0562728"/>
+ <node id="918873031" visible="true" version="1" changeset="5823299" timestamp="2010-09-19T19:18:36Z" user="richlv" uid="47892" lat="-34.8886638" lon="-56.0575913">
+  <tag k="amenity" v="post_office"/>
+ </node>
+ <node id="918873129" visible="true" version="1" changeset="5823299" timestamp="2010-09-19T19:18:39Z" user="richlv" uid="47892" lat="-34.8890629" lon="-56.0569952">
+  <tag k="amenity" v="telephone"/>
+ </node>
+ <node id="918873085" visible="true" version="3" changeset="44294584" timestamp="2016-12-09T23:51:00Z" user="Baconcrisp" uid="3778777" lat="-34.8888804" lon="-56.0569697">
+  <tag k="amenity" v="dentist"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <node id="944121194" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T20:10:02Z" user="xybot" uid="70696" lat="-34.8887258" lon="-56.0586401">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1622,1642"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="64045"/>
+ </node>
+ <node id="944215875" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T22:13:10Z" user="xybot" uid="70696" lat="-34.8889611" lon="-56.0587427">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1627,1641"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="96906"/>
+ </node>
+ <node id="944054966" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T18:42:26Z" user="xybot" uid="70696" lat="-34.8882650" lon="-56.0590947">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1643,1649"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="96901"/>
+ </node>
+ <node id="944054970" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T18:42:27Z" user="xybot" uid="70696" lat="-34.8891929" lon="-56.0584056">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1628"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="64048"/>
+ </node>
+ <node id="944087417" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T19:21:30Z" user="xybot" uid="70696" lat="-34.8891240" lon="-56.0576588">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6437"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="64052"/>
+ </node>
+ <node id="944546778" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T22:21:48Z" user="xybot" uid="70696" lat="-34.8881241" lon="-56.0577872">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1631,1633,1635"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63973"/>
+ </node>
+ <node id="944118672" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T20:05:50Z" user="xybot" uid="70696" lat="-34.8885743" lon="-56.0582841">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1624"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="63980"/>
+ </node>
+ <node id="944537649" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T21:53:45Z" user="xybot" uid="70696" lat="-34.8893366" lon="-56.0583349">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1614,1618"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="64049"/>
+ </node>
+ <node id="944543191" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T22:11:38Z" user="xybot" uid="70696" lat="-34.8885194" lon="-56.0575946">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1615,1617"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="422398"/>
+ </node>
+ <node id="944133116" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T20:24:40Z" user="xybot" uid="70696" lat="-34.8883846" lon="-56.0576598">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1627,1629,1631,1631 BIS"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63975"/>
+ </node>
+ <node id="944141289" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T20:44:51Z" user="xybot" uid="70696" lat="-34.8885838" lon="-56.0589338">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1637,1639"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="96903"/>
+ </node>
+ <node id="944146458" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T20:54:34Z" user="xybot" uid="70696" lat="-34.8885976" lon="-56.0572244">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1604"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63992"/>
+ </node>
+ <node id="944155231" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T21:03:10Z" user="xybot" uid="70696" lat="-34.8883448" lon="-56.0560112">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6495"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="63998"/>
+ </node>
+ <node id="944179590" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T21:36:30Z" user="xybot" uid="70696" lat="-34.8875822" lon="-56.0582551">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6444,6446"/>
+  <tag k="addr:street" v="Doctor Alejandro Schroeder"/>
+  <tag k="mvdgis:cod_nombre" v="6450"/>
+  <tag k="mvdgis:padron" v="63969"/>
+ </node>
+ <node id="944204410" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T22:02:50Z" user="xybot" uid="70696" lat="-34.8883023" lon="-56.0557730">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6499"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="63999"/>
+ </node>
+ <node id="944255714" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T22:40:10Z" user="xybot" uid="70696" lat="-34.8881127" lon="-56.0574741">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1626,1628,1630"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63989"/>
+ </node>
+ <node id="944319689" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T23:29:26Z" user="xybot" uid="70696" lat="-34.8886522" lon="-56.0555460">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1593"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64113"/>
+ </node>
+ <node id="944328779" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T23:40:18Z" user="xybot" uid="70696" lat="-34.8887053" lon="-56.0565700">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6462,6468"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="64110"/>
+ </node>
+ <node id="944341827" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T23:51:51Z" user="xybot" uid="70696" lat="-34.8885392" lon="-56.0560808">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6492"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="64133"/>
+ </node>
+ <node id="944739895" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T23:56:33Z" user="xybot" uid="70696" lat="-34.8893338" lon="-56.0585559">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1617,1619,1621,1635"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="96908"/>
+ </node>
+ <node id="944753754" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T00:57:19Z" user="xybot" uid="70696" lat="-34.8877495" lon="-56.0560009">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1623"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64002"/>
+ </node>
+ <node id="944755156" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T01:06:38Z" user="xybot" uid="70696" lat="-34.8882588" lon="-56.0577221">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1625,1627,1629"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63974"/>
+ </node>
+ <node id="944757387" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T01:19:57Z" user="xybot" uid="70696" lat="-34.8886541" lon="-56.0575295">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1607,1609,1611"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63977"/>
+ </node>
+ <node id="944757906" visible="true" version="4" changeset="40846519" timestamp="2016-07-19T02:14:11Z" user="muralito" uid="755114" lat="-34.8887780" lon="-56.0554809">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1589"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64114"/>
+ </node>
+ <node id="944760760" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T01:47:16Z" user="xybot" uid="70696" lat="-34.8887523" lon="-56.0579859">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1614"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="171474"/>
+ </node>
+ <node id="944761836" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T01:56:14Z" user="xybot" uid="70696" lat="-34.8889018" lon="-56.0563352">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1583,1587,1587 A,1587 B"/>
+  <tag k="addr:street" v="Rostand"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="mvdgis:padron" v="64109"/>
+ </node>
+ <node id="944769934" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T02:52:22Z" user="xybot" uid="70696" lat="-34.8891475" lon="-56.0560417">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1582,1584,1586"/>
+  <tag k="addr:street" v="Rostand"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="mvdgis:padron" v="64128"/>
+ </node>
+ <node id="944773028" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T03:20:11Z" user="xybot" uid="70696" lat="-34.8878636" lon="-56.0579133">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1643"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63983"/>
+ </node>
+ <node id="944778604" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T04:04:17Z" user="xybot" uid="70696" lat="-34.8885455" lon="-56.0586353">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1639"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="64045"/>
+ </node>
+ <node id="944780471" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T04:18:25Z" user="xybot" uid="70696" lat="-34.8889190" lon="-56.0585442">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1638"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="64046"/>
+ </node>
+ <node id="944795781" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T04:44:17Z" user="xybot" uid="70696" lat="-34.8887889" lon="-56.0574636">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1601,1605"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63978"/>
+ </node>
+ <node id="944833824" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T07:34:37Z" user="xybot" uid="70696" lat="-34.8877389" lon="-56.0557883">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1616"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64021"/>
+ </node>
+ <node id="944840179" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T08:20:33Z" user="xybot" uid="70696" lat="-34.8878843" lon="-56.0559310">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1621"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64001"/>
+ </node>
+ <node id="944845885" visible="true" version="3" changeset="42079057" timestamp="2016-09-11T13:33:55Z" user="Tomgacami" uid="4529058" lat="-34.8887594" lon="-56.0583107">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1619"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="64054"/>
+  <tag k="name" v="Juan perez second hand"/>
+  <tag k="name:es" v="Juan perez second hand"/>
+ </node>
+ <node id="944352527" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T18:24:25Z" user="xybot" uid="70696" lat="-34.8876148" lon="-56.0560695">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1627,1629"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64003"/>
+ </node>
+ <node id="944372852" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T18:40:29Z" user="xybot" uid="70696" lat="-34.8874756" lon="-56.0561401">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1631"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="408123"/>
+ </node>
+ <node id="944378967" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T18:47:10Z" user="xybot" uid="70696" lat="-34.8883333" lon="-56.0586063">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1630"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="63982"/>
+ </node>
+ <node id="944496606" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T20:10:58Z" user="xybot" uid="70696" lat="-34.8879102" lon="-56.0592814">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1671,1673"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="96916"/>
+ </node>
+ <node id="944499274" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T20:17:30Z" user="xybot" uid="70696" lat="-34.8889814" lon="-56.0561277">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1588,1590"/>
+  <tag k="addr:street" v="Rostand"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="mvdgis:padron" v="64130"/>
+ </node>
+ <node id="944516708" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T20:55:31Z" user="xybot" uid="70696" lat="-34.8890851" lon="-56.0584595">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1630"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="179984"/>
+ </node>
+ <node id="944526237" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T21:21:51Z" user="xybot" uid="70696" lat="-34.8878094" lon="-56.0590719">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1688"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="63985"/>
+ </node>
+ <node id="944538797" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T21:57:13Z" user="xybot" uid="70696" lat="-34.8884011" lon="-56.0562951">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6491"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="63997"/>
+ </node>
+ <node id="944542575" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T22:07:57Z" user="xybot" uid="70696" lat="-34.8890133" lon="-56.0584959">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1632"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="64047"/>
+ </node>
+ <node id="945470624" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T21:35:55Z" user="xybot" uid="70696" lat="-34.8887051" lon="-56.0588722">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1631,1635"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="96904"/>
+ </node>
+ <node id="944563797" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T22:49:37Z" user="xybot" uid="70696" lat="-34.8876905" lon="-56.0576937">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1650"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63986"/>
+ </node>
+ <node id="944577838" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T23:28:14Z" user="xybot" uid="70696" lat="-34.8891142" lon="-56.0569784">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1596,1596 BIS"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="64090"/>
+ </node>
+ <node id="944756970" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T01:16:58Z" user="xybot" uid="70696" lat="-34.8874434" lon="-56.0572232">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6472"/>
+  <tag k="addr:street" v="Doctor Alejandro Schroeder"/>
+  <tag k="mvdgis:cod_nombre" v="6450"/>
+  <tag k="mvdgis:padron" v="64010"/>
+ </node>
+ <node id="944761428" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T01:52:53Z" user="xybot" uid="70696" lat="-34.8888511" lon="-56.0561928">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1594"/>
+  <tag k="addr:street" v="Rostand"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="mvdgis:padron" v="64132"/>
+ </node>
+ <node id="944767349" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T02:29:25Z" user="xybot" uid="70696" lat="-34.8879734" lon="-56.0575448">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1632"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63988"/>
+ </node>
+ <node id="944779482" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T04:10:20Z" user="xybot" uid="70696" lat="-34.8893092" lon="-56.0559571">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1572,1574"/>
+  <tag k="addr:street" v="Rostand"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="mvdgis:padron" v="64126"/>
+ </node>
+ <node id="944802123" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T05:00:06Z" user="xybot" uid="70696" lat="-34.8878612" lon="-56.0576028">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1640"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63987"/>
+ </node>
+ <node id="944802809" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T05:07:33Z" user="xybot" uid="70696" lat="-34.8893649" lon="-56.0579112">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6433"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="64051"/>
+ </node>
+ <node id="944807140" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T05:41:41Z" user="xybot" uid="70696" lat="-34.8875763" lon="-56.0592428">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1692"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="63966"/>
+ </node>
+ <node id="944812625" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T06:15:10Z" user="xybot" uid="70696" lat="-34.8891771" lon="-56.0569449">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1594"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="401074"/>
+ </node>
+ <node id="944834586" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T07:39:47Z" user="xybot" uid="70696" lat="-34.8887212" lon="-56.0580471">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1620"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="422398"/>
+ </node>
+ <node id="944835219" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T07:44:40Z" user="xybot" uid="70696" lat="-34.8890244" lon="-56.0570239">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1598,1600"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="64089"/>
+ </node>
+ <node id="944836603" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T07:56:19Z" user="xybot" uid="70696" lat="-34.8893150" lon="-56.0561198">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1571 BIS"/>
+  <tag k="addr:street" v="Rostand"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="mvdgis:padron" v="64104"/>
+ </node>
+ <node id="944836680" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T07:56:40Z" user="xybot" uid="70696" lat="-34.8882563" lon="-56.0573993">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1624"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63990"/>
+ </node>
+ <node id="944843848" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T08:46:33Z" user="xybot" uid="70696" lat="-34.8888155" lon="-56.0568279">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6454,6456,6458"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="64089"/>
+ </node>
+ <node id="945408632" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T18:23:52Z" user="xybot" uid="70696" lat="-34.8875588" lon="-56.0587300">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6428,6428 BIS"/>
+  <tag k="addr:street" v="Doctor Alejandro Schroeder"/>
+  <tag k="mvdgis:cod_nombre" v="6450"/>
+  <tag k="mvdgis:padron" v="63967"/>
+ </node>
+ <node id="945420230" visible="true" version="3" changeset="44214497" timestamp="2016-12-06T17:00:05Z" user="Baconcrisp" uid="3778777" lat="-34.8892843" lon="-56.0569243">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1588,1590"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="64091"/>
+ </node>
+ <node id="945426176" visible="true" version="3" changeset="31150342" timestamp="2015-05-14T18:33:51Z" user="muralito" uid="755114" lat="-34.8881037" lon="-56.0592258">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6375"/>
+  <tag k="addr:street" v="Esteban A. Elena"/>
+  <tag k="mvdgis:cod_nombre" v="2610"/>
+  <tag k="mvdgis:padron" v="96917"/>
+ </node>
+ <node id="945429087" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T19:18:34Z" user="xybot" uid="70696" lat="-34.8874481" lon="-56.0572471">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6468"/>
+  <tag k="addr:street" v="Doctor Alejandro Schroeder"/>
+  <tag k="mvdgis:cod_nombre" v="6450"/>
+  <tag k="mvdgis:padron" v="64011"/>
+ </node>
+ <node id="945442937" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T20:04:54Z" user="xybot" uid="70696" lat="-34.8891937" lon="-56.0561848">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1573,1575"/>
+  <tag k="addr:street" v="Rostand"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="mvdgis:padron" v="64105"/>
+ </node>
+ <node id="945446334" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T20:10:21Z" user="xybot" uid="70696" lat="-34.8884001" lon="-56.0573258">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1612,1616,1630"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63995"/>
+ </node>
+ <node id="945448468" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T20:16:36Z" user="xybot" uid="70696" lat="-34.8893309" lon="-56.0575970">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6438,6450"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="64073"/>
+ </node>
+ <node id="945450893" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T20:20:16Z" user="xybot" uid="70696" lat="-34.8888308" lon="-56.0588092">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1629,1645,1629 BIS"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="96905"/>
+ </node>
+ <node id="945455979" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T20:26:26Z" user="xybot" uid="70696" lat="-34.8884851" lon="-56.0584096">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1628"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="63981"/>
+ </node>
+ <node id="945457224" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T20:29:57Z" user="xybot" uid="70696" lat="-34.8891048" lon="-56.0586720">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1623,1625,1639"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="96907"/>
+ </node>
+ <node id="945462172" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T20:44:25Z" user="xybot" uid="70696" lat="-34.8877110" lon="-56.0580033">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1649"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63969"/>
+ </node>
+ <node id="945469287" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T21:24:41Z" user="xybot" uid="70696" lat="-34.8884104" lon="-56.0563312">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6475"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="63995"/>
+ </node>
+ <node id="945513122" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T21:39:20Z" user="xybot" uid="70696" lat="-34.8893411" lon="-56.0571619">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1587,1591"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="64073"/>
+ </node>
+ <node id="945523580" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T22:39:15Z" user="xybot" uid="70696" lat="-34.8893673" lon="-56.0576328">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6428,6430"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="64074"/>
+ </node>
+ <node id="945520975" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T22:20:02Z" user="xybot" uid="70696" lat="-34.8878294" lon="-56.0593240">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1679,1681"/>
+  <tag k="addr:street" v="Divina Comedia"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="mvdgis:padron" v="96913"/>
+ </node>
+ <node id="945534775" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T23:58:10Z" user="xybot" uid="70696" lat="-34.8879993" lon="-56.0556520">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1606,1608"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64023"/>
+ </node>
+ <node id="945527891" visible="true" version="3" changeset="42079057" timestamp="2016-09-11T13:33:57Z" user="Tomgacami" uid="4529058" lat="-34.8889282" lon="-56.0579942">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1611"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="158659"/>
+  <tag k="name" v="La tienda de la esquina second hand"/>
+  <tag k="name:es" v="La tienda de la esquina second hand"/>
+ </node>
+ <node id="945531008" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T23:30:29Z" user="xybot" uid="70696" lat="-34.8874740" lon="-56.0559274">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1634"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64019"/>
+ </node>
+ <node id="945533531" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T23:49:48Z" user="xybot" uid="70696" lat="-34.8879849" lon="-56.0578551">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1637,1639"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="mvdgis:padron" v="63972"/>
+ </node>
+ <node id="945534334" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T23:54:13Z" user="xybot" uid="70696" lat="-34.8885400" lon="-56.0556040">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1597"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64112"/>
+ </node>
+ <node id="945542083" visible="true" version="2" changeset="6023420" timestamp="2010-10-13T03:04:02Z" user="xybot" uid="70696" lat="-34.8891462" lon="-56.0552880">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1571"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64117"/>
+ </node>
+ <node id="945546007" visible="true" version="2" changeset="6023420" timestamp="2010-10-13T04:40:45Z" user="xybot" uid="70696" lat="-34.8890276" lon="-56.0562708">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1577"/>
+  <tag k="addr:street" v="Rostand"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="mvdgis:padron" v="64107"/>
+ </node>
+ <node id="945562774" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T07:13:18Z" user="xybot" uid="70696" lat="-34.8875631" lon="-56.0586985">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6436"/>
+  <tag k="addr:street" v="Doctor Alejandro Schroeder"/>
+  <tag k="mvdgis:cod_nombre" v="6450"/>
+  <tag k="mvdgis:padron" v="63983"/>
+ </node>
+ <node id="945563073" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T07:16:21Z" user="xybot" uid="70696" lat="-34.8876087" lon="-56.0558575">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1630"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64020"/>
+ </node>
+ <node id="945566151" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T07:42:07Z" user="xybot" uid="70696" lat="-34.8888572" lon="-56.0581372">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1615"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="64053"/>
+ </node>
+ <node id="945576171" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T09:07:43Z" user="xybot" uid="70696" lat="-34.8878107" lon="-56.0557512">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1610"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64022"/>
+ </node>
+ <node id="945576524" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T09:11:08Z" user="xybot" uid="70696" lat="-34.8888410" lon="-56.0577872">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1604"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="63978"/>
+ </node>
+ <node id="945582650" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T09:57:26Z" user="xybot" uid="70696" lat="-34.8875039" lon="-56.0574619">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6464"/>
+  <tag k="addr:street" v="Doctor Alejandro Schroeder"/>
+  <tag k="mvdgis:cod_nombre" v="6450"/>
+  <tag k="mvdgis:padron" v="153309"/>
+ </node>
+ <node id="945592408" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T10:58:04Z" user="xybot" uid="70696" lat="-34.8880055" lon="-56.0558694">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1619"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64000"/>
+ </node>
+ <node id="945598030" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T11:32:29Z" user="xybot" uid="70696" lat="-34.8889621" lon="-56.0553838">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1585"/>
+  <tag k="addr:street" v="Costa Rica"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="mvdgis:padron" v="64115"/>
+ </node>
+ <node id="945600381" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T11:47:50Z" user="xybot" uid="70696" lat="-34.8882274" lon="-56.0554093">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1603"/>
+  <tag k="addr:street" v="Saint Gobain"/>
+  <tag k="mvdgis:cod_nombre" v="3027"/>
+  <tag k="mvdgis:padron" v="64024"/>
+ </node>
+ <node id="945601581" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T11:59:29Z" user="xybot" uid="70696" lat="-34.8885251" lon="-56.0560153">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6494"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="mvdgis:padron" v="64134"/>
+ </node>
+ <node id="945608878" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T12:53:36Z" user="xybot" uid="70696" lat="-34.8888305" lon="-56.0581854">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1625"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="mvdgis:padron" v="166174"/>
+ </node>
+ <node id="945608377" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T12:48:26Z" user="xybot" uid="70696" lat="-34.8875368" lon="-56.0576339">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6452,6454,6458,6462"/>
+  <tag k="addr:street" v="Doctor Alejandro Schroeder"/>
+  <tag k="mvdgis:cod_nombre" v="6450"/>
+  <tag k="mvdgis:padron" v="63986"/>
+ </node>
+ <node id="962187461" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:11Z" user="TheNodeWarrior" uid="4759993" lat="-34.8849302" lon="-56.0607415"/>
+ <node id="962188912" visible="true" version="1" changeset="6151446" timestamp="2010-10-23T20:45:54Z" user="richlv" uid="47892" lat="-34.8881644" lon="-56.0591492"/>
+ <node id="917489547" visible="true" version="2" changeset="15983460" timestamp="2013-05-05T11:55:05Z" user="muralito" uid="755114" lat="-34.8866626" lon="-56.0597955"/>
+ <node id="917321288" visible="true" version="2" changeset="15983460" timestamp="2013-05-05T11:55:03Z" user="muralito" uid="755114" lat="-34.8868587" lon="-56.0603762"/>
+ <node id="918873212" visible="true" version="4" changeset="44294584" timestamp="2016-12-09T23:50:32Z" user="Baconcrisp" uid="3778777" lat="-34.8890459" lon="-56.0568652">
+  <tag k="amenity" v="bank"/>
+  <tag k="atm" v="yes"/>
+  <tag k="name" v="Banco Comercial"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <node id="1454559737" visible="true" version="2" changeset="44213774" timestamp="2016-12-06T16:26:33Z" user="Baconcrisp" uid="3778777" lat="-34.8877192" lon="-56.0581019"/>
+ <node id="1454559729" visible="true" version="2" changeset="44213774" timestamp="2016-12-06T16:26:33Z" user="Baconcrisp" uid="3778777" lat="-34.8879156" lon="-56.0579868"/>
+ <node id="1454559732" visible="true" version="2" changeset="44213774" timestamp="2016-12-06T16:26:33Z" user="Baconcrisp" uid="3778777" lat="-34.8877506" lon="-56.0581816"/>
+ <node id="1454559731" visible="true" version="2" changeset="44213774" timestamp="2016-12-06T16:26:33Z" user="Baconcrisp" uid="3778777" lat="-34.8876644" lon="-56.0583093"/>
+ <node id="1454559741" visible="true" version="2" changeset="44213774" timestamp="2016-12-06T16:26:33Z" user="Baconcrisp" uid="3778777" lat="-34.8876872" lon="-56.0584744"/>
+ <node id="1454559740" visible="true" version="2" changeset="44213774" timestamp="2016-12-06T16:26:34Z" user="Baconcrisp" uid="3778777" lat="-34.8880570" lon="-56.0587145"/>
+ <node id="918872949" visible="true" version="4" changeset="13062711" timestamp="2012-09-10T21:23:20Z" user="muralito" uid="755114" lat="-34.8891146" lon="-56.0577025">
+  <tag k="addr:housenumber" v="6437"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="atm" v="yes"/>
+  <tag k="name" v="Itaú Carrasco"/>
+  <tag k="operator" v="Itaú"/>
+  <tag k="phone" v="2601 6425"/>
+ </node>
+ <node id="918872993" visible="true" version="7" changeset="25370395" timestamp="2014-09-11T15:14:35Z" user="muralito" uid="755114" lat="-34.8880071" lon="-56.0579026">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1637"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="name" v="BROU Agencia CARRASCO"/>
+  <tag k="opening_hours" v="Mo-Fr 13:00-18:00"/>
+  <tag k="operator" v="Banco República"/>
+  <tag k="phone" v="2604 1793"/>
+ </node>
+ <node id="1454558816" visible="true" version="5" changeset="25372842" timestamp="2014-09-11T17:19:20Z" user="muralito" uid="755114" lat="-34.8886449" lon="-56.0570990">
+  <tag k="amenity" v="atm"/>
+  <tag k="currency:USD" v="yes"/>
+  <tag k="currency:UYU" v="yes"/>
+  <tag k="network" v="RedBROU"/>
+  <tag k="operator" v="Banco República"/>
+ </node>
+ <node id="2077414707" visible="true" version="2" changeset="17479074" timestamp="2013-08-24T04:11:57Z" user="muralito" uid="755114" lat="-34.8891696" lon="-56.0578144">
+  <tag k="amenity" v="atm"/>
+  <tag k="network" v="Banred"/>
+ </node>
+ <node id="2153311299" visible="true" version="1" changeset="15019258" timestamp="2013-02-13T15:31:31Z" user="muralito" uid="755114" lat="-34.8887075" lon="-56.0568963">
+  <tag k="mvdgis:cod_varian" v="3272"/>
+  <tag k="mvdgis:desc_linea" v="306"/>
+  <tag k="mvdgis:ordinal" v="14"/>
+  <tag k="mvdgis:source" v="v_uptu"/>
+  <tag k="network" v="STM"/>
+  <tag k="public_transport" v="platform"/>
+  <tag k="source" v="mvdgis"/>
+  <tag k="source:pkey" v="3291"/>
+ </node>
+ <node id="2153311373" visible="true" version="1" changeset="15019258" timestamp="2013-02-13T15:31:32Z" user="muralito" uid="755114" lat="-34.8890190" lon="-56.0570901">
+  <tag k="bus" v="yes"/>
+  <tag k="mvdgis:cod_varian" v="1529"/>
+  <tag k="mvdgis:desc_linea" v="D1"/>
+  <tag k="mvdgis:ordinal" v="30"/>
+  <tag k="mvdgis:source" v="v_uptu"/>
+  <tag k="network" v="STM"/>
+  <tag k="public_transport" v="platform"/>
+  <tag k="shelter" v="yes"/>
+  <tag k="source" v="mvdgis"/>
+  <tag k="source:pkey" v="3331"/>
+ </node>
+ <node id="2153311422" visible="true" version="1" changeset="15019258" timestamp="2013-02-13T15:31:32Z" user="muralito" uid="755114" lat="-34.8891582" lon="-56.0574970">
+  <tag k="bench" v="yes"/>
+  <tag k="bus" v="yes"/>
+  <tag k="mvdgis:cod_varian" v="3122"/>
+  <tag k="mvdgis:desc_linea" v="306"/>
+  <tag k="mvdgis:ordinal" v="111"/>
+  <tag k="mvdgis:source" v="v_uptu"/>
+  <tag k="network" v="STM"/>
+  <tag k="public_transport" v="platform"/>
+  <tag k="shelter" v="yes"/>
+  <tag k="source" v="mvdgis"/>
+  <tag k="source:pkey" v="3292"/>
+ </node>
+ <node id="2409361215" visible="true" version="1" changeset="17248480" timestamp="2013-08-07T00:10:00Z" user="muralito" uid="755114" lat="-34.8896460" lon="-56.0580058"/>
+ <node id="918872881" visible="true" version="2" changeset="17248480" timestamp="2013-08-07T00:10:22Z" user="muralito" uid="755114" lat="-34.8893239" lon="-56.0575136">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6438"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Dackel"/>
+ </node>
+ <node id="917582470" visible="true" version="4" changeset="43647789" timestamp="2016-11-14T17:27:33Z" user="TheNodeWarrior" uid="4759993" lat="-34.8901683" lon="-56.0580065"/>
+ <node id="918873055" visible="true" version="5" changeset="21367573" timestamp="2014-03-28T15:32:55Z" user="muralito" uid="755114" lat="-34.8887069" lon="-56.0575605">
+  <tag k="amenity" v="ice_cream"/>
+  <tag k="name" v="Freddo"/>
+ </node>
+ <node id="3071001094" visible="true" version="2" changeset="25370395" timestamp="2014-09-11T15:14:36Z" user="muralito" uid="755114" lat="-34.8880153" lon="-56.0578566">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1637"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="amenity" v="atm"/>
+  <tag k="network" v="RedBROU"/>
+  <tag k="operator" v="Banco República"/>
+ </node>
+ <node id="3509468867" visible="true" version="1" changeset="30981058" timestamp="2015-05-11T04:21:06Z" user="muralito" uid="755114" lat="-34.8896401" lon="-56.0549667"/>
+ <node id="3509468876" visible="true" version="1" changeset="30981058" timestamp="2015-05-11T04:21:06Z" user="muralito" uid="755114" lat="-34.8898840" lon="-56.0557727"/>
+ <node id="3509468879" visible="true" version="1" changeset="30981058" timestamp="2015-05-11T04:21:06Z" user="muralito" uid="755114" lat="-34.8899186" lon="-56.0557288"/>
+ <node id="3509468880" visible="true" version="1" changeset="30981058" timestamp="2015-05-11T04:21:06Z" user="muralito" uid="755114" lat="-34.8899256" lon="-56.0555922"/>
+ <node id="3509468882" visible="true" version="1" changeset="30981058" timestamp="2015-05-11T04:21:06Z" user="muralito" uid="755114" lat="-34.8899291" lon="-56.0556487"/>
+ <node id="3509468883" visible="true" version="1" changeset="30981058" timestamp="2015-05-11T04:21:07Z" user="muralito" uid="755114" lat="-34.8899633" lon="-56.0555068"/>
+ <node id="3509468886" visible="true" version="1" changeset="30981058" timestamp="2015-05-11T04:21:07Z" user="muralito" uid="755114" lat="-34.8901964" lon="-56.0566106"/>
+ <node id="917426050" visible="true" version="2" changeset="30981058" timestamp="2015-05-11T04:21:55Z" user="muralito" uid="755114" lat="-34.8894561" lon="-56.0550529"/>
+ <node id="917442316" visible="true" version="2" changeset="30981058" timestamp="2015-05-11T04:21:55Z" user="muralito" uid="755114" lat="-34.8901233" lon="-56.0553695"/>
+ <node id="917610050" visible="true" version="3" changeset="30981058" timestamp="2015-05-11T04:21:55Z" user="muralito" uid="755114" lat="-34.8901162" lon="-56.0566410"/>
+ <node id="945559165" visible="true" version="3" changeset="31150342" timestamp="2015-05-14T18:33:51Z" user="muralito" uid="755114" lat="-34.8883121" lon="-56.0593602">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6378"/>
+  <tag k="addr:street" v="Esteban A. Elena"/>
+  <tag k="mvdgis:cod_nombre" v="2610"/>
+  <tag k="mvdgis:padron" v="96901"/>
+ </node>
+ <node id="4360517537" visible="true" version="1" changeset="41600534" timestamp="2016-08-21T19:45:33Z" user="muralito" uid="755114" lat="-34.8883069" lon="-56.0585546">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1630"/>
+  <tag k="addr:street" v="Cambara"/>
+  <tag k="name" v="Nelson Sobrero"/>
+  <tag k="opening_hours" v="Mo-Fr 09:30-12:30; Mo-Fr 14:30-19:30; Sa 10:00-14:00"/>
+  <tag k="phone" v="+598 2601 3528"/>
+  <tag k="shop" v="electronics"/>
+ </node>
+ <node id="4360517544" visible="true" version="1" changeset="41600534" timestamp="2016-08-21T19:45:33Z" user="muralito" uid="755114" lat="-34.8869951" lon="-56.0601626"/>
+ <node id="4360517545" visible="true" version="1" changeset="41600534" timestamp="2016-08-21T19:45:33Z" user="muralito" uid="755114" lat="-34.8871689" lon="-56.0598568"/>
+ <node id="4360517546" visible="true" version="1" changeset="41600534" timestamp="2016-08-21T19:45:33Z" user="muralito" uid="755114" lat="-34.8874351" lon="-56.0590589"/>
+ <node id="4424877984" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8883472" lon="-56.0567548"/>
+ <node id="4424877985" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8884544" lon="-56.0572727"/>
+ <node id="4424877986" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8884893" lon="-56.0570526"/>
+ <node id="4424877987" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8885197" lon="-56.0572381"/>
+ <node id="4424877988" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8885260" lon="-56.0571491"/>
+ <node id="4424878389" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8885535" lon="-56.0571336"/>
+ <node id="4424878390" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8885843" lon="-56.0572144"/>
+ <node id="4424878391" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8886196" lon="-56.0569790"/>
+ <node id="4424878392" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8886278" lon="-56.0570916"/>
+ <node id="4424878393" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8886563" lon="-56.0570755"/>
+ <node id="4424878394" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8886585" lon="-56.0571725"/>
+ <node id="1909125960" visible="true" version="2" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8882819" lon="-56.0567894"/>
+ <node id="1909125963" visible="true" version="2" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8884762" lon="-56.0573293"/>
+ <node id="1909125965" visible="true" version="2" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8885612" lon="-56.0566533"/>
+ <node id="1909125966" visible="true" version="2" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114" lat="-34.8887281" lon="-56.0571870"/>
+ <node id="1909125967" visible="true" version="2" changeset="42540015" timestamp="2016-09-30T11:37:42Z" user="muralito" uid="755114" lat="-34.8887472" lon="-56.0571090"/>
+ <node id="4424877983" visible="true" version="4" changeset="44294584" timestamp="2016-12-09T23:50:42Z" user="Baconcrisp" uid="3778777" lat="-34.8886102" lon="-56.0571472">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1604"/>
+  <tag k="addr:state" v="Montevideo"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="amenity" v="fuel"/>
+  <tag k="brand" v="ANCAP"/>
+  <tag k="operator" v="Arocena SRL"/>
+  <tag k="phone" v="+598 2600 1922"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+  <tag k="ursea:cod_estacion" v="313"/>
+ </node>
+ <node id="917426228" visible="true" version="3" changeset="43647789" timestamp="2016-11-14T17:27:32Z" user="TheNodeWarrior" uid="4759993" lat="-34.8875035" lon="-56.0579406"/>
+ <node id="917440190" visible="true" version="2" changeset="43648137" timestamp="2016-11-14T17:35:46Z" user="TheNodeWarrior" uid="4759993" lat="-34.8883492" lon="-56.0553650"/>
+ <node id="921980044" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:11Z" user="TheNodeWarrior" uid="4759993" lat="-34.8801299" lon="-56.0631506"/>
+ <node id="4360517541" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:11Z" user="TheNodeWarrior" uid="4759993" lat="-34.8847592" lon="-56.0608225">
+  <tag k="traffic_calming" v="bump"/>
+ </node>
+ <node id="4360517543" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:11Z" user="TheNodeWarrior" uid="4759993" lat="-34.8850702" lon="-56.0606753">
+  <tag k="traffic_calming" v="bump"/>
+ </node>
+ <node id="4541567725" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8894932" lon="-56.0572090"/>
+ <node id="4541567729" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8895423" lon="-56.0573613"/>
+ <node id="4541567730" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8894708" lon="-56.0571398"/>
+ <node id="4541567731" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8893226" lon="-56.0572108"/>
+ <node id="4541567732" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8893428" lon="-56.0572732"/>
+ <node id="4541567733" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8893998" lon="-56.0572456"/>
+ <node id="4541567734" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8894517" lon="-56.0574047"/>
+ <node id="4541567735" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8894442" lon="-56.0574496"/>
+ <node id="4541567736" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8893557" lon="-56.0575662"/>
+ <node id="4541567737" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8892266" lon="-56.0574205"/>
+ <node id="4541567738" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8892322" lon="-56.0573280"/>
+ <node id="4541567740" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8889458" lon="-56.0575454"/>
+ <node id="4541567741" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8889472" lon="-56.0575078"/>
+ <node id="4541567742" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8889359" lon="-56.0574752"/>
+ <node id="4541567743" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8889135" lon="-56.0574513"/>
+ <node id="4541567744" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8888685" lon="-56.0574427"/>
+ <node id="4541567745" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8887116" lon="-56.0575308"/>
+ <node id="4541567746" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8888334" lon="-56.0578535"/>
+ <node id="4541567747" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8887330" lon="-56.0575834"/>
+ <node id="4541567748" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8887767" lon="-56.0577112"/>
+ <node id="4541567749" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8886508" lon="-56.0577751"/>
+ <node id="4541567750" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8886071" lon="-56.0576473"/>
+ <node id="4541567751" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8883449" lon="-56.0578161"/>
+ <node id="4541567752" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8884823" lon="-56.0577496"/>
+ <node id="4541567753" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8885478" lon="-56.0579412"/>
+ <node id="4541567754" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8884089" lon="-56.0580119"/>
+ <node id="4541567755" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8883927" lon="-56.0579683"/>
+ <node id="4541567756" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8882866" lon="-56.0580179"/>
+ <node id="4541567757" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8882388" lon="-56.0578657"/>
+ <node id="4541567758" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8880597" lon="-56.0579261"/>
+ <node id="4541567759" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8881721" lon="-56.0578730"/>
+ <node id="4541567760" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8882171" lon="-56.0580144"/>
+ <node id="4541567761" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8882185" lon="-56.0580401"/>
+ <node id="4541567762" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8881946" lon="-56.0580829"/>
+ <node id="4541567763" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8881207" lon="-56.0581178"/>
+ <node id="4541567764" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8880210" lon="-56.0582188"/>
+ <node id="4541567765" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8881174" lon="-56.0581762"/>
+ <node id="4541567766" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8880527" lon="-56.0579583"/>
+ <node id="4541567767" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:32Z" user="Baconcrisp" uid="3778777" lat="-34.8879562" lon="-56.0580009"/>
+ <node id="2749825610" visible="true" version="2" changeset="44213774" timestamp="2016-12-06T16:26:34Z" user="Baconcrisp" uid="3778777" lat="-34.8879058" lon="-56.0583424"/>
+ <node id="1454559738" visible="true" version="2" changeset="44213774" timestamp="2016-12-06T16:26:34Z" user="Baconcrisp" uid="3778777" lat="-34.8881773" lon="-56.0586419"/>
+ <node id="4541622582" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8895398" lon="-56.0566821"/>
+ <node id="4541622585" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8894966" lon="-56.0565365"/>
+ <node id="4541622586" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8894705" lon="-56.0564465"/>
+ <node id="4541622587" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8893600" lon="-56.0564941"/>
+ <node id="4541622588" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8894372" lon="-56.0567610"/>
+ <node id="4541627489" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8895488" lon="-56.0567130"/>
+ <node id="4541627490" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8891825" lon="-56.0569048"/>
+ <node id="4541627491" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8893001" lon="-56.0568541"/>
+ <node id="4541627492" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8892138" lon="-56.0565637"/>
+ <node id="4541627493" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8890975" lon="-56.0566151"/>
+ <node id="4541627494" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8891348" lon="-56.0567481"/>
+ <node id="4541627495" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8890538" lon="-56.0567847"/>
+ <node id="4541627496" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8891016" lon="-56.0569415"/>
+ <node id="4541627497" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8889529" lon="-56.0570125"/>
+ <node id="4541627498" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8890499" lon="-56.0569669"/>
+ <node id="4541627499" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8889956" lon="-56.0567954"/>
+ <node id="4541627500" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8888986" lon="-56.0568410"/>
+ <node id="4541627502" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8880192" lon="-56.0574869"/>
+ <node id="4541627503" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8881362" lon="-56.0574267"/>
+ <node id="4541627504" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8881059" lon="-56.0573392"/>
+ <node id="4541627505" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8880830" lon="-56.0573510"/>
+ <node id="4541627506" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8879440" lon="-56.0569500"/>
+ <node id="4541627507" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8878500" lon="-56.0569984"/>
+ <node id="4541627510" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8878608" lon="-56.0574942"/>
+ <node id="4541627511" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8879722" lon="-56.0574367"/>
+ <node id="4541627512" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8879135" lon="-56.0572673"/>
+ <node id="4541627513" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8878020" lon="-56.0573247"/>
+ <node id="4541627514" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8877607" lon="-56.0577174"/>
+ <node id="4541627515" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8876715" lon="-56.0574313"/>
+ <node id="4541627516" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8874875" lon="-56.0575166"/>
+ <node id="4541627517" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8875513" lon="-56.0577209"/>
+ <node id="4541627518" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:04Z" user="Baconcrisp" uid="3778777" lat="-34.8876275" lon="-56.0577792"/>
+ <node id="4323750191" visible="true" version="2" changeset="44214497" timestamp="2016-12-06T17:00:06Z" user="Baconcrisp" uid="3778777" lat="-34.8887864" lon="-56.0571710">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Otero y Arocena"/>
+ </node>
+ <node id="4541567768" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:33Z" user="Baconcrisp" uid="3778777" lat="-34.8877622" lon="-56.0582523">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="cuisine" v="burger"/>
+  <tag k="name" v="Burger King"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <node id="918873109" visible="true" version="3" changeset="44294584" timestamp="2016-12-09T23:50:36Z" user="Baconcrisp" uid="3778777" lat="-34.8888589" lon="-56.0575620">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Don Peperone"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <node id="4541567739" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:41Z" user="Baconcrisp" uid="3778777" lat="-34.8892757" lon="-56.0573469">
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="name" v="Galería de Arte &amp; Subastas"/>
+  <tag k="shop" v="yes"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <node id="4541627501" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:43Z" user="Baconcrisp" uid="3778777" lat="-34.8889802" lon="-56.0569775">
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="name" v="Kick Off"/>
+  <tag k="shop" v="yes"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <node id="918873066" visible="true" version="3" changeset="44294584" timestamp="2016-12-09T23:50:45Z" user="Baconcrisp" uid="3778777" lat="-34.8877259" lon="-56.0576569">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="La Pasiva"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <node id="918873126" visible="true" version="3" changeset="44294584" timestamp="2016-12-09T23:50:45Z" user="Baconcrisp" uid="3778777" lat="-34.8876040" lon="-56.0577124">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="name" v="Las Delicias"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <node id="4541627508" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:52Z" user="Baconcrisp" uid="3778777" lat="-34.8880745" lon="-56.0574358">
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="name" v="Punto Luz"/>
+  <tag k="shop" v="appliance"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <node id="4541627509" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:57Z" user="Baconcrisp" uid="3778777" lat="-34.8880396" lon="-56.0573445">
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="name" v="Tyco"/>
+  <tag k="office" v="company"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </node>
+ <way id="78100790" visible="true" version="4" changeset="30981058" timestamp="2015-05-11T04:21:47Z" user="muralito" uid="755114">
+  <nd ref="917474418"/>
+  <nd ref="3509468876"/>
+  <nd ref="3509468879"/>
+  <nd ref="3509468882"/>
+  <nd ref="3509468880"/>
+  <nd ref="3509468883"/>
+  <nd ref="917442316"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="name" v="Rostand"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <way id="78115186" visible="true" version="4" changeset="41600534" timestamp="2016-08-21T19:45:35Z" user="muralito" uid="755114">
+  <nd ref="917426171"/>
+  <nd ref="917608603"/>
+  <nd ref="917719991"/>
+  <nd ref="917409784"/>
+  <nd ref="917488529"/>
+  <nd ref="917461933"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="name" v="Cambara"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <way id="78113809" visible="true" version="3" changeset="15928604" timestamp="2013-05-01T06:00:58Z" user="muralito" uid="755114">
+  <nd ref="917403410"/>
+  <nd ref="917548080"/>
+  <nd ref="917598897"/>
+  <nd ref="917401288"/>
+  <nd ref="917589879"/>
+  <nd ref="917311875"/>
+  <nd ref="917440190"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="3027"/>
+  <tag k="name" v="Saint Gobain"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <way id="78119408" visible="true" version="8" changeset="44213774" timestamp="2016-12-06T16:26:35Z" user="Baconcrisp" uid="3778777">
+  <nd ref="917321288"/>
+  <nd ref="4360517544"/>
+  <nd ref="4360517545"/>
+  <nd ref="917591016"/>
+  <nd ref="4360517546"/>
+  <nd ref="917578708"/>
+  <nd ref="917582887"/>
+  <nd ref="917426228"/>
+  <nd ref="917565305"/>
+  <nd ref="917624112"/>
+  <nd ref="917606947"/>
+  <nd ref="917716030"/>
+  <nd ref="917494138"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="6450"/>
+  <tag k="name" v="Doctor Alejandro Schroeder"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="78104051" visible="true" version="10" changeset="44194730" timestamp="2016-12-05T22:49:25Z" user="Baconcrisp" uid="3778777">
+  <nd ref="921980044"/>
+  <nd ref="917389558"/>
+  <nd ref="917688551"/>
+  <nd ref="917392453"/>
+  <nd ref="917531478"/>
+  <nd ref="4360517541"/>
+  <nd ref="917553333"/>
+  <nd ref="962187461"/>
+  <nd ref="4360517543"/>
+  <nd ref="917489547"/>
+  <nd ref="917591016"/>
+  <nd ref="917461933"/>
+  <nd ref="917609896"/>
+  <nd ref="917582470"/>
+  <nd ref="917512247"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="name" v="Divina Comedia"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="132183686" visible="true" version="5" changeset="44294584" timestamp="2016-12-09T23:50:25Z" user="Baconcrisp" uid="3778777">
+  <nd ref="1454559740"/>
+  <nd ref="2749825610"/>
+  <nd ref="1454559741"/>
+  <nd ref="1454559731"/>
+  <nd ref="1454559732"/>
+  <nd ref="1454559737"/>
+  <nd ref="1454559729"/>
+  <nd ref="1454559738"/>
+  <nd ref="1454559740"/>
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6436"/>
+  <tag k="addr:street" v="Schroeder"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Tienda Inglesa Arocena"/>
+  <tag k="shop" v="supermarket"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+  <tag k="website" v="www.tiendainglesa.com.uy"/>
+ </way>
+ <way id="180476147" visible="true" version="3" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114">
+  <nd ref="1909125963"/>
+  <nd ref="4424877985"/>
+  <nd ref="1909125960"/>
+  <nd ref="4424877984"/>
+  <nd ref="1909125965"/>
+  <nd ref="1909125967"/>
+  <nd ref="1909125966"/>
+  <nd ref="1909125963"/>
+  <tag k="landuse" v="retail"/>
+ </way>
+ <way id="344193261" visible="true" version="2" changeset="44215956" timestamp="2016-12-06T18:13:13Z" user="Baconcrisp" uid="3778777">
+  <nd ref="3509468886"/>
+  <nd ref="917610050"/>
+  <nd ref="917665322"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="name" v="Avenida Alfredo Arocena"/>
+  <tag k="oneway" v="no"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="78114235" visible="true" version="8" changeset="31150342" timestamp="2015-05-14T18:33:40Z" user="muralito" uid="755114">
+  <nd ref="917461933"/>
+  <nd ref="962188912"/>
+  <nd ref="917737602"/>
+  <nd ref="917547388"/>
+  <nd ref="917395689"/>
+  <nd ref="917506662"/>
+  <nd ref="917677276"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="2610"/>
+  <tag k="name" v="Esteban A. Elena"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <way id="445034859" visible="true" version="1" changeset="42540015" timestamp="2016-09-30T11:37:41Z" user="muralito" uid="755114">
+  <nd ref="4424877985"/>
+  <nd ref="4424877987"/>
+  <nd ref="4424877984"/>
+  <nd ref="1909125960"/>
+  <nd ref="4424877985"/>
+  <tag k="building" v="retail"/>
+ </way>
+ <way id="445034860" visible="true" version="2" changeset="44214497" timestamp="2016-12-06T17:00:06Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4424878390"/>
+  <nd ref="4424878389"/>
+  <nd ref="4424878392"/>
+  <nd ref="4424878394"/>
+  <nd ref="4424878390"/>
+  <tag k="building" v="roof"/>
+  <tag k="layer" v="1"/>
+ </way>
+ <way id="445034861" visible="true" version="3" changeset="44294584" timestamp="2016-12-09T23:49:59Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4424877988"/>
+  <nd ref="4424878389"/>
+  <nd ref="4424878392"/>
+  <nd ref="4424878393"/>
+  <nd ref="4424878391"/>
+  <nd ref="4424877986"/>
+  <nd ref="4424877988"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Ancap"/>
+  <tag k="shop" v="convenience"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="453331213" visible="true" version="1" changeset="43647789" timestamp="2016-11-14T17:27:30Z" user="TheNodeWarrior" uid="4759993">
+  <nd ref="917742962"/>
+  <nd ref="917501690"/>
+  <nd ref="917426050"/>
+  <nd ref="3509468867"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="name" v="Costa Rica"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <way id="78114912" visible="true" version="13" changeset="44213774" timestamp="2016-12-06T16:26:34Z" user="Baconcrisp" uid="3778777">
+  <nd ref="917545516"/>
+  <nd ref="917318676"/>
+  <nd ref="917486880"/>
+  <nd ref="917590924"/>
+  <nd ref="917689118"/>
+  <nd ref="917440190"/>
+  <nd ref="917360842"/>
+  <nd ref="917501690"/>
+  <nd ref="917707026"/>
+  <nd ref="917414778"/>
+  <nd ref="917474418"/>
+  <nd ref="917328458"/>
+  <nd ref="917540095"/>
+  <nd ref="917596048"/>
+  <nd ref="917665322"/>
+  <nd ref="917624517"/>
+  <nd ref="917426171"/>
+  <nd ref="917673785"/>
+  <nd ref="2409361215"/>
+  <nd ref="917609896"/>
+  <nd ref="917717421"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="name" v="Doctor Gabriel Otero"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="454339189" visible="true" version="2" changeset="44195674" timestamp="2016-12-05T23:57:06Z" user="Baconcrisp" uid="3778777">
+  <nd ref="917496564"/>
+  <nd ref="917426228"/>
+  <nd ref="917665322"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="name" v="Avenida Alfredo Arocena"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="458109621" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:33Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541567732"/>
+  <nd ref="4541567733"/>
+  <nd ref="4541567734"/>
+  <nd ref="4541567735"/>
+  <nd ref="4541567736"/>
+  <nd ref="4541567737"/>
+  <nd ref="4541567738"/>
+  <nd ref="4541567732"/>
+  <tag k="addr:street" v="Doctor Gabriel Otero"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="458109622" visible="true" version="1" changeset="44213774" timestamp="2016-12-06T16:26:33Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541567740"/>
+  <nd ref="4541567741"/>
+  <nd ref="4541567742"/>
+  <nd ref="4541567743"/>
+  <nd ref="4541567744"/>
+  <nd ref="4541567745"/>
+  <nd ref="4541567747"/>
+  <nd ref="4541567748"/>
+  <nd ref="4541567746"/>
+  <nd ref="4541567740"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="458109635" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:01Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541567764"/>
+  <nd ref="4541567765"/>
+  <nd ref="4541567766"/>
+  <nd ref="4541567767"/>
+  <nd ref="4541567764"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Banco Republica"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="458113564" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:05Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541627497"/>
+  <nd ref="4541627498"/>
+  <nd ref="4541627499"/>
+  <nd ref="4541627500"/>
+  <nd ref="4541627497"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="458113565" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:05Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541627502"/>
+  <nd ref="4541627503"/>
+  <nd ref="4541627504"/>
+  <nd ref="4541627505"/>
+  <nd ref="4541627506"/>
+  <nd ref="4541627507"/>
+  <nd ref="4541627502"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="458113567" visible="true" version="1" changeset="44214497" timestamp="2016-12-06T17:00:05Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541627514"/>
+  <nd ref="4541627515"/>
+  <nd ref="4541627516"/>
+  <nd ref="4541627517"/>
+  <nd ref="4541627518"/>
+  <nd ref="4541627514"/>
+  <tag k="addr:street" v="Doctor Alejandro Schroeder"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="458113563" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:08Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541627490"/>
+  <nd ref="4541627494"/>
+  <nd ref="4541627495"/>
+  <nd ref="4541627496"/>
+  <nd ref="4541627490"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Daniel Cassiu"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="458113561" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:18Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541622582"/>
+  <nd ref="4541622585"/>
+  <nd ref="4541622586"/>
+  <nd ref="4541622587"/>
+  <nd ref="4541622588"/>
+  <nd ref="4541627489"/>
+  <nd ref="4541622582"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Mosca"/>
+  <tag k="shop" v="stationery"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="458113562" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:24Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541627490"/>
+  <nd ref="4541627491"/>
+  <nd ref="4541627492"/>
+  <nd ref="4541627493"/>
+  <nd ref="4541627494"/>
+  <nd ref="4541627490"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Scotiabank"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="458113566" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:24Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541627510"/>
+  <nd ref="4541627511"/>
+  <nd ref="4541627512"/>
+  <nd ref="4541627513"/>
+  <nd ref="4541627510"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Sport Space"/>
+  <tag k="shop" v="sports"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="458109628" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:12Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541567751"/>
+  <nd ref="4541567755"/>
+  <nd ref="4541567756"/>
+  <nd ref="4541567757"/>
+  <nd ref="4541567751"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Gales"/>
+  <tag k="office" v="financial"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="458109619" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:12Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541567729"/>
+  <nd ref="4541567725"/>
+  <nd ref="4541567730"/>
+  <nd ref="4541567731"/>
+  <nd ref="4541567732"/>
+  <nd ref="4541567733"/>
+  <nd ref="4541567734"/>
+  <nd ref="4541567729"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="amenity" v="restaurant"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Garcia"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="458109631" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:12Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541567758"/>
+  <nd ref="4541567759"/>
+  <nd ref="4541567760"/>
+  <nd ref="4541567761"/>
+  <nd ref="4541567762"/>
+  <nd ref="4541567763"/>
+  <nd ref="4541567758"/>
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="1635"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="amenity" v="bank"/>
+  <tag k="atm" v="yes"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="HSBC Carrasco"/>
+  <tag k="opening_hours" v="Mo-Fr 13:00-17:00"/>
+  <tag k="operator" v="HSBC"/>
+  <tag k="phone" v="+598 2915 1010"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="458109624" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:15Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541567747"/>
+  <nd ref="4541567748"/>
+  <nd ref="4541567749"/>
+  <nd ref="4541567750"/>
+  <nd ref="4541567747"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Lacoste"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <way id="458109626" visible="true" version="2" changeset="44294584" timestamp="2016-12-09T23:50:26Z" user="Baconcrisp" uid="3778777">
+  <nd ref="4541567751"/>
+  <nd ref="4541567752"/>
+  <nd ref="4541567753"/>
+  <nd ref="4541567754"/>
+  <nd ref="4541567755"/>
+  <nd ref="4541567751"/>
+  <tag k="addr:street" v="Avenida Alfredo Arocena"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Tits"/>
+  <tag k="shop" v="clothes"/>
+  <tag k="source_1" v="Reconocimiento cartográfico de campo 2016 por KG"/>
+ </way>
+ <relation id="1218424" visible="true" version="2" changeset="43647789" timestamp="2016-11-14T17:27:42Z" user="TheNodeWarrior" uid="4759993">
+  <member type="way" ref="453331225" role="street"/>
+  <member type="way" ref="78109112" role="street"/>
+  <member type="way" ref="78119408" role="street"/>
+  <member type="way" ref="453331218" role="street"/>
+  <member type="node" ref="945406421" role="house"/>
+  <member type="node" ref="945523055" role="house"/>
+  <member type="node" ref="945610846" role="house"/>
+  <member type="node" ref="944547534" role="house"/>
+  <member type="node" ref="945565898" role="house"/>
+  <member type="node" ref="945562774" role="house"/>
+  <member type="node" ref="944179590" role="house"/>
+  <member type="node" ref="944760157" role="house"/>
+  <member type="node" ref="944422498" role="house"/>
+  <member type="node" ref="945608377" role="house"/>
+  <member type="node" ref="945067424" role="house"/>
+  <member type="node" ref="944811434" role="house"/>
+  <member type="node" ref="945559935" role="house"/>
+  <member type="node" ref="944139218" role="house"/>
+  <member type="node" ref="944769065" role="house"/>
+  <member type="node" ref="945417156" role="house"/>
+  <member type="node" ref="945408632" role="house"/>
+  <member type="node" ref="944488679" role="house"/>
+  <member type="node" ref="944066460" role="house"/>
+  <member type="node" ref="945429087" role="house"/>
+  <member type="node" ref="945556082" role="house"/>
+  <member type="node" ref="944756970" role="house"/>
+  <member type="node" ref="944753067" role="house"/>
+  <member type="node" ref="945056677" role="house"/>
+  <member type="node" ref="945566707" role="house"/>
+  <member type="node" ref="945541333" role="house"/>
+  <member type="node" ref="944804080" role="house"/>
+  <member type="node" ref="945607412" role="house"/>
+  <member type="node" ref="944483990" role="house"/>
+  <member type="node" ref="945515872" role="house"/>
+  <member type="node" ref="945531103" role="house"/>
+  <member type="node" ref="945582650" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="6450"/>
+  <tag k="name" v="Doctor Alejandro Schroeder"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1220323" visible="true" version="1" changeset="6017473" timestamp="2010-10-12T05:45:02Z" user="MaxM" uid="55730">
+  <member type="way" ref="78115186" role="street"/>
+  <member type="node" ref="945576524" role="house"/>
+  <member type="node" ref="944118672" role="house"/>
+  <member type="node" ref="945455979" role="house"/>
+  <member type="node" ref="944378967" role="house"/>
+  <member type="node" ref="944778604" role="house"/>
+  <member type="node" ref="945566151" role="house"/>
+  <member type="node" ref="944845885" role="house"/>
+  <member type="node" ref="944760760" role="house"/>
+  <member type="node" ref="945608878" role="house"/>
+  <member type="node" ref="944834586" role="house"/>
+  <member type="node" ref="945527891" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="1488"/>
+  <tag k="name" v="Cambara"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1221371" visible="true" version="1" changeset="6020121" timestamp="2010-10-12T11:59:23Z" user="MaxM" uid="55730">
+  <member type="way" ref="78104051" role="street"/>
+  <member type="node" ref="944527305" role="house"/>
+  <member type="node" ref="944523251" role="house"/>
+  <member type="node" ref="945608561" role="house"/>
+  <member type="node" ref="944780471" role="house"/>
+  <member type="node" ref="944121194" role="house"/>
+  <member type="node" ref="944542575" role="house"/>
+  <member type="node" ref="944318131" role="house"/>
+  <member type="node" ref="944757490" role="house"/>
+  <member type="node" ref="944537649" role="house"/>
+  <member type="node" ref="944054970" role="house"/>
+  <member type="node" ref="945424766" role="house"/>
+  <member type="node" ref="944111816" role="house"/>
+  <member type="node" ref="944753776" role="house"/>
+  <member type="node" ref="945602731" role="house"/>
+  <member type="node" ref="945414762" role="house"/>
+  <member type="node" ref="944759975" role="house"/>
+  <member type="node" ref="944746943" role="house"/>
+  <member type="node" ref="945581693" role="house"/>
+  <member type="node" ref="944780184" role="house"/>
+  <member type="node" ref="945567400" role="house"/>
+  <member type="node" ref="944807140" role="house"/>
+  <member type="node" ref="944526237" role="house"/>
+  <member type="node" ref="945431856" role="house"/>
+  <member type="node" ref="944843333" role="house"/>
+  <member type="node" ref="945601826" role="house"/>
+  <member type="node" ref="945591586" role="house"/>
+  <member type="node" ref="945595790" role="house"/>
+  <member type="node" ref="945554346" role="house"/>
+  <member type="node" ref="944174925" role="house"/>
+  <member type="node" ref="945514764" role="house"/>
+  <member type="node" ref="944804772" role="house"/>
+  <member type="node" ref="945609315" role="house"/>
+  <member type="node" ref="945585013" role="house"/>
+  <member type="node" ref="945457580" role="house"/>
+  <member type="node" ref="944835032" role="house"/>
+  <member type="node" ref="944106827" role="house"/>
+  <member type="node" ref="944323006" role="house"/>
+  <member type="node" ref="944782455" role="house"/>
+  <member type="node" ref="945450893" role="house"/>
+  <member type="node" ref="944437799" role="house"/>
+  <member type="node" ref="944241046" role="house"/>
+  <member type="node" ref="945435611" role="house"/>
+  <member type="node" ref="944516708" role="house"/>
+  <member type="node" ref="945437342" role="house"/>
+  <member type="node" ref="945559418" role="house"/>
+  <member type="node" ref="944545090" role="house"/>
+  <member type="node" ref="944779426" role="house"/>
+  <member type="node" ref="944271232" role="house"/>
+  <member type="node" ref="944533284" role="house"/>
+  <member type="node" ref="945601133" role="house"/>
+  <member type="node" ref="944772565" role="house"/>
+  <member type="node" ref="944546653" role="house"/>
+  <member type="node" ref="945575810" role="house"/>
+  <member type="node" ref="944833293" role="house"/>
+  <member type="node" ref="944125961" role="house"/>
+  <member type="node" ref="945538848" role="house"/>
+  <member type="node" ref="944762108" role="house"/>
+  <member type="node" ref="944747692" role="house"/>
+  <member type="node" ref="945520975" role="house"/>
+  <member type="node" ref="944496606" role="house"/>
+  <member type="node" ref="944256982" role="house"/>
+  <member type="node" ref="945470624" role="house"/>
+  <member type="node" ref="944215875" role="house"/>
+  <member type="node" ref="945457224" role="house"/>
+  <member type="node" ref="944739895" role="house"/>
+  <member type="node" ref="944054966" role="house"/>
+  <member type="node" ref="944846041" role="house"/>
+  <member type="node" ref="944530310" role="house"/>
+  <member type="node" ref="944141289" role="house"/>
+  <member type="node" ref="945430974" role="house"/>
+  <member type="node" ref="945597403" role="house"/>
+  <member type="node" ref="944847628" role="house"/>
+  <member type="node" ref="944792295" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="2076"/>
+  <tag k="name" v="Divina Comedia"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1221825" visible="true" version="1" changeset="6020121" timestamp="2010-10-12T12:08:48Z" user="MaxM" uid="55730">
+  <member type="way" ref="78100790" role="street"/>
+  <member type="node" ref="944515092" role="house"/>
+  <member type="node" ref="944779482" role="house"/>
+  <member type="node" ref="944756178" role="house"/>
+  <member type="node" ref="945574252" role="house"/>
+  <member type="node" ref="945553915" role="house"/>
+  <member type="node" ref="945442937" role="house"/>
+  <member type="node" ref="944354170" role="house"/>
+  <member type="node" ref="945538480" role="house"/>
+  <member type="node" ref="944761836" role="house"/>
+  <member type="node" ref="945546007" role="house"/>
+  <member type="node" ref="944189656" role="house"/>
+  <member type="node" ref="944761428" role="house"/>
+  <member type="node" ref="944769934" role="house"/>
+  <member type="node" ref="944499274" role="house"/>
+  <member type="node" ref="944836603" role="house"/>
+  <member type="node" ref="945544390" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="6174"/>
+  <tag k="name" v="Rostand"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1222671" visible="true" version="1" changeset="6020121" timestamp="2010-10-12T12:26:59Z" user="MaxM" uid="55730">
+  <member type="way" ref="78113809" role="street"/>
+  <member type="node" ref="944299346" role="house"/>
+  <member type="node" ref="944506198" role="house"/>
+  <member type="node" ref="944346470" role="house"/>
+  <member type="node" ref="944085934" role="house"/>
+  <member type="node" ref="945600381" role="house"/>
+  <member type="node" ref="945580663" role="house"/>
+  <member type="node" ref="944104060" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="3027"/>
+  <tag k="name" v="Saint Gobain"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1218100" visible="true" version="3" changeset="31704395" timestamp="2015-06-03T22:13:13Z" user="muralito" uid="755114">
+  <member type="way" ref="78114235" role="street"/>
+  <member type="node" ref="944128244" role="house"/>
+  <member type="node" ref="945513566" role="house"/>
+  <member type="node" ref="945467628" role="house"/>
+  <member type="node" ref="944572818" role="house"/>
+  <member type="node" ref="945574263" role="house"/>
+  <member type="node" ref="944764566" role="house"/>
+  <member type="node" ref="945073048" role="house"/>
+  <member type="node" ref="945573837" role="house"/>
+  <member type="node" ref="944837482" role="house"/>
+  <member type="node" ref="944845660" role="house"/>
+  <member type="node" ref="945597067" role="house"/>
+  <member type="node" ref="944774858" role="house"/>
+  <member type="node" ref="945524814" role="house"/>
+  <member type="node" ref="945576884" role="house"/>
+  <member type="node" ref="945538078" role="house"/>
+  <member type="node" ref="944750185" role="house"/>
+  <member type="node" ref="944831160" role="house"/>
+  <member type="node" ref="945468295" role="house"/>
+  <member type="node" ref="945422254" role="house"/>
+  <member type="node" ref="944812638" role="house"/>
+  <member type="node" ref="944534810" role="house"/>
+  <member type="node" ref="944546602" role="house"/>
+  <member type="node" ref="944426295" role="house"/>
+  <member type="node" ref="944763773" role="house"/>
+  <member type="node" ref="944497974" role="house"/>
+  <member type="node" ref="944218821" role="house"/>
+  <member type="node" ref="945078004" role="house"/>
+  <member type="node" ref="945581083" role="house"/>
+  <member type="node" ref="945590862" role="house"/>
+  <member type="node" ref="945076957" role="house"/>
+  <member type="node" ref="945426176" role="house"/>
+  <member type="node" ref="945559165" role="house"/>
+  <member type="node" ref="944826234" role="house"/>
+  <member type="node" ref="944849240" role="house"/>
+  <member type="node" ref="944317268" role="house"/>
+  <member type="node" ref="944824618" role="house"/>
+  <member type="node" ref="945414354" role="house"/>
+  <member type="node" ref="960253057" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="2610"/>
+  <tag k="name" v="Esteban A. Elena"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1219006" visible="true" version="4" changeset="43648359" timestamp="2016-11-14T17:40:38Z" user="TheNodeWarrior" uid="4759993">
+  <member type="way" ref="453331240" role="street"/>
+  <member type="way" ref="78114912" role="street"/>
+  <member type="way" ref="453336515" role="street"/>
+  <member type="way" ref="215972654" role="street"/>
+  <member type="node" ref="944204410" role="house"/>
+  <member type="node" ref="944538797" role="house"/>
+  <member type="node" ref="944155231" role="house"/>
+  <member type="node" ref="945469287" role="house"/>
+  <member type="node" ref="944328779" role="house"/>
+  <member type="node" ref="944843848" role="house"/>
+  <member type="node" ref="945448468" role="house"/>
+  <member type="node" ref="945523580" role="house"/>
+  <member type="node" ref="944769781" role="house"/>
+  <member type="node" ref="944802809" role="house"/>
+  <member type="node" ref="944087417" role="house"/>
+  <member type="node" ref="945524019" role="house"/>
+  <member type="node" ref="944825419" role="house"/>
+  <member type="node" ref="944433784" role="house"/>
+  <member type="node" ref="944341827" role="house"/>
+  <member type="node" ref="945601581" role="house"/>
+  <member type="node" ref="945514580" role="house"/>
+  <member type="node" ref="944524913" role="house"/>
+  <member type="node" ref="945537597" role="house"/>
+  <member type="node" ref="944533393" role="house"/>
+  <member type="node" ref="944826844" role="house"/>
+  <member type="node" ref="945548037" role="house"/>
+  <member type="node" ref="945531093" role="house"/>
+  <member type="node" ref="945555353" role="house"/>
+  <member type="node" ref="944751917" role="house"/>
+  <member type="node" ref="944840497" role="house"/>
+  <member type="node" ref="945530424" role="house"/>
+  <member type="node" ref="945083577" role="house"/>
+  <member type="node" ref="944784149" role="house"/>
+  <member type="node" ref="944848244" role="house"/>
+  <member type="node" ref="944746936" role="house"/>
+  <member type="node" ref="945575923" role="house"/>
+  <member type="node" ref="944161524" role="house"/>
+  <member type="node" ref="945552000" role="house"/>
+  <member type="node" ref="944271472" role="house"/>
+  <member type="node" ref="944248332" role="house"/>
+  <member type="node" ref="945581379" role="house"/>
+  <member type="node" ref="945524983" role="house"/>
+  <member type="node" ref="944761092" role="house"/>
+  <member type="node" ref="944793827" role="house"/>
+  <member type="node" ref="944826443" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="5016"/>
+  <tag k="name" v="Doctor Gabriel Otero"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1220855" visible="true" version="7" changeset="44714461" timestamp="2016-12-27T19:53:28Z" user="muralito" uid="755114">
+  <member type="way" ref="344193289" role="street"/>
+  <member type="way" ref="78099623" role="street"/>
+  <member type="way" ref="232591119" role="street"/>
+  <member type="way" ref="462184427" role="street"/>
+  <member type="way" ref="78105944" role="street"/>
+  <member type="way" ref="453331208" role="street"/>
+  <member type="way" ref="78108506" role="street"/>
+  <member type="way" ref="78112673" role="street"/>
+  <member type="way" ref="453331213" role="street"/>
+  <member type="way" ref="344193290" role="street"/>
+  <member type="way" ref="453350642" role="street"/>
+  <member type="way" ref="78117392" role="street"/>
+  <member type="node" ref="945609424" role="house"/>
+  <member type="node" ref="944188056" role="house"/>
+  <member type="node" ref="945554162" role="house"/>
+  <member type="node" ref="944779771" role="house"/>
+  <member type="node" ref="944572097" role="house"/>
+  <member type="node" ref="944773510" role="house"/>
+  <member type="node" ref="945544196" role="house"/>
+  <member type="node" ref="944544780" role="house"/>
+  <member type="node" ref="945432210" role="house"/>
+  <member type="node" ref="945038820" role="house"/>
+  <member type="node" ref="944808429" role="house"/>
+  <member type="node" ref="945552362" role="house"/>
+  <member type="node" ref="944094373" role="house"/>
+  <member type="node" ref="944138725" role="house"/>
+  <member type="node" ref="944539071" role="house"/>
+  <member type="node" ref="945583379" role="house"/>
+  <member type="node" ref="945606374" role="house"/>
+  <member type="node" ref="944230261" role="house"/>
+  <member type="node" ref="945422941" role="house"/>
+  <member type="node" ref="945579019" role="house"/>
+  <member type="node" ref="945597426" role="house"/>
+  <member type="node" ref="945557290" role="house"/>
+  <member type="node" ref="944319689" role="house"/>
+  <member type="node" ref="945534334" role="house"/>
+  <member type="node" ref="944757906" role="house"/>
+  <member type="node" ref="945598030" role="house"/>
+  <member type="node" ref="944387021" role="house"/>
+  <member type="node" ref="945542083" role="house"/>
+  <member type="node" ref="944753754" role="house"/>
+  <member type="node" ref="945592408" role="house"/>
+  <member type="node" ref="944840179" role="house"/>
+  <member type="node" ref="944352527" role="house"/>
+  <member type="node" ref="945577905" role="house"/>
+  <member type="node" ref="945534775" role="house"/>
+  <member type="node" ref="945576171" role="house"/>
+  <member type="node" ref="945563073" role="house"/>
+  <member type="node" ref="944833824" role="house"/>
+  <member type="node" ref="945531008" role="house"/>
+  <member type="node" ref="945593673" role="house"/>
+  <member type="node" ref="945518930" role="house"/>
+  <member type="node" ref="944750442" role="house"/>
+  <member type="node" ref="944317459" role="house"/>
+  <member type="node" ref="944843558" role="house"/>
+  <member type="node" ref="945541382" role="house"/>
+  <member type="node" ref="944440134" role="house"/>
+  <member type="node" ref="944408155" role="house"/>
+  <member type="node" ref="945543620" role="house"/>
+  <member type="node" ref="945551311" role="house"/>
+  <member type="node" ref="944832913" role="house"/>
+  <member type="node" ref="945440660" role="house"/>
+  <member type="node" ref="944750522" role="house"/>
+  <member type="node" ref="945552840" role="house"/>
+  <member type="node" ref="945591588" role="house"/>
+  <member type="node" ref="945571363" role="house"/>
+  <member type="node" ref="944811630" role="house"/>
+  <member type="node" ref="945520998" role="house"/>
+  <member type="node" ref="944083986" role="house"/>
+  <member type="node" ref="945609009" role="house"/>
+  <member type="node" ref="945533888" role="house"/>
+  <member type="node" ref="945575800" role="house"/>
+  <member type="node" ref="945462894" role="house"/>
+  <member type="node" ref="944498498" role="house"/>
+  <member type="node" ref="945551570" role="house"/>
+  <member type="node" ref="945078961" role="house"/>
+  <member type="node" ref="944773583" role="house"/>
+  <member type="node" ref="945547470" role="house"/>
+  <member type="node" ref="944838001" role="house"/>
+  <member type="node" ref="944337789" role="house"/>
+  <member type="node" ref="944142884" role="house"/>
+  <member type="node" ref="945467305" role="house"/>
+  <member type="node" ref="944558886" role="house"/>
+  <member type="node" ref="945568384" role="house"/>
+  <member type="node" ref="944137870" role="house"/>
+  <member type="node" ref="944487691" role="house"/>
+  <member type="node" ref="944812663" role="house"/>
+  <member type="node" ref="944740944" role="house"/>
+  <member type="node" ref="945580903" role="house"/>
+  <member type="node" ref="945428885" role="house"/>
+  <member type="node" ref="945532969" role="house"/>
+  <member type="node" ref="944528390" role="house"/>
+  <member type="node" ref="944849364" role="house"/>
+  <member type="node" ref="945558895" role="house"/>
+  <member type="node" ref="945573919" role="house"/>
+  <member type="node" ref="944829830" role="house"/>
+  <member type="node" ref="944351429" role="house"/>
+  <member type="node" ref="944567157" role="house"/>
+  <member type="node" ref="945572288" role="house"/>
+  <member type="node" ref="945542655" role="house"/>
+  <member type="node" ref="944369582" role="house"/>
+  <member type="node" ref="945574172" role="house"/>
+  <member type="node" ref="945582919" role="house"/>
+  <member type="node" ref="944552531" role="house"/>
+  <member type="node" ref="945567490" role="house"/>
+  <member type="node" ref="944834825" role="house"/>
+  <member type="node" ref="944787863" role="house"/>
+  <member type="node" ref="945529957" role="house"/>
+  <member type="node" ref="944753169" role="house"/>
+  <member type="node" ref="944839431" role="house"/>
+  <member type="node" ref="944111550" role="house"/>
+  <member type="node" ref="945527610" role="house"/>
+  <member type="node" ref="944135492" role="house"/>
+  <member type="node" ref="945553846" role="house"/>
+  <member type="node" ref="945464500" role="house"/>
+  <member type="node" ref="945599501" role="house"/>
+  <member type="node" ref="944750043" role="house"/>
+  <member type="node" ref="945555931" role="house"/>
+  <member type="node" ref="945605743" role="house"/>
+  <member type="node" ref="945570820" role="house"/>
+  <member type="node" ref="945408991" role="house"/>
+  <member type="node" ref="944254838" role="house"/>
+  <member type="node" ref="945567360" role="house"/>
+  <member type="node" ref="945518400" role="house"/>
+  <member type="node" ref="944476230" role="house"/>
+  <member type="node" ref="944233788" role="house"/>
+  <member type="node" ref="945558430" role="house"/>
+  <member type="node" ref="944787303" role="house"/>
+  <member type="node" ref="945527902" role="house"/>
+  <member type="node" ref="944390918" role="house"/>
+  <member type="node" ref="945526279" role="house"/>
+  <member type="node" ref="945028959" role="house"/>
+  <member type="node" ref="944579993" role="house"/>
+  <member type="node" ref="945543798" role="house"/>
+  <member type="node" ref="945416946" role="house"/>
+  <member type="node" ref="944094507" role="house"/>
+  <member type="node" ref="945433786" role="house"/>
+  <member type="node" ref="944796736" role="house"/>
+  <member type="node" ref="945578875" role="house"/>
+  <member type="node" ref="944748878" role="house"/>
+  <member type="node" ref="944758932" role="house"/>
+  <member type="node" ref="945573462" role="house"/>
+  <member type="node" ref="945073355" role="house"/>
+  <member type="node" ref="944843607" role="house"/>
+  <member type="node" ref="945603963" role="house"/>
+  <member type="node" ref="944798083" role="house"/>
+  <member type="node" ref="945567779" role="house"/>
+  <member type="node" ref="944497815" role="house"/>
+  <member type="node" ref="944759352" role="house"/>
+  <member type="node" ref="944826037" role="house"/>
+  <member type="node" ref="944123555" role="house"/>
+  <member type="node" ref="944538232" role="house"/>
+  <member type="node" ref="945547293" role="house"/>
+  <member type="node" ref="945548429" role="house"/>
+  <member type="node" ref="944372852" role="house"/>
+  <member type="node" ref="944835175" role="house"/>
+  <member type="node" ref="945050077" role="house"/>
+  <member type="node" ref="944780191" role="house"/>
+  <member type="node" ref="944789944" role="house"/>
+  <member type="node" ref="945556207" role="house"/>
+  <member type="node" ref="945526778" role="house"/>
+  <member type="node" ref="945528513" role="house"/>
+  <member type="node" ref="944807347" role="house"/>
+  <member type="node" ref="945590845" role="house"/>
+  <member type="node" ref="944339621" role="house"/>
+  <member type="node" ref="944172598" role="house"/>
+  <member type="node" ref="945570594" role="house"/>
+  <member type="node" ref="944834931" role="house"/>
+  <member type="node" ref="944776985" role="house"/>
+  <member type="node" ref="944347369" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="5970"/>
+  <tag k="name" v="Costa Rica"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1219409" visible="true" version="3" changeset="43775477" timestamp="2016-11-18T18:44:39Z" user="tfnielson" uid="4547543">
+  <member type="way" ref="344193262" role="street"/>
+  <member type="way" ref="78107026" role="street"/>
+  <member type="way" ref="78109081" role="street"/>
+  <member type="way" ref="344193260" role="street"/>
+  <member type="way" ref="78110961" role="street"/>
+  <member type="way" ref="78113306" role="street"/>
+  <member type="way" ref="78117702" role="street"/>
+  <member type="way" ref="344193261" role="street"/>
+  <member type="node" ref="945551991" role="house"/>
+  <member type="node" ref="944755147" role="house"/>
+  <member type="node" ref="945595443" role="house"/>
+  <member type="node" ref="944570703" role="house"/>
+  <member type="node" ref="944835219" role="house"/>
+  <member type="node" ref="945513122" role="house"/>
+  <member type="node" ref="945469229" role="house"/>
+  <member type="node" ref="944567152" role="house"/>
+  <member type="node" ref="945547335" role="house"/>
+  <member type="node" ref="945590704" role="house"/>
+  <member type="node" ref="945420230" role="house"/>
+  <member type="node" ref="944531882" role="house"/>
+  <member type="node" ref="944351397" role="house"/>
+  <member type="node" ref="944761523" role="house"/>
+  <member type="node" ref="944770017" role="house"/>
+  <member type="node" ref="944577838" role="house"/>
+  <member type="node" ref="944747675" role="house"/>
+  <member type="node" ref="944125938" role="house"/>
+  <member type="node" ref="944194567" role="house"/>
+  <member type="node" ref="945446334" role="house"/>
+  <member type="node" ref="944802123" role="house"/>
+  <member type="node" ref="944146458" role="house"/>
+  <member type="node" ref="944563797" role="house"/>
+  <member type="node" ref="944767349" role="house"/>
+  <member type="node" ref="944255714" role="house"/>
+  <member type="node" ref="944836680" role="house"/>
+  <member type="node" ref="944795781" role="house"/>
+  <member type="node" ref="944757387" role="house"/>
+  <member type="node" ref="945533531" role="house"/>
+  <member type="node" ref="945462172" role="house"/>
+  <member type="node" ref="944546778" role="house"/>
+  <member type="node" ref="944133116" role="house"/>
+  <member type="node" ref="944755156" role="house"/>
+  <member type="node" ref="944773028" role="house"/>
+  <member type="node" ref="944319473" role="house"/>
+  <member type="node" ref="945083318" role="house"/>
+  <member type="node" ref="945549864" role="house"/>
+  <member type="node" ref="945546139" role="house"/>
+  <member type="node" ref="945461716" role="house"/>
+  <member type="node" ref="945529052" role="house"/>
+  <member type="node" ref="944822953" role="house"/>
+  <member type="node" ref="944304414" role="house"/>
+  <member type="node" ref="944512264" role="house"/>
+  <member type="node" ref="944542050" role="house"/>
+  <member type="node" ref="944047244" role="house"/>
+  <member type="node" ref="944780180" role="house"/>
+  <member type="node" ref="944769082" role="house"/>
+  <member type="node" ref="945610571" role="house"/>
+  <member type="node" ref="945558432" role="house"/>
+  <member type="node" ref="945534196" role="house"/>
+  <member type="node" ref="944757759" role="house"/>
+  <member type="node" ref="944749327" role="house"/>
+  <member type="node" ref="944832968" role="house"/>
+  <member type="node" ref="945523746" role="house"/>
+  <member type="node" ref="944781331" role="house"/>
+  <member type="node" ref="944803679" role="house"/>
+  <member type="node" ref="944803657" role="house"/>
+  <member type="node" ref="944838943" role="house"/>
+  <member type="node" ref="944496682" role="house"/>
+  <member type="node" ref="944216539" role="house"/>
+  <member type="node" ref="945541995" role="house"/>
+  <member type="node" ref="944765906" role="house"/>
+  <member type="node" ref="944514098" role="house"/>
+  <member type="node" ref="945568305" role="house"/>
+  <member type="node" ref="944587342" role="house"/>
+  <member type="node" ref="945577870" role="house"/>
+  <member type="node" ref="944142651" role="house"/>
+  <member type="node" ref="945609968" role="house"/>
+  <member type="node" ref="944756355" role="house"/>
+  <member type="node" ref="944145228" role="house"/>
+  <member type="node" ref="945554094" role="house"/>
+  <member type="node" ref="944533933" role="house"/>
+  <member type="node" ref="945530884" role="house"/>
+  <member type="node" ref="944080322" role="house"/>
+  <member type="node" ref="944568510" role="house"/>
+  <member type="node" ref="945528591" role="house"/>
+  <member type="node" ref="944573523" role="house"/>
+  <member type="node" ref="944210200" role="house"/>
+  <member type="node" ref="944801968" role="house"/>
+  <member type="node" ref="945599686" role="house"/>
+  <member type="node" ref="945520203" role="house"/>
+  <member type="node" ref="944812625" role="house"/>
+  <member type="node" ref="944543191" role="house"/>
+  <member type="node" ref="945518070" role="house"/>
+  <member type="way" ref="454339189" role="street"/>
+  <tag k="mvdgis:cod_nombre" v="555"/>
+  <tag k="name" v="Avenida Alfredo Arocena"/>
+  <tag k="type" v="street"/>
+ </relation>
+</osm>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shapeInfos>
+	<justTextureOrigin symbol="Church"/>
+	<justTextureOrigin symbol="Building"/>
+	<justTextureOrigin symbol="Wall"/>
+	<justTextureOrigin symbol="Window"/>
+	<justTextureOrigin symbol="Seat"/>
+	
+	<shapeInfo	symbol="Stone" geometry="CUBE"
+				textureMapping="FULL" textureSize="1.0" setsTextureOrigin="true"
+				material="Stone"/>
+	<shapeInfo	symbol="Board" geometry="CUBE"
+				textureMapping="POSITION_BASED" textureSize="2.0" setsTextureOrigin="false"
+				material="Wood"/>
+	<shapeInfo	symbol="Wall Section" geometry="PLANE"
+				textureMapping="POSITION_BASED" textureSize="20.0" setsTextureOrigin="false"
+				material="Cobble"/>
+	<shapeInfo	symbol="Wall Triangle Section" geometry="TRIANGLE"
+				textureMapping="POSITION_BASED" textureSize="20.0" setsTextureOrigin="false"
+				material="Cobble"/>
+	<shapeInfo	symbol="Flat Roof" geometry="PLANE"
+				textureMapping="POSITION_BASED" textureSize="10.0" setsTextureOrigin="true"
+				material="Cobble"/>
+	<shapeInfo	symbol="Roof Tiles" geometry="PLANE"
+				textureMapping="POSITION_BASED" textureSize="4.0" setsTextureOrigin="false"
+				material="Roof Tile"/>
+	<shapeInfo	symbol="Door" geometry="CUBE"
+				textureMapping="FULL" textureSize="1.0" setsTextureOrigin="true"
+				material="Door"/>
+	<shapeInfo	symbol="Floor" geometry="PLANE"
+				textureMapping="POSITION_BASED" textureSize="8.0" setsTextureOrigin="true"
+				material="Tile Floor"/>
+	<shapeInfo	symbol="Floor Polygon" geometry="POLYGON"
+				textureMapping="POSITION_BASED" textureSize="8.0" setsTextureOrigin="true"
+				material="Tile Floor"/>
+	<shapeInfo	symbol="Stage" geometry="CUBE"
+				textureMapping="POSITION_BASED" textureSize="5.0" setsTextureOrigin="true"
+				material="Stage"/>
+	<shapeInfo	symbol="Priest Thing" geometry="CUBE"
+				textureMapping="POSITION_BASED" textureSize="5.0" setsTextureOrigin="true"
+				material="Wood"/>
+	<shapeInfo	symbol="Seat Part" geometry="CUBE"
+				textureMapping="POSITION_BASED" textureSize="3.0" setsTextureOrigin="false"
+				material="Wood"/>	
+</shapeInfos>

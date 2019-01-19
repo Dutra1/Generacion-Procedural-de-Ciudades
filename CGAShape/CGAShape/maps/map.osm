@@ -1,0 +1,2762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.5.8 (28060 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-34.8789200" minlon="-56.0742600" maxlat="-34.8769500" maxlon="-56.0700500"/>
+ <node id="450763354" visible="true" version="5" changeset="5848914" timestamp="2010-09-22T20:20:43Z" user="richlv" uid="47892" lat="-34.8773485" lon="-56.0741853"/>
+ <node id="450763379" visible="true" version="6" changeset="43651429" timestamp="2016-11-14T19:13:07Z" user="TheNodeWarrior" uid="4759993" lat="-34.8774220" lon="-56.0758297"/>
+ <node id="917308235" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:26Z" user="muralito" uid="755114" lat="-34.8783875" lon="-56.0695344"/>
+ <node id="917313516" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T20:42:41Z" user="MaxM" uid="55730" lat="-34.8773968" lon="-56.0704928"/>
+ <node id="917332723" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T20:49:43Z" user="MaxM" uid="55730" lat="-34.8723788" lon="-56.0705131"/>
+ <node id="917340262" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T20:51:52Z" user="MaxM" uid="55730" lat="-34.8809821" lon="-56.0771348"/>
+ <node id="917345329" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:08Z" user="TheNodeWarrior" uid="4759993" lat="-34.8715024" lon="-56.0704539"/>
+ <node id="917357680" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T20:58:09Z" user="MaxM" uid="55730" lat="-34.8807062" lon="-56.0770169"/>
+ <node id="917361091" visible="true" version="2" changeset="12762851" timestamp="2012-08-17T14:17:24Z" user="muralito" uid="755114" lat="-34.8783459" lon="-56.0684168"/>
+ <node id="917374567" visible="true" version="1" changeset="5815085" timestamp="2010-09-18T21:02:12Z" user="MaxM" uid="55730" lat="-34.8741870" lon="-56.0705372"/>
+ <node id="917381366" visible="true" version="2" changeset="12762851" timestamp="2012-08-17T14:17:24Z" user="muralito" uid="755114" lat="-34.8785172" lon="-56.0703013"/>
+ <node id="917387885" visible="true" version="1" changeset="5815134" timestamp="2010-09-18T21:05:47Z" user="MaxM" uid="55730" lat="-34.8788825" lon="-56.0713966"/>
+ <node id="917390586" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:06:29Z" user="MaxM" uid="55730" lat="-34.8785885" lon="-56.0730522"/>
+ <node id="917391761" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:09Z" user="TheNodeWarrior" uid="4759993" lat="-34.8749216" lon="-56.0705847"/>
+ <node id="917391289" visible="true" version="2" changeset="5848914" timestamp="2010-09-22T20:20:28Z" user="richlv" uid="47892" lat="-34.8797680" lon="-56.0736891"/>
+ <node id="917403469" visible="true" version="3" changeset="43651429" timestamp="2016-11-14T19:13:07Z" user="TheNodeWarrior" uid="4759993" lat="-34.8770635" lon="-56.0788387"/>
+ <node id="917407426" visible="true" version="2" changeset="12762851" timestamp="2012-08-17T14:17:25Z" user="muralito" uid="755114" lat="-34.8785794" lon="-56.0701356"/>
+ <node id="917411974" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:11:53Z" user="MaxM" uid="55730" lat="-34.8734523" lon="-56.0705673"/>
+ <node id="917413737" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:12:24Z" user="MaxM" uid="55730" lat="-34.8777966" lon="-56.0714888"/>
+ <node id="917418571" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:13:47Z" user="MaxM" uid="55730" lat="-34.8808968" lon="-56.0771775"/>
+ <node id="917421750" visible="true" version="1" changeset="5815134" timestamp="2010-09-18T21:14:47Z" user="MaxM" uid="55730" lat="-34.8775114" lon="-56.0772564"/>
+ <node id="917424772" visible="true" version="3" changeset="43650064" timestamp="2016-11-14T18:23:09Z" user="TheNodeWarrior" uid="4759993" lat="-34.8781801" lon="-56.0697600"/>
+ <node id="917433978" visible="true" version="1" changeset="5815134" timestamp="2010-09-18T21:18:50Z" user="MaxM" uid="55730" lat="-34.8787178" lon="-56.0716775"/>
+ <node id="917436875" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:26Z" user="muralito" uid="755114" lat="-34.8790679" lon="-56.0727825"/>
+ <node id="917440583" visible="true" version="1" changeset="5815134" timestamp="2010-09-18T21:20:48Z" user="MaxM" uid="55730" lat="-34.8802652" lon="-56.0753511"/>
+ <node id="917440827" visible="true" version="3" changeset="43650064" timestamp="2016-11-14T18:23:09Z" user="TheNodeWarrior" uid="4759993" lat="-34.8838794" lon="-56.0703167"/>
+ <node id="917457092" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:25:16Z" user="MaxM" uid="55730" lat="-34.8782691" lon="-56.0684211"/>
+ <node id="917475872" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:30:00Z" user="MaxM" uid="55730" lat="-34.8735107" lon="-56.0705366"/>
+ <node id="917499370" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:37:46Z" user="MaxM" uid="55730" lat="-34.8812954" lon="-56.0780184"/>
+ <node id="917504649" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:40:01Z" user="MaxM" uid="55730" lat="-34.8774647" lon="-56.0776337"/>
+ <node id="917506441" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:40:38Z" user="MaxM" uid="55730" lat="-34.8851362" lon="-56.0696575"/>
+ <node id="917509331" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:41:44Z" user="MaxM" uid="55730" lat="-34.8783778" lon="-56.0702513"/>
+ <node id="917511082" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T21:42:26Z" user="MaxM" uid="55730" lat="-34.8775092" lon="-56.0769712"/>
+ <node id="917513077" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:27Z" user="muralito" uid="755114" lat="-34.8802681" lon="-56.0721862"/>
+ <node id="917520077" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:45:12Z" user="MaxM" uid="55730" lat="-34.8773158" lon="-56.0782139"/>
+ <node id="917529746" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:48:18Z" user="MaxM" uid="55730" lat="-34.8770073" lon="-56.0714485"/>
+ <node id="917530395" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:48:30Z" user="MaxM" uid="55730" lat="-34.8796983" lon="-56.0737229"/>
+ <node id="917530691" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:09Z" user="TheNodeWarrior" uid="4759993" lat="-34.8768943" lon="-56.0706903"/>
+ <node id="917532652" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T21:49:25Z" user="MaxM" uid="55730" lat="-34.8769509" lon="-56.0711516"/>
+ <node id="917533009" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T21:49:32Z" user="MaxM" uid="55730" lat="-34.8807885" lon="-56.0765810"/>
+ <node id="917540006" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:27Z" user="muralito" uid="755114" lat="-34.8784638" lon="-56.0700746"/>
+ <node id="917545920" visible="true" version="2" changeset="17248480" timestamp="2013-08-07T00:10:27Z" user="muralito" uid="755114" lat="-34.8793221" lon="-56.0726491"/>
+ <node id="917550935" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T21:58:32Z" user="MaxM" uid="55730" lat="-34.8789634" lon="-56.0713595"/>
+ <node id="917553396" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T21:59:29Z" user="MaxM" uid="55730" lat="-34.8781551" lon="-56.0694332"/>
+ <node id="917553607" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T21:59:34Z" user="MaxM" uid="55730" lat="-34.8808997" lon="-56.0775591"/>
+ <node id="917558473" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:01:19Z" user="MaxM" uid="55730" lat="-34.8783504" lon="-56.0731567"/>
+ <node id="917559521" visible="true" version="3" changeset="43650064" timestamp="2016-11-14T18:23:10Z" user="TheNodeWarrior" uid="4759993" lat="-34.8769551" lon="-56.0706875"/>
+ <node id="917559778" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T22:01:41Z" user="MaxM" uid="55730" lat="-34.8861423" lon="-56.0691592"/>
+ <node id="917566360" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:03:19Z" user="MaxM" uid="55730" lat="-34.8812034" lon="-56.0777814"/>
+ <node id="917577426" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:06:27Z" user="MaxM" uid="55730" lat="-34.8868697" lon="-56.0687789"/>
+ <node id="917586845" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:10:30Z" user="MaxM" uid="55730" lat="-34.8773730" lon="-56.0780328"/>
+ <node id="917595846" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:15:21Z" user="MaxM" uid="55730" lat="-34.8735647" lon="-56.0705237"/>
+ <node id="917601101" visible="true" version="2" changeset="43651429" timestamp="2016-11-14T19:13:09Z" user="TheNodeWarrior" uid="4759993" lat="-34.8770247" lon="-56.0789411"/>
+ <node id="917602982" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T22:19:18Z" user="MaxM" uid="55730" lat="-34.8807032" lon="-56.0766196"/>
+ <node id="917605560" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:21:22Z" user="MaxM" uid="55730" lat="-34.8782109" lon="-56.0731952"/>
+ <node id="917606276" visible="true" version="1" changeset="5815354" timestamp="2010-09-18T22:21:45Z" user="MaxM" uid="55730" lat="-34.8827156" lon="-56.0709117"/>
+ <node id="917607111" visible="true" version="2" changeset="12762851" timestamp="2012-08-17T14:17:24Z" user="muralito" uid="755114" lat="-34.8786834" lon="-56.0705049"/>
+ <node id="917615750" visible="true" version="1" changeset="5814862" timestamp="2010-09-18T22:26:31Z" user="MaxM" uid="55730" lat="-34.8782707" lon="-56.0703996"/>
+ <node id="917618328" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:29Z" user="muralito" uid="755114" lat="-34.8783164" lon="-56.0699184"/>
+ <node id="917621943" visible="true" version="2" changeset="27471337" timestamp="2014-12-14T23:24:31Z" user="muralito" uid="755114" lat="-34.8772005" lon="-56.0707322"/>
+ <node id="917624424" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:10Z" user="TheNodeWarrior" uid="4759993" lat="-34.8782497" lon="-56.0703303"/>
+ <node id="917672980" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:01:28Z" user="MaxM" uid="55730" lat="-34.8774991" lon="-56.0774220"/>
+ <node id="917673395" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:01:40Z" user="MaxM" uid="55730" lat="-34.8770821" lon="-56.0706188"/>
+ <node id="917686604" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:08:55Z" user="MaxM" uid="55730" lat="-34.8803506" lon="-56.0753104"/>
+ <node id="917681648" visible="true" version="4" changeset="44125017" timestamp="2016-12-02T21:42:48Z" user="JuanVerde" uid="3474216" lat="-34.8784376" lon="-56.0698900"/>
+ <node id="917685378" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:10Z" user="TheNodeWarrior" uid="4759993" lat="-34.8775119" lon="-56.0707073"/>
+ <node id="917688309" visible="true" version="2" changeset="44188344" timestamp="2016-12-05T17:24:25Z" user="JuanVerde" uid="3474216" lat="-34.8813841" lon="-56.0781708"/>
+ <node id="917707780" visible="true" version="4" changeset="17248480" timestamp="2013-08-07T00:10:29Z" user="muralito" uid="755114" lat="-34.8794011" lon="-56.0726077"/>
+ <node id="917712276" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:19:34Z" user="MaxM" uid="55730" lat="-34.8702317" lon="-56.0703779"/>
+ <node id="917709801" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:29Z" user="muralito" uid="755114" lat="-34.8818223" lon="-56.0713906"/>
+ <node id="917716496" visible="true" version="2" changeset="12762851" timestamp="2012-08-17T14:17:24Z" user="muralito" uid="755114" lat="-34.8784393" lon="-56.0692428"/>
+ <node id="917734835" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:29:01Z" user="MaxM" uid="55730" lat="-34.8807032" lon="-56.0766175"/>
+ <node id="917734754" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:30Z" user="muralito" uid="755114" lat="-34.8807622" lon="-56.0719257"/>
+ <node id="917722191" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:22:31Z" user="MaxM" uid="55730" lat="-34.8732765" lon="-56.0705666"/>
+ <node id="917734481" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:28:47Z" user="MaxM" uid="55730" lat="-34.8773105" lon="-56.0733647"/>
+ <node id="917734943" visible="true" version="1" changeset="5815940" timestamp="2010-09-18T23:29:05Z" user="MaxM" uid="55730" lat="-34.8772214" lon="-56.0705543"/>
+ <node id="944243760" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T22:33:24Z" user="xybot" uid="70696" lat="-34.8777165" lon="-56.0710377">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6446"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400839"/>
+ </node>
+ <node id="944066209" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T18:53:44Z" user="xybot" uid="70696" lat="-34.8773887" lon="-56.0729856">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6308,6310,6312,6314"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400804"/>
+ </node>
+ <node id="944092681" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T19:27:42Z" user="xybot" uid="70696" lat="-34.8781036" lon="-56.0721337">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6394"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400832"/>
+ </node>
+ <node id="944090064" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T19:24:38Z" user="xybot" uid="70696" lat="-34.8770815" lon="-56.0705422">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2246,2248"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="63389"/>
+ </node>
+ <node id="944104544" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T19:39:48Z" user="xybot" uid="70696" lat="-34.8778916" lon="-56.0715302">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6422"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400836"/>
+ </node>
+ <node id="944108782" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T19:47:16Z" user="xybot" uid="70696" lat="-34.8786874" lon="-56.0700604">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6400"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="421578"/>
+ </node>
+ <node id="944116435" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T20:00:42Z" user="xybot" uid="70696" lat="-34.8777856" lon="-56.0712277">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6436"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400838"/>
+ </node>
+ <node id="944133311" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T20:25:11Z" user="xybot" uid="70696" lat="-34.8772937" lon="-56.0723411">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6344"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400808"/>
+ </node>
+ <node id="944133645" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T20:25:55Z" user="xybot" uid="70696" lat="-34.8774721" lon="-56.0732712">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2262,2274"/>
+  <tag k="addr:street" v="Córcega"/>
+  <tag k="mvdgis:cod_nombre" v="2148"/>
+  <tag k="mvdgis:padron" v="400803"/>
+ </node>
+ <node id="944144660" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T20:51:31Z" user="xybot" uid="70696" lat="-34.8776053" lon="-56.0712318">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6439,6441"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400816"/>
+ </node>
+ <node id="944173327" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T21:25:00Z" user="xybot" uid="70696" lat="-34.8771659" lon="-56.0709598">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2243"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="400814"/>
+ </node>
+ <node id="944198039" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T21:58:23Z" user="xybot" uid="70696" lat="-34.8786188" lon="-56.0716957">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6391"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400847"/>
+ </node>
+ <node id="944193947" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T21:54:14Z" user="xybot" uid="70696" lat="-34.8773241" lon="-56.0704225">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2238,2240"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="188084"/>
+ </node>
+ <node id="944212698" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T22:09:21Z" user="xybot" uid="70696" lat="-34.8775223" lon="-56.0709865">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6447"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400815"/>
+ </node>
+ <node id="944283287" visible="true" version="2" changeset="6004982" timestamp="2010-10-10T23:00:33Z" user="xybot" uid="70696" lat="-34.8779469" lon="-56.0716807">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6414"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400835"/>
+ </node>
+ <node id="944772251" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T03:12:35Z" user="xybot" uid="70696" lat="-34.8779906" lon="-56.0726869">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6363,6365"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400824"/>
+ </node>
+ <node id="944765431" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T02:16:56Z" user="xybot" uid="70696" lat="-34.8788074" lon="-56.0704154">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6394,6398"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="421577"/>
+ </node>
+ <node id="944765126" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T02:16:43Z" user="xybot" uid="70696" lat="-34.8772038" lon="-56.0717937">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6366"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400811"/>
+ </node>
+ <node id="944766735" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T02:26:53Z" user="xybot" uid="70696" lat="-34.8784485" lon="-56.0730113">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2244"/>
+  <tag k="addr:street" v="Córcega"/>
+  <tag k="mvdgis:cod_nombre" v="2148"/>
+  <tag k="mvdgis:padron" v="400827"/>
+ </node>
+ <node id="944774080" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T03:28:37Z" user="xybot" uid="70696" lat="-34.8784575" lon="-56.0712448">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6419"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400844"/>
+ </node>
+ <node id="944809235" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T05:54:29Z" user="xybot" uid="70696" lat="-34.8772607" lon="-56.0721534">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6352"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400809"/>
+ </node>
+ <node id="944382626" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T18:50:55Z" user="xybot" uid="70696" lat="-34.8788949" lon="-56.0706654">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6390"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="421576"/>
+ </node>
+ <node id="944445570" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T19:27:44Z" user="xybot" uid="70696" lat="-34.8779578" lon="-56.0725279">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6367,6369"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400823"/>
+ </node>
+ <node id="944507893" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T20:32:48Z" user="xybot" uid="70696" lat="-34.8780529" lon="-56.0719831">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6402"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400833"/>
+ </node>
+ <node id="944516026" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T20:53:17Z" user="xybot" uid="70696" lat="-34.8784068" lon="-56.0710942">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6429"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400843"/>
+ </node>
+ <node id="944516474" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T20:54:36Z" user="xybot" uid="70696" lat="-34.8788355" lon="-56.0723320">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6369"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400851"/>
+ </node>
+ <node id="944523347" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T21:11:35Z" user="xybot" uid="70696" lat="-34.8774497" lon="-56.0709306">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2235"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="400815"/>
+ </node>
+ <node id="944581817" visible="true" version="2" changeset="6014369" timestamp="2010-10-11T23:34:20Z" user="xybot" uid="70696" lat="-34.8788816" lon="-56.0724648">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6363,6365"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400852"/>
+ </node>
+ <node id="944751727" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T00:42:53Z" user="xybot" uid="70696" lat="-34.8778877" lon="-56.0721922">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6383,6385"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400821"/>
+ </node>
+ <node id="944759760" visible="true" version="2" changeset="6014369" timestamp="2010-10-12T01:39:56Z" user="xybot" uid="70696" lat="-34.8782373" lon="-56.0725234">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6372"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400829"/>
+ </node>
+ <node id="945562928" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T07:14:51Z" user="xybot" uid="70696" lat="-34.8778503" lon="-56.0720189">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6403,6407"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400820"/>
+ </node>
+ <node id="944804120" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T05:18:20Z" user="xybot" uid="70696" lat="-34.8787756" lon="-56.0721569">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6375,6377,6379"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400850"/>
+ </node>
+ <node id="944808441" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T05:49:51Z" user="xybot" uid="70696" lat="-34.8775891" lon="-56.0702917">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2226"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="5533"/>
+ </node>
+ <node id="944824690" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T06:45:14Z" user="xybot" uid="70696" lat="-34.8780189" lon="-56.0728459">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6359"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400825"/>
+ </node>
+ <node id="945053040" visible="true" version="2" changeset="6017371" timestamp="2010-10-12T09:36:50Z" user="xybot" uid="70696" lat="-34.8771422" lon="-56.0714039">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6380"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400813"/>
+ </node>
+ <node id="945442727" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T20:04:36Z" user="xybot" uid="70696" lat="-34.8769818" lon="-56.0704715">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6406,6408,6410"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="63389"/>
+ </node>
+ <node id="945469868" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T21:29:53Z" user="xybot" uid="70696" lat="-34.8780833" lon="-56.0706492">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2213"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="400841"/>
+ </node>
+ <node id="945520500" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T22:16:08Z" user="xybot" uid="70696" lat="-34.8776699" lon="-56.0714219">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6431,6433"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400817"/>
+ </node>
+ <node id="945520926" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T22:19:36Z" user="xybot" uid="70696" lat="-34.8773650" lon="-56.0728231">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6318"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400805"/>
+ </node>
+ <node id="945524641" visible="true" version="2" changeset="6023420" timestamp="2010-10-12T22:48:33Z" user="xybot" uid="70696" lat="-34.8778817" lon="-56.0731811">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2260"/>
+  <tag k="addr:street" v="Córcega"/>
+  <tag k="mvdgis:cod_nombre" v="2148"/>
+  <tag k="mvdgis:padron" v="400826"/>
+ </node>
+ <node id="945535764" visible="true" version="2" changeset="6023420" timestamp="2010-10-13T00:07:43Z" user="xybot" uid="70696" lat="-34.8773412" lon="-56.0726620">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6326"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400806"/>
+ </node>
+ <node id="945540229" visible="true" version="2" changeset="6023420" timestamp="2010-10-13T02:41:41Z" user="xybot" uid="70696" lat="-34.8780517" lon="-56.0730062">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6353"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400826"/>
+ </node>
+ <node id="945540423" visible="true" version="2" changeset="6023420" timestamp="2010-10-13T02:43:41Z" user="xybot" uid="70696" lat="-34.8785128" lon="-56.0713932">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6411"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400845"/>
+ </node>
+ <node id="945541406" visible="true" version="2" changeset="6023420" timestamp="2010-10-13T02:50:29Z" user="xybot" uid="70696" lat="-34.8777149" lon="-56.0702301">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2220"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="188086"/>
+ </node>
+ <node id="945543143" visible="true" version="2" changeset="6023420" timestamp="2010-10-13T03:29:36Z" user="xybot" uid="70696" lat="-34.8774633" lon="-56.0703539">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2228"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="188085"/>
+ </node>
+ <node id="945546079" visible="true" version="2" changeset="6023420" timestamp="2010-10-13T04:41:34Z" user="xybot" uid="70696" lat="-34.8777852" lon="-56.0717605">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6415,6417"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400819"/>
+ </node>
+ <node id="945554146" visible="true" version="2" changeset="6023420" timestamp="2010-10-13T05:59:23Z" user="xybot" uid="70696" lat="-34.8783560" lon="-56.0709450">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6437"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400842"/>
+ </node>
+ <node id="945555657" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T06:11:46Z" user="xybot" uid="70696" lat="-34.8779251" lon="-56.0723662">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6373,6375"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400822"/>
+ </node>
+ <node id="945560474" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T06:52:49Z" user="xybot" uid="70696" lat="-34.8771753" lon="-56.0716032">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6374"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400812"/>
+ </node>
+ <node id="945561643" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T07:02:49Z" user="xybot" uid="70696" lat="-34.8786695" lon="-56.0718476">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6387"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400848"/>
+ </node>
+ <node id="945566538" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T07:46:02Z" user="xybot" uid="70696" lat="-34.8778363" lon="-56.0713769">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6428"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400837"/>
+ </node>
+ <node id="945563350" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T07:18:51Z" user="xybot" uid="70696" lat="-34.8774170" lon="-56.0731494">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6304"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400803"/>
+ </node>
+ <node id="945567342" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T07:53:14Z" user="xybot" uid="70696" lat="-34.8779305" lon="-56.0701244">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2210"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="188087"/>
+ </node>
+ <node id="945572943" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T08:24:06Z" user="xybot" uid="70696" lat="-34.8779081" lon="-56.0707360">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="2215"/>
+  <tag k="addr:street" v="Havre"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="mvdgis:padron" v="400840"/>
+ </node>
+ <node id="945572709" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T08:21:55Z" user="xybot" uid="70696" lat="-34.8777344" lon="-56.0716044">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6425,6427"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400818"/>
+ </node>
+ <node id="945583406" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T10:02:45Z" user="xybot" uid="70696" lat="-34.8785635" lon="-56.0715438">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6403"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400846"/>
+ </node>
+ <node id="945585348" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T10:18:11Z" user="xybot" uid="70696" lat="-34.8783157" lon="-56.0727495">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6362"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400828"/>
+ </node>
+ <node id="945591429" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T10:46:50Z" user="xybot" uid="70696" lat="-34.8787203" lon="-56.0719996">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6381"/>
+  <tag k="addr:street" v="Avenida Italia"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="mvdgis:padron" v="400849"/>
+ </node>
+ <node id="945592267" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T10:56:31Z" user="xybot" uid="70696" lat="-34.8781405" lon="-56.0722386">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6384"/>
+  <tag k="addr:street" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="mvdgis:padron" v="400831"/>
+ </node>
+ <node id="945595688" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T11:10:53Z" user="xybot" uid="70696" lat="-34.8773174" lon="-56.0724981">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6336"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400807"/>
+ </node>
+ <node id="945600339" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T11:47:21Z" user="xybot" uid="70696" lat="-34.8772833" lon="-56.0739435">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6400"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="63912"/>
+ </node>
+ <node id="945607208" visible="true" version="2" changeset="6026595" timestamp="2010-10-13T12:37:42Z" user="xybot" uid="70696" lat="-34.8772323" lon="-56.0719759">
+  <tag k="addr:city" v="Montevideo"/>
+  <tag k="addr:country" v="UY"/>
+  <tag k="addr:housenumber" v="6360"/>
+  <tag k="addr:street" v="General Máximo Tajes"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="mvdgis:padron" v="400810"/>
+ </node>
+ <node id="960166902" visible="true" version="2" changeset="15008967" timestamp="2013-02-12T18:11:13Z" user="muralito" uid="755114" lat="-34.8804992" lon="-56.0764392"/>
+ <node id="450763456" visible="true" version="5" changeset="31211683" timestamp="2015-05-16T20:31:09Z" user="muralito" uid="755114" lat="-34.8775991" lon="-56.0774527">
+  <tag k="barrier" v="lift_gate"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="1659008825" visible="true" version="2" changeset="12989232" timestamp="2012-09-05T00:16:35Z" user="muralito" uid="755114" lat="-34.8785650" lon="-56.0725421"/>
+ <node id="1659008826" visible="true" version="2" changeset="12989232" timestamp="2012-09-05T00:16:35Z" user="muralito" uid="755114" lat="-34.8788988" lon="-56.0725389"/>
+ <node id="1659008827" visible="true" version="2" changeset="12989232" timestamp="2012-09-05T00:16:35Z" user="muralito" uid="755114" lat="-34.8786155" lon="-56.0726863"/>
+ <node id="1659008828" visible="true" version="2" changeset="12989232" timestamp="2012-09-05T00:16:35Z" user="muralito" uid="755114" lat="-34.8788483" lon="-56.0723947"/>
+ <node id="2297166976" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:44Z" user="muralito" uid="755114" lat="-34.8772581" lon="-56.0787216"/>
+ <node id="2297166978" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:44Z" user="muralito" uid="755114" lat="-34.8772647" lon="-56.0788054"/>
+ <node id="2297166980" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:44Z" user="muralito" uid="755114" lat="-34.8773071" lon="-56.0788683"/>
+ <node id="2297166982" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:44Z" user="muralito" uid="755114" lat="-34.8773110" lon="-56.0786007"/>
+ <node id="2297166984" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:44Z" user="muralito" uid="755114" lat="-34.8774538" lon="-56.0735216"/>
+ <node id="2297166990" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8774605" lon="-56.0736070"/>
+ <node id="2297166992" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8774657" lon="-56.0781655"/>
+ <node id="2297166994" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8774737" lon="-56.0734636"/>
+ <node id="2297166996" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8774816" lon="-56.0737714"/>
+ <node id="2297166998" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8775133" lon="-56.0742485"/>
+ <node id="2297167000" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8775239" lon="-56.0745903"/>
+ <node id="2297167002" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8775372" lon="-56.0734297"/>
+ <node id="2297167004" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8775491" lon="-56.0778076"/>
+ <node id="2297167006" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8775848" lon="-56.0756541"/>
+ <node id="2297167008" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8776350" lon="-56.0766696"/>
+ <node id="2297167010" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8776429" lon="-56.0771016"/>
+ <node id="2297167012" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8782922" lon="-56.0732927"/>
+ <node id="2297167014" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8789728" lon="-56.0729420"/>
+ <node id="2297167016" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8790102" lon="-56.0729499"/>
+ <node id="2297167017" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8790346" lon="-56.0729830"/>
+ <node id="2297167018" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8797071" lon="-56.0802964"/>
+ <node id="2297167019" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8797277" lon="-56.0784580"/>
+ <node id="2297167021" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8798100" lon="-56.0787885"/>
+ <node id="2297167023" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8798437" lon="-56.0781594"/>
+ <node id="2297167025" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8799363" lon="-56.0782243"/>
+ <node id="2297167029" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8800775" lon="-56.0782916"/>
+ <node id="2297167031" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8801565" lon="-56.0765906"/>
+ <node id="2297167033" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8801868" lon="-56.0782779"/>
+ <node id="2297167035" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8802121" lon="-56.0790336"/>
+ <node id="2297167037" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8802398" lon="-56.0768231"/>
+ <node id="2297167039" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8802687" lon="-56.0765370"/>
+ <node id="2297167041" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8802846" lon="-56.0768015"/>
+ <node id="2297167043" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8805062" lon="-56.0774056"/>
+ <node id="2297167045" visible="true" version="1" changeset="16049153" timestamp="2013-05-09T15:02:45Z" user="muralito" uid="755114" lat="-34.8807179" lon="-56.0779998"/>
+ <node id="917511650" visible="true" version="2" changeset="16052653" timestamp="2013-05-09T18:31:30Z" user="muralito" uid="755114" lat="-34.8701469" lon="-56.0703873"/>
+ <node id="917434078" visible="true" version="4" changeset="18552755" timestamp="2013-10-26T15:15:18Z" user="muralito" uid="755114" lat="-34.8811440" lon="-56.0782536"/>
+ <node id="917593835" visible="true" version="3" changeset="11090884" timestamp="2012-03-25T03:00:48Z" user="ffalla" uid="346768" lat="-34.8812654" lon="-56.0782307"/>
+ <node id="1907866772" visible="true" version="1" changeset="13052005" timestamp="2012-09-10T03:46:42Z" user="dbusse" uid="149876" lat="-34.8776235" lon="-56.0761060"/>
+ <node id="917393178" visible="true" version="2" changeset="11208340" timestamp="2012-04-06T23:42:22Z" user="ffalla" uid="346768" lat="-34.8782016" lon="-56.0691752"/>
+ <node id="917681355" visible="true" version="4" changeset="17248480" timestamp="2013-08-07T00:10:29Z" user="muralito" uid="755114" lat="-34.8782121" lon="-56.0678983">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2152081824" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:08Z" user="muralito" uid="755114" lat="-34.8777178" lon="-56.0705715"/>
+ <node id="2152081826" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:08Z" user="muralito" uid="755114" lat="-34.8777184" lon="-56.0703503"/>
+ <node id="2152081042" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:17:51Z" user="muralito" uid="755114" lat="-34.8770480" lon="-56.0706774"/>
+ <node id="2152081051" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:17:51Z" user="muralito" uid="755114" lat="-34.8770523" lon="-56.0706627"/>
+ <node id="2152081049" visible="true" version="2" changeset="17248480" timestamp="2013-08-07T00:10:23Z" user="muralito" uid="755114" lat="-34.8770521" lon="-56.0706892"/>
+ <node id="2152081055" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:17:52Z" user="muralito" uid="755114" lat="-34.8770624" lon="-56.0706488"/>
+ <node id="2152081061" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:17:52Z" user="muralito" uid="755114" lat="-34.8770767" lon="-56.0706404"/>
+ <node id="2152081331" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:17:57Z" user="muralito" uid="755114" lat="-34.8772317" lon="-56.0705745"/>
+ <node id="2152081513" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:00Z" user="muralito" uid="755114" lat="-34.8773054" lon="-56.0706991"/>
+ <node id="2152081673" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:03Z" user="muralito" uid="755114" lat="-34.8774213" lon="-56.0706880"/>
+ <node id="2152081695" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:03Z" user="muralito" uid="755114" lat="-34.8774712" lon="-56.0706790"/>
+ <node id="2152081705" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:03Z" user="muralito" uid="755114" lat="-34.8775067" lon="-56.0706727"/>
+ <node id="2152081718" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:04Z" user="muralito" uid="755114" lat="-34.8775379" lon="-56.0706613"/>
+ <node id="2152081742" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:04Z" user="muralito" uid="755114" lat="-34.8775660" lon="-56.0706490"/>
+ <node id="2152081858" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:09Z" user="muralito" uid="755114" lat="-34.8779811" lon="-56.0704342"/>
+ <node id="2152081899" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781276" lon="-56.0701335"/>
+ <node id="2152081907" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781506" lon="-56.0701235"/>
+ <node id="2152081917" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781621" lon="-56.0685149"/>
+ <node id="2152081918" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781638" lon="-56.0684914"/>
+ <node id="2152081919" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781653" lon="-56.0701245"/>
+ <node id="2152081922" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781759" lon="-56.0684730"/>
+ <node id="2152081924" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781795" lon="-56.0701334"/>
+ <node id="2152081926" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781802" lon="-56.0703281"/>
+ <node id="2152081930" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781923" lon="-56.0684666"/>
+ <node id="2152081931" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781930" lon="-56.0701505"/>
+ <node id="2152081932" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8781932" lon="-56.0703157"/>
+ <node id="2152081937" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8782041" lon="-56.0689677"/>
+ <node id="2152081939" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8782071" lon="-56.0702951"/>
+ <node id="2152081940" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8782098" lon="-56.0684770"/>
+ <node id="2152081941" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8782107" lon="-56.0702292"/>
+ <node id="2152081942" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:10Z" user="muralito" uid="755114" lat="-34.8782111" lon="-56.0702778"/>
+ <node id="2152081944" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782192" lon="-56.0685026"/>
+ <node id="2152081946" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782267" lon="-56.0686000"/>
+ <node id="2152081949" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782341" lon="-56.0692541"/>
+ <node id="2152081951" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782359" lon="-56.0700423"/>
+ <node id="2152081953" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782372" lon="-56.0700162"/>
+ <node id="2152081955" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782495" lon="-56.0701733"/>
+ <node id="2152081956" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782502" lon="-56.0688701"/>
+ <node id="2152081957" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782506" lon="-56.0700036"/>
+ <node id="2152081959" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782581" lon="-56.0694586"/>
+ <node id="2152081961" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782606" lon="-56.0702994"/>
+ <node id="2152081965" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782714" lon="-56.0703523"/>
+ <node id="2152081966" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782715" lon="-56.0699901"/>
+ <node id="2152081967" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782763" lon="-56.0691314"/>
+ <node id="2152081968" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782790" lon="-56.0699879"/>
+ <node id="2152081972" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782860" lon="-56.0699944"/>
+ <node id="2152081974" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782890" lon="-56.0703862"/>
+ <node id="2152081980" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8782912" lon="-56.0700144"/>
+ <node id="2152081983" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8783020" lon="-56.0693794"/>
+ <node id="2152081985" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8783022" lon="-56.0697408"/>
+ <node id="2152081986" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8783088" lon="-56.0701028"/>
+ <node id="2152081988" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8783132" lon="-56.0704128"/>
+ <node id="2152082004" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8783252" lon="-56.0704353"/>
+ <node id="2152082007" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:11Z" user="muralito" uid="755114" lat="-34.8783319" lon="-56.0695769"/>
+ <node id="2152082015" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8783327" lon="-56.0699062"/>
+ <node id="2152082019" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8783481" lon="-56.0702640"/>
+ <node id="2152082022" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8783572" lon="-56.0700145"/>
+ <node id="2152082024" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8783638" lon="-56.0697639"/>
+ <node id="2152082029" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8783801" lon="-56.0706117"/>
+ <node id="2152082031" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8783900" lon="-56.0701547"/>
+ <node id="2152082032" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8783918" lon="-56.0704179"/>
+ <node id="2152082035" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8783958" lon="-56.0699211"/>
+ <node id="2152082038" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8784295" lon="-56.0703063"/>
+ <node id="2152082039" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8784383" lon="-56.0705715"/>
+ <node id="2152082041" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8784393" lon="-56.0701193"/>
+ <node id="2152082042" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8784593" lon="-56.0708552"/>
+ <node id="2152082044" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8784679" lon="-56.0704434"/>
+ <node id="2152082049" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8784944" lon="-56.0703246"/>
+ <node id="2152082050" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8784988" lon="-56.0707771"/>
+ <node id="2152082063" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:12Z" user="muralito" uid="755114" lat="-34.8785165" lon="-56.0706027"/>
+ <node id="2152082093" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:13Z" user="muralito" uid="755114" lat="-34.8785505" lon="-56.0705255"/>
+ <node id="2152082100" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:13Z" user="muralito" uid="755114" lat="-34.8785598" lon="-56.0707339"/>
+ <node id="2152082102" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:13Z" user="muralito" uid="755114" lat="-34.8785619" lon="-56.0711671"/>
+ <node id="2152082134" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:13Z" user="muralito" uid="755114" lat="-34.8786209" lon="-56.0709168"/>
+ <node id="2152082138" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:13Z" user="muralito" uid="755114" lat="-34.8786291" lon="-56.0711545"/>
+ <node id="2152082151" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:13Z" user="muralito" uid="755114" lat="-34.8786584" lon="-56.0708546"/>
+ <node id="2152082178" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:13Z" user="muralito" uid="755114" lat="-34.8786806" lon="-56.0714997"/>
+ <node id="2152082189" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:14Z" user="muralito" uid="755114" lat="-34.8787146" lon="-56.0711798"/>
+ <node id="2152082194" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:14Z" user="muralito" uid="755114" lat="-34.8787596" lon="-56.0717433"/>
+ <node id="2152082195" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:14Z" user="muralito" uid="755114" lat="-34.8787735" lon="-56.0711913"/>
+ <node id="2152082197" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:14Z" user="muralito" uid="755114" lat="-34.8788010" lon="-56.0716468"/>
+ <node id="2152082199" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:14Z" user="muralito" uid="755114" lat="-34.8788663" lon="-56.0720713"/>
+ <node id="2152082206" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:14Z" user="muralito" uid="755114" lat="-34.8788867" lon="-56.0716755"/>
+ <node id="2152082210" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:14Z" user="muralito" uid="755114" lat="-34.8788940" lon="-56.0715240"/>
+ <node id="2152082232" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:14Z" user="muralito" uid="755114" lat="-34.8789535" lon="-56.0723280"/>
+ <node id="2152082253" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:14Z" user="muralito" uid="755114" lat="-34.8789771" lon="-56.0721522"/>
+ <node id="2152082286" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8790644" lon="-56.0721891"/>
+ <node id="2152082289" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8790674" lon="-56.0726839"/>
+ <node id="2152082295" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8790837" lon="-56.0726968"/>
+ <node id="2152082298" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8790910" lon="-56.0720999"/>
+ <node id="2152082300" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8791045" lon="-56.0726987"/>
+ <node id="2152082304" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8791270" lon="-56.0726915"/>
+ <node id="2152082305" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8791355" lon="-56.0726183"/>
+ <node id="2152082307" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8791395" lon="-56.0726717"/>
+ <node id="2152082309" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8791445" lon="-56.0726467"/>
+ <node id="2152082319" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:17Z" user="muralito" uid="755114" lat="-34.8791869" lon="-56.0725417"/>
+ <node id="2152082320" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:18Z" user="muralito" uid="755114" lat="-34.8791959" lon="-56.0725565"/>
+ <node id="2152082324" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:18Z" user="muralito" uid="755114" lat="-34.8792074" lon="-56.0725629"/>
+ <node id="2152082325" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:18Z" user="muralito" uid="755114" lat="-34.8792082" lon="-56.0724394"/>
+ <node id="2152082331" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:18Z" user="muralito" uid="755114" lat="-34.8792209" lon="-56.0725601"/>
+ <node id="2152082338" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:18Z" user="muralito" uid="755114" lat="-34.8792334" lon="-56.0725477"/>
+ <node id="2152082340" visible="true" version="1" changeset="15008729" timestamp="2013-02-12T17:18:18Z" user="muralito" uid="755114" lat="-34.8792382" lon="-56.0725313"/>
+ <node id="2409361198" visible="true" version="1" changeset="17248480" timestamp="2013-08-07T00:10:00Z" user="muralito" uid="755114" lat="-34.8774083" lon="-56.0705121"/>
+ <node id="2409361199" visible="true" version="1" changeset="17248480" timestamp="2013-08-07T00:10:00Z" user="muralito" uid="755114" lat="-34.8786558" lon="-56.0707487"/>
+ <node id="2152081057" visible="true" version="2" changeset="17248480" timestamp="2013-08-07T00:10:23Z" user="muralito" uid="755114" lat="-34.8770664" lon="-56.0706974"/>
+ <node id="2152081220" visible="true" version="2" changeset="17248480" timestamp="2013-08-07T00:10:23Z" user="muralito" uid="755114" lat="-34.8771946" lon="-56.0707033"/>
+ <node id="917370057" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:26Z" user="muralito" uid="755114" lat="-34.8780869" lon="-56.0679566">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="917533138" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:27Z" user="muralito" uid="755114" lat="-34.8781371" lon="-56.0684385"/>
+ <node id="917545076" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:27Z" user="muralito" uid="755114" lat="-34.8782342" lon="-56.0694130"/>
+ <node id="917584815" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:27Z" user="muralito" uid="755114" lat="-34.8785280" lon="-56.0698681"/>
+ <node id="917594596" visible="true" version="4" changeset="17248480" timestamp="2013-08-07T00:10:27Z" user="muralito" uid="755114" lat="-34.8782978" lon="-56.0678548"/>
+ <node id="917609151" visible="true" version="4" changeset="17248480" timestamp="2013-08-07T00:10:29Z" user="muralito" uid="755114" lat="-34.8782601" lon="-56.0695725"/>
+ <node id="917717039" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:29Z" user="muralito" uid="755114" lat="-34.8791886" lon="-56.0727168"/>
+ <node id="917737574" visible="true" version="3" changeset="17248480" timestamp="2013-08-07T00:10:30Z" user="muralito" uid="755114" lat="-34.8805591" lon="-56.0720350"/>
+ <node id="2509461462" visible="true" version="1" changeset="18552755" timestamp="2013-10-26T15:15:00Z" user="muralito" uid="755114" lat="-34.8811152" lon="-56.0781716">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2523406324" visible="true" version="1" changeset="18768545" timestamp="2013-11-07T17:42:47Z" user="muralito" uid="755114" lat="-34.8788474" lon="-56.0710039"/>
+ <node id="2297167027" visible="true" version="3" changeset="22055051" timestamp="2014-05-01T00:29:46Z" user="muralito" uid="755114" lat="-34.8800409" lon="-56.0794786">
+  <tag k="barrier" v="lift_gate"/>
+ </node>
+ <node id="2509461436" visible="true" version="3" changeset="26385769" timestamp="2014-10-28T11:55:02Z" user="muralito" uid="755114" lat="-34.8797633" lon="-56.0785942">
+  <tag k="bicycle" v="no"/>
+  <tag k="entrance" v="yes"/>
+  <tag k="foot" v="yes"/>
+ </node>
+ <node id="3221127844" visible="true" version="1" changeset="27281400" timestamp="2014-12-06T01:55:12Z" user="muralito" uid="755114" lat="-34.8748587" lon="-56.0746765"/>
+ <node id="3221127845" visible="true" version="1" changeset="27281400" timestamp="2014-12-06T01:55:12Z" user="muralito" uid="755114" lat="-34.8750018" lon="-56.0708288"/>
+ <node id="3221127853" visible="true" version="1" changeset="27281400" timestamp="2014-12-06T01:55:13Z" user="muralito" uid="755114" lat="-34.8768425" lon="-56.0709257"/>
+ <node id="3221127855" visible="true" version="1" changeset="27281400" timestamp="2014-12-06T01:55:13Z" user="muralito" uid="755114" lat="-34.8772321" lon="-56.0733754"/>
+ <node id="3221127856" visible="true" version="1" changeset="27281400" timestamp="2014-12-06T01:55:13Z" user="muralito" uid="755114" lat="-34.8772520" lon="-56.0758226"/>
+ <node id="3221127857" visible="true" version="1" changeset="27281400" timestamp="2014-12-06T01:55:13Z" user="muralito" uid="755114" lat="-34.8773395" lon="-56.0757257"/>
+ <node id="3522513182" visible="true" version="1" changeset="31211683" timestamp="2015-05-16T20:31:06Z" user="muralito" uid="755114" lat="-34.8802203" lon="-56.0767686">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="900110883" visible="true" version="6" changeset="31211683" timestamp="2015-05-16T20:31:09Z" user="muralito" uid="755114" lat="-34.8805529" lon="-56.0765936"/>
+ <node id="4496693464" visible="true" version="1" changeset="43580160" timestamp="2016-11-12T12:23:00Z" user="muralito" uid="755114" lat="-34.8782326" lon="-56.0680652"/>
+ <node id="4500943323" visible="true" version="1" changeset="43650064" timestamp="2016-11-14T18:23:07Z" user="TheNodeWarrior" uid="4759993" lat="-34.8770266" lon="-56.0707143"/>
+ <node id="4500943324" visible="true" version="1" changeset="43650064" timestamp="2016-11-14T18:23:07Z" user="TheNodeWarrior" uid="4759993" lat="-34.8770206" lon="-56.0706453"/>
+ <node id="917342215" visible="true" version="4" changeset="43650064" timestamp="2016-11-14T18:23:08Z" user="TheNodeWarrior" uid="4759993" lat="-34.8810622" lon="-56.0717649"/>
+ <node id="917348327" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:08Z" user="TheNodeWarrior" uid="4759993" lat="-34.8782013" lon="-56.0700590"/>
+ <node id="4465265147" visible="true" version="2" changeset="43650064" timestamp="2016-11-14T18:23:12Z" user="TheNodeWarrior" uid="4759993" lat="-34.8764893" lon="-56.0706718">
+  <tag k="traffic_calming" v="bump"/>
+ </node>
+ <node id="917473485" visible="true" version="2" changeset="43651429" timestamp="2016-11-14T19:13:08Z" user="TheNodeWarrior" uid="4759993" lat="-34.8772357" lon="-56.0784522"/>
+ <node id="917742841" visible="true" version="2" changeset="43651429" timestamp="2016-11-14T19:13:09Z" user="TheNodeWarrior" uid="4759993" lat="-34.8771598" lon="-56.0786193"/>
+ <node id="917606846" visible="true" version="3" changeset="43651581" timestamp="2016-11-14T19:19:25Z" user="TheNodeWarrior" uid="4759993" lat="-34.8774366" lon="-56.0760345"/>
+ <way id="78119034" visible="true" version="8" changeset="44124873" timestamp="2016-12-02T21:35:52Z" user="JuanVerde" uid="3474216">
+  <nd ref="917734481"/>
+  <nd ref="917605560"/>
+  <nd ref="917558473"/>
+  <nd ref="917390586"/>
+  <nd ref="917436875"/>
+  <nd ref="917717039"/>
+  <nd ref="917545920"/>
+  <nd ref="917707780"/>
+  <nd ref="917513077"/>
+  <nd ref="917737574"/>
+  <nd ref="917734754"/>
+  <nd ref="917342215"/>
+  <nd ref="917709801"/>
+  <nd ref="917606276"/>
+  <nd ref="917440827"/>
+  <nd ref="917506441"/>
+  <nd ref="917559778"/>
+  <nd ref="917577426"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="2148"/>
+  <tag k="name" v="Córcega"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="78098686" visible="true" version="5" changeset="16103647" timestamp="2013-05-12T22:15:24Z" user="muralito" uid="755114">
+  <nd ref="917387885"/>
+  <nd ref="917550935"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="name" v="Avenida Italia"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="78114370" visible="true" version="5" changeset="43650064" timestamp="2016-11-14T18:23:16Z" user="TheNodeWarrior" uid="4759993">
+  <nd ref="917559521"/>
+  <nd ref="4500943323"/>
+  <nd ref="917621943"/>
+  <nd ref="917685378"/>
+  <nd ref="917624424"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="name" v="Havre"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <way id="78110195" visible="true" version="5" changeset="43650064" timestamp="2016-11-14T18:23:15Z" user="TheNodeWarrior" uid="4759993">
+  <nd ref="917511650"/>
+  <nd ref="917712276"/>
+  <nd ref="917345329"/>
+  <nd ref="917332723"/>
+  <nd ref="917722191"/>
+  <nd ref="917411974"/>
+  <nd ref="917475872"/>
+  <nd ref="917595846"/>
+  <nd ref="917374567"/>
+  <nd ref="917391761"/>
+  <nd ref="4465265147"/>
+  <nd ref="917530691"/>
+  <nd ref="917559521"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="name" v="Havre"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <way id="78107945" visible="true" version="5" changeset="15925638" timestamp="2013-04-30T21:13:53Z" user="muralito" uid="755114">
+  <nd ref="917558473"/>
+  <nd ref="917413737"/>
+  <nd ref="917685378"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="name" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <way id="78109231" visible="true" version="9" changeset="43199144" timestamp="2016-10-26T18:17:48Z" user="muralito" uid="755114">
+  <nd ref="917601101"/>
+  <nd ref="917403469"/>
+  <nd ref="917742841"/>
+  <nd ref="917473485"/>
+  <nd ref="917520077"/>
+  <nd ref="917586845"/>
+  <nd ref="917504649"/>
+  <nd ref="917672980"/>
+  <nd ref="917421750"/>
+  <nd ref="917511082"/>
+  <nd ref="917606846"/>
+  <nd ref="450763379"/>
+  <nd ref="450763354"/>
+  <nd ref="917734481"/>
+  <nd ref="917529746"/>
+  <nd ref="917532652"/>
+  <nd ref="917530691"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="name" v="General Máximo Tajes"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <way id="78108450" visible="true" version="15" changeset="44124778" timestamp="2016-12-02T21:30:58Z" user="JuanVerde" uid="3474216">
+  <nd ref="917370057"/>
+  <nd ref="917533138"/>
+  <nd ref="917393178"/>
+  <nd ref="917545076"/>
+  <nd ref="917609151"/>
+  <nd ref="917618328"/>
+  <nd ref="917509331"/>
+  <nd ref="917717039"/>
+  <nd ref="960166902"/>
+  <nd ref="900110883"/>
+  <nd ref="917357680"/>
+  <nd ref="917553607"/>
+  <nd ref="2509461462"/>
+  <nd ref="917434078"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="75"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="name" v="Avenida Italia"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="153185979" visible="true" version="3" changeset="26385826" timestamp="2014-10-28T11:57:38Z" user="muralito" uid="755114">
+  <nd ref="1659008827"/>
+  <nd ref="1659008825"/>
+  <nd ref="1659008828"/>
+  <nd ref="1659008826"/>
+  <nd ref="1659008827"/>
+  <tag k="building" v="residential"/>
+  <tag k="description" v="Fiestas Infantiles o reuniones"/>
+  <tag k="name" v="Cumple Encantado"/>
+ </way>
+ <way id="220619938" visible="true" version="4" changeset="31211683" timestamp="2015-05-16T20:31:08Z" user="muralito" uid="755114">
+  <nd ref="2297167027"/>
+  <nd ref="2297167018"/>
+  <nd ref="2297166980"/>
+  <nd ref="2297166978"/>
+  <nd ref="2297166976"/>
+  <nd ref="2297166982"/>
+  <nd ref="2297166992"/>
+  <nd ref="2297167004"/>
+  <nd ref="450763456"/>
+  <nd ref="2297167010"/>
+  <nd ref="2297167008"/>
+  <nd ref="1907866772"/>
+  <nd ref="2297167006"/>
+  <nd ref="2297167000"/>
+  <nd ref="2297166998"/>
+  <nd ref="2297166996"/>
+  <nd ref="2297166990"/>
+  <nd ref="2297166984"/>
+  <nd ref="2297166994"/>
+  <nd ref="2297167002"/>
+  <nd ref="2297167012"/>
+  <nd ref="2297167014"/>
+  <nd ref="2297167016"/>
+  <nd ref="2297167017"/>
+  <nd ref="2297167039"/>
+  <nd ref="2297167031"/>
+  <nd ref="3522513182"/>
+  <nd ref="2297167037"/>
+  <nd ref="2297167041"/>
+  <nd ref="2297167043"/>
+  <nd ref="2297167045"/>
+  <nd ref="2297167033"/>
+  <nd ref="2297167029"/>
+  <nd ref="2297167025"/>
+  <nd ref="2297167023"/>
+  <nd ref="2297167019"/>
+  <nd ref="2509461436"/>
+  <nd ref="2297167021"/>
+  <nd ref="2297167035"/>
+  <nd ref="2297167027"/>
+  <tag k="barrier" v="fence"/>
+  <tag k="landuse" v="commercial"/>
+  <tag k="name" v="Laboratorio Tecnológico del Uruguay"/>
+ </way>
+ <way id="78112286" visible="true" version="10" changeset="44188344" timestamp="2016-12-05T17:24:27Z" user="JuanVerde" uid="3474216">
+  <nd ref="917688309"/>
+  <nd ref="917499370"/>
+  <nd ref="917566360"/>
+  <nd ref="917340262"/>
+  <nd ref="917533009"/>
+  <nd ref="917686604"/>
+  <nd ref="917391289"/>
+  <nd ref="917707780"/>
+  <nd ref="917550935"/>
+  <nd ref="2523406324"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="name" v="Avenida Italia"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="221131601" visible="true" version="1" changeset="16103647" timestamp="2013-05-12T22:15:14Z" user="muralito" uid="755114">
+  <nd ref="917553396"/>
+  <nd ref="917424772"/>
+  <nd ref="917348327"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="name" v="Avenida Italia"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="78118415" visible="true" version="11" changeset="18768545" timestamp="2013-11-07T17:43:08Z" user="muralito" uid="755114">
+  <nd ref="2523406324"/>
+  <nd ref="917607111"/>
+  <nd ref="917407426"/>
+  <nd ref="917584815"/>
+  <nd ref="917716496"/>
+  <nd ref="917361091"/>
+  <nd ref="917594596"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="name" v="Avenida Italia"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="205233589" visible="true" version="2" changeset="17248480" timestamp="2013-08-07T00:10:18Z" user="muralito" uid="755114">
+  <nd ref="2152081926"/>
+  <nd ref="2152081858"/>
+  <nd ref="2152081824"/>
+  <nd ref="2152081742"/>
+  <nd ref="2152081718"/>
+  <nd ref="2152081705"/>
+  <nd ref="2152081695"/>
+  <nd ref="2152081673"/>
+  <nd ref="2152081513"/>
+  <nd ref="2152081220"/>
+  <nd ref="2152081057"/>
+  <nd ref="2152081049"/>
+  <nd ref="2152081042"/>
+  <nd ref="2152081051"/>
+  <nd ref="2152081055"/>
+  <nd ref="2152081061"/>
+  <nd ref="2152081331"/>
+  <nd ref="2409361198"/>
+  <nd ref="2152081826"/>
+  <nd ref="2152081899"/>
+  <nd ref="2152081907"/>
+  <nd ref="2152081919"/>
+  <nd ref="2152081924"/>
+  <nd ref="2152081931"/>
+  <nd ref="2152081941"/>
+  <nd ref="2152081942"/>
+  <nd ref="2152081939"/>
+  <nd ref="2152081932"/>
+  <nd ref="2152081926"/>
+  <tag k="landuse" v="recreation_ground"/>
+  <tag k="mvdgis:cod_nom_es" v="3621"/>
+  <tag k="mvdgis:nom_tipo_e" v="ESPACIO LIBRE"/>
+  <tag k="mvdgis:nro_espaci" v="1028"/>
+  <tag k="mvdgis:source" v="v_mdg_espacios_libres"/>
+  <tag k="name" v="Espacio Libre Juan Ferreira"/>
+  <tag k="source" v="mvdgis"/>
+ </way>
+ <way id="205235375" visible="true" version="1" changeset="15008967" timestamp="2013-02-12T17:34:18Z" user="muralito" uid="755114">
+  <nd ref="2152082232"/>
+  <nd ref="2152082199"/>
+  <nd ref="2152082194"/>
+  <nd ref="2152082178"/>
+  <nd ref="2152082102"/>
+  <nd ref="2152082042"/>
+  <nd ref="2152082029"/>
+  <nd ref="2152082004"/>
+  <nd ref="2152081988"/>
+  <nd ref="2152081974"/>
+  <nd ref="2152081965"/>
+  <nd ref="2152081961"/>
+  <nd ref="2152081955"/>
+  <nd ref="2152081951"/>
+  <nd ref="2152081953"/>
+  <nd ref="2152081957"/>
+  <nd ref="2152081966"/>
+  <nd ref="2152081968"/>
+  <nd ref="2152081972"/>
+  <nd ref="2152081980"/>
+  <nd ref="2152081986"/>
+  <nd ref="2152082019"/>
+  <nd ref="2152082032"/>
+  <nd ref="2152082039"/>
+  <nd ref="2152082050"/>
+  <nd ref="2152082138"/>
+  <nd ref="2152082197"/>
+  <nd ref="2152082253"/>
+  <nd ref="2152082305"/>
+  <nd ref="2152082309"/>
+  <nd ref="2152082307"/>
+  <nd ref="2152082304"/>
+  <nd ref="2152082300"/>
+  <nd ref="2152082295"/>
+  <nd ref="2152082289"/>
+  <nd ref="2152082232"/>
+  <tag k="landuse" v="grass"/>
+  <tag k="mvdgis:nro_espaci" v="1026"/>
+  <tag k="mvdgis:source" v="v_mdg_espacios_libres"/>
+  <tag k="source" v="mvdgis"/>
+ </way>
+ <way id="205235695" visible="true" version="1" changeset="15008967" timestamp="2013-02-12T17:34:59Z" user="muralito" uid="755114">
+  <nd ref="2152082325"/>
+  <nd ref="2152082340"/>
+  <nd ref="2152082338"/>
+  <nd ref="2152082331"/>
+  <nd ref="2152082324"/>
+  <nd ref="2152082320"/>
+  <nd ref="2152082319"/>
+  <nd ref="2152082286"/>
+  <nd ref="2152082206"/>
+  <nd ref="2152082189"/>
+  <nd ref="2152082134"/>
+  <nd ref="2152082100"/>
+  <nd ref="2152082063"/>
+  <nd ref="2152082044"/>
+  <nd ref="2152082038"/>
+  <nd ref="2152082031"/>
+  <nd ref="2152082022"/>
+  <nd ref="2152082015"/>
+  <nd ref="2152081985"/>
+  <nd ref="2152081959"/>
+  <nd ref="2152081949"/>
+  <nd ref="2152081937"/>
+  <nd ref="2152081917"/>
+  <nd ref="2152081918"/>
+  <nd ref="2152081922"/>
+  <nd ref="2152081930"/>
+  <nd ref="2152081940"/>
+  <nd ref="2152081944"/>
+  <nd ref="2152081946"/>
+  <nd ref="2152081956"/>
+  <nd ref="2152081967"/>
+  <nd ref="2152081983"/>
+  <nd ref="2152082007"/>
+  <nd ref="2152082024"/>
+  <nd ref="2152082035"/>
+  <nd ref="2152082041"/>
+  <nd ref="2152082049"/>
+  <nd ref="2152082093"/>
+  <nd ref="2152082151"/>
+  <nd ref="2152082195"/>
+  <nd ref="2152082210"/>
+  <nd ref="2152082298"/>
+  <nd ref="2152082325"/>
+  <tag k="landuse" v="grass"/>
+  <tag k="mvdgis:nro_espaci" v="2091"/>
+  <tag k="mvdgis:source" v="v_mdg_espacios_libres"/>
+  <tag k="source" v="mvdgis"/>
+ </way>
+ <way id="243555978" visible="true" version="4" changeset="44124778" timestamp="2016-12-02T21:30:57Z" user="JuanVerde" uid="3474216">
+  <nd ref="917593835"/>
+  <nd ref="917418571"/>
+  <nd ref="917602982"/>
+  <nd ref="917734835"/>
+  <nd ref="917440583"/>
+  <nd ref="917530395"/>
+  <nd ref="917545920"/>
+  <nd ref="917387885"/>
+  <nd ref="2409361199"/>
+  <nd ref="917381366"/>
+  <nd ref="917540006"/>
+  <nd ref="917681648"/>
+  <nd ref="917308235"/>
+  <nd ref="917457092"/>
+  <nd ref="4496693464"/>
+  <nd ref="917681355"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="75"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="name" v="Avenida Italia"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="221131603" visible="true" version="2" changeset="18768545" timestamp="2013-11-07T17:43:07Z" user="muralito" uid="755114">
+  <nd ref="917348327"/>
+  <nd ref="917624424"/>
+  <nd ref="917615750"/>
+  <nd ref="917433978"/>
+  <nd ref="917436875"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="name" v="Avenida Italia"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="315994977" visible="true" version="1" changeset="27281400" timestamp="2014-12-06T01:55:13Z" user="muralito" uid="755114">
+  <nd ref="3221127844"/>
+  <nd ref="3221127845"/>
+  <nd ref="3221127853"/>
+  <nd ref="3221127855"/>
+  <nd ref="3221127857"/>
+  <nd ref="3221127856"/>
+  <nd ref="3221127844"/>
+  <tag k="amenity" v="school"/>
+  <tag k="barrier" v="fence"/>
+  <tag k="name" v="The British Schools"/>
+ </way>
+ <way id="453350652" visible="true" version="1" changeset="43650064" timestamp="2016-11-14T18:23:07Z" user="TheNodeWarrior" uid="4759993">
+  <nd ref="917559521"/>
+  <nd ref="4500943324"/>
+  <nd ref="917673395"/>
+  <nd ref="917734943"/>
+  <nd ref="917313516"/>
+  <nd ref="917348327"/>
+  <tag k="highway" v="residential"/>
+  <tag k="maxspeed" v="45"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="name" v="Havre"/>
+  <tag k="source" v="http://intgis.montevideo.gub.uy"/>
+  <tag k="source:maxspeed" v="http://monolitos.montevideo.gub.uy/resoluci.nsf/WEB/Numero/954-13"/>
+ </way>
+ <relation id="1219067" visible="true" version="2" changeset="43199144" timestamp="2016-10-26T18:17:41Z" user="muralito" uid="755114">
+  <member type="way" ref="78105328" role="street"/>
+  <member type="way" ref="449576427" role="street"/>
+  <member type="way" ref="449576432" role="street"/>
+  <member type="way" ref="78109231" role="street"/>
+  <member type="node" ref="945574495" role="house"/>
+  <member type="node" ref="944804578" role="house"/>
+  <member type="node" ref="944379961" role="house"/>
+  <member type="node" ref="944196565" role="house"/>
+  <member type="node" ref="944480383" role="house"/>
+  <member type="node" ref="945552001" role="house"/>
+  <member type="node" ref="944839033" role="house"/>
+  <member type="node" ref="945442727" role="house"/>
+  <member type="node" ref="945539392" role="house"/>
+  <member type="node" ref="945523784" role="house"/>
+  <member type="node" ref="945596189" role="house"/>
+  <member type="node" ref="944165894" role="house"/>
+  <member type="node" ref="944571918" role="house"/>
+  <member type="node" ref="944520631" role="house"/>
+  <member type="node" ref="944829774" role="house"/>
+  <member type="node" ref="944800627" role="house"/>
+  <member type="node" ref="945545705" role="house"/>
+  <member type="node" ref="944768180" role="house"/>
+  <member type="node" ref="945414023" role="house"/>
+  <member type="node" ref="944500080" role="house"/>
+  <member type="node" ref="945551869" role="house"/>
+  <member type="node" ref="944312132" role="house"/>
+  <member type="node" ref="944077415" role="house"/>
+  <member type="node" ref="944522544" role="house"/>
+  <member type="node" ref="944063074" role="house"/>
+  <member type="node" ref="944144925" role="house"/>
+  <member type="node" ref="944786125" role="house"/>
+  <member type="node" ref="945599705" role="house"/>
+  <member type="node" ref="944804457" role="house"/>
+  <member type="node" ref="944764782" role="house"/>
+  <member type="node" ref="945606530" role="house"/>
+  <member type="node" ref="944834264" role="house"/>
+  <member type="node" ref="944316192" role="house"/>
+  <member type="node" ref="944536155" role="house"/>
+  <member type="node" ref="944212997" role="house"/>
+  <member type="node" ref="944528821" role="house"/>
+  <member type="node" ref="944139759" role="house"/>
+  <member type="node" ref="945544973" role="house"/>
+  <member type="node" ref="944278610" role="house"/>
+  <member type="node" ref="945551120" role="house"/>
+  <member type="node" ref="944809013" role="house"/>
+  <member type="node" ref="944812456" role="house"/>
+  <member type="node" ref="944770086" role="house"/>
+  <member type="node" ref="945566671" role="house"/>
+  <member type="node" ref="945609981" role="house"/>
+  <member type="node" ref="945583368" role="house"/>
+  <member type="node" ref="944833795" role="house"/>
+  <member type="node" ref="944313060" role="house"/>
+  <member type="node" ref="944772370" role="house"/>
+  <member type="node" ref="944191755" role="house"/>
+  <member type="node" ref="945578666" role="house"/>
+  <member type="node" ref="945561403" role="house"/>
+  <member type="node" ref="945556348" role="house"/>
+  <member type="node" ref="945591805" role="house"/>
+  <member type="node" ref="945600339" role="house"/>
+  <member type="node" ref="944112551" role="house"/>
+  <member type="node" ref="944537772" role="house"/>
+  <member type="node" ref="944771695" role="house"/>
+  <member type="node" ref="944577228" role="house"/>
+  <member type="node" ref="944790127" role="house"/>
+  <member type="node" ref="944425929" role="house"/>
+  <member type="node" ref="945552242" role="house"/>
+  <member type="node" ref="945528479" role="house"/>
+  <member type="node" ref="944838237" role="house"/>
+  <member type="node" ref="945536846" role="house"/>
+  <member type="node" ref="944180276" role="house"/>
+  <member type="node" ref="945518122" role="house"/>
+  <member type="node" ref="944472217" role="house"/>
+  <member type="node" ref="945558864" role="house"/>
+  <member type="node" ref="944194380" role="house"/>
+  <member type="node" ref="944774691" role="house"/>
+  <member type="node" ref="945535408" role="house"/>
+  <member type="node" ref="944825483" role="house"/>
+  <member type="node" ref="944747096" role="house"/>
+  <member type="node" ref="944537338" role="house"/>
+  <member type="node" ref="945562094" role="house"/>
+  <member type="node" ref="945423877" role="house"/>
+  <member type="node" ref="945560399" role="house"/>
+  <member type="node" ref="944835206" role="house"/>
+  <member type="node" ref="944807136" role="house"/>
+  <member type="node" ref="945575640" role="house"/>
+  <member type="node" ref="945596229" role="house"/>
+  <member type="node" ref="944770048" role="house"/>
+  <member type="node" ref="944840119" role="house"/>
+  <member type="node" ref="944447513" role="house"/>
+  <member type="node" ref="944812418" role="house"/>
+  <member type="node" ref="945544158" role="house"/>
+  <member type="node" ref="944768221" role="house"/>
+  <member type="node" ref="944775678" role="house"/>
+  <member type="node" ref="944751863" role="house"/>
+  <member type="node" ref="945536421" role="house"/>
+  <member type="node" ref="944759873" role="house"/>
+  <member type="node" ref="945577845" role="house"/>
+  <member type="node" ref="944268494" role="house"/>
+  <member type="node" ref="944532021" role="house"/>
+  <member type="node" ref="945560856" role="house"/>
+  <member type="node" ref="944142518" role="house"/>
+  <member type="node" ref="945467201" role="house"/>
+  <member type="node" ref="944844567" role="house"/>
+  <member type="node" ref="944391739" role="house"/>
+  <member type="node" ref="945542505" role="house"/>
+  <member type="node" ref="944766366" role="house"/>
+  <member type="node" ref="945549913" role="house"/>
+  <member type="node" ref="945526363" role="house"/>
+  <member type="node" ref="944749832" role="house"/>
+  <member type="node" ref="944577984" role="house"/>
+  <member type="node" ref="944792281" role="house"/>
+  <member type="node" ref="945463335" role="house"/>
+  <member type="node" ref="944550349" role="house"/>
+  <member type="node" ref="944842635" role="house"/>
+  <member type="node" ref="944549800" role="house"/>
+  <member type="node" ref="945434586" role="house"/>
+  <member type="node" ref="944547517" role="house"/>
+  <member type="node" ref="944779199" role="house"/>
+  <member type="node" ref="944538765" role="house"/>
+  <member type="node" ref="945562608" role="house"/>
+  <member type="node" ref="944803480" role="house"/>
+  <member type="node" ref="945604476" role="house"/>
+  <member type="node" ref="945532253" role="house"/>
+  <member type="node" ref="944558298" role="house"/>
+  <member type="node" ref="944770068" role="house"/>
+  <member type="node" ref="944284404" role="house"/>
+  <member type="node" ref="944819188" role="house"/>
+  <member type="node" ref="944225644" role="house"/>
+  <member type="node" ref="945524288" role="house"/>
+  <member type="node" ref="945538736" role="house"/>
+  <member type="node" ref="945535133" role="house"/>
+  <member type="node" ref="945573178" role="house"/>
+  <member type="node" ref="945581527" role="house"/>
+  <member type="node" ref="945515774" role="house"/>
+  <member type="node" ref="945558752" role="house"/>
+  <member type="node" ref="945556739" role="house"/>
+  <member type="node" ref="945583154" role="house"/>
+  <member type="node" ref="944773779" role="house"/>
+  <member type="node" ref="944805932" role="house"/>
+  <member type="node" ref="945043751" role="house"/>
+  <member type="node" ref="945594858" role="house"/>
+  <member type="node" ref="945573029" role="house"/>
+  <member type="node" ref="944117827" role="house"/>
+  <member type="node" ref="944838722" role="house"/>
+  <member type="node" ref="944541639" role="house"/>
+  <member type="node" ref="944111722" role="house"/>
+  <member type="node" ref="944765910" role="house"/>
+  <member type="node" ref="944567372" role="house"/>
+  <member type="node" ref="945556964" role="house"/>
+  <member type="node" ref="945440694" role="house"/>
+  <member type="node" ref="944384819" role="house"/>
+  <member type="node" ref="945461262" role="house"/>
+  <member type="node" ref="945552185" role="house"/>
+  <member type="node" ref="944775981" role="house"/>
+  <member type="node" ref="944831655" role="house"/>
+  <member type="node" ref="944291245" role="house"/>
+  <member type="node" ref="944768762" role="house"/>
+  <member type="node" ref="944766731" role="house"/>
+  <member type="node" ref="945470099" role="house"/>
+  <member type="node" ref="944384585" role="house"/>
+  <member type="node" ref="944805015" role="house"/>
+  <member type="node" ref="945573768" role="house"/>
+  <member type="node" ref="944773288" role="house"/>
+  <member type="node" ref="945579366" role="house"/>
+  <member type="node" ref="944281387" role="house"/>
+  <member type="node" ref="944826624" role="house"/>
+  <member type="node" ref="944751824" role="house"/>
+  <member type="node" ref="945463296" role="house"/>
+  <member type="node" ref="945566580" role="house"/>
+  <member type="node" ref="945599253" role="house"/>
+  <member type="node" ref="945467115" role="house"/>
+  <member type="node" ref="944767426" role="house"/>
+  <member type="node" ref="944839436" role="house"/>
+  <member type="node" ref="945543796" role="house"/>
+  <member type="node" ref="945466810" role="house"/>
+  <member type="node" ref="944548862" role="house"/>
+  <member type="node" ref="944167600" role="house"/>
+  <member type="node" ref="944155385" role="house"/>
+  <member type="node" ref="944849073" role="house"/>
+  <member type="node" ref="945524070" role="house"/>
+  <member type="node" ref="945563350" role="house"/>
+  <member type="node" ref="944066209" role="house"/>
+  <member type="node" ref="945520926" role="house"/>
+  <member type="node" ref="944133311" role="house"/>
+  <member type="node" ref="944765126" role="house"/>
+  <member type="node" ref="945607208" role="house"/>
+  <member type="node" ref="945053040" role="house"/>
+  <member type="node" ref="945595688" role="house"/>
+  <member type="node" ref="945560474" role="house"/>
+  <member type="node" ref="945463478" role="house"/>
+  <member type="node" ref="944819232" role="house"/>
+  <member type="node" ref="944063642" role="house"/>
+  <member type="node" ref="945580817" role="house"/>
+  <member type="node" ref="944338373" role="house"/>
+  <member type="node" ref="944826870" role="house"/>
+  <member type="node" ref="944768430" role="house"/>
+  <member type="node" ref="944747267" role="house"/>
+  <member type="node" ref="945466910" role="house"/>
+  <member type="node" ref="944530652" role="house"/>
+  <member type="node" ref="945602774" role="house"/>
+  <member type="node" ref="945536546" role="house"/>
+  <member type="node" ref="945566421" role="house"/>
+  <member type="node" ref="945582010" role="house"/>
+  <member type="node" ref="945580868" role="house"/>
+  <member type="node" ref="945595277" role="house"/>
+  <member type="node" ref="944333485" role="house"/>
+  <member type="node" ref="944775539" role="house"/>
+  <member type="node" ref="944486164" role="house"/>
+  <member type="node" ref="944378233" role="house"/>
+  <member type="node" ref="945070093" role="house"/>
+  <member type="node" ref="944831690" role="house"/>
+  <member type="node" ref="944778177" role="house"/>
+  <member type="node" ref="944537574" role="house"/>
+  <member type="node" ref="944751013" role="house"/>
+  <member type="node" ref="944543087" role="house"/>
+  <member type="node" ref="945462212" role="house"/>
+  <member type="node" ref="944739531" role="house"/>
+  <member type="node" ref="944845806" role="house"/>
+  <member type="node" ref="944408988" role="house"/>
+  <member type="node" ref="945551349" role="house"/>
+  <member type="node" ref="944837043" role="house"/>
+  <member type="node" ref="945535764" role="house"/>
+  <member type="node" ref="944759325" role="house"/>
+  <member type="node" ref="945567752" role="house"/>
+  <member type="node" ref="944809235" role="house"/>
+  <member type="node" ref="944583776" role="house"/>
+  <member type="node" ref="945577283" role="house"/>
+  <member type="node" ref="944826007" role="house"/>
+  <member type="node" ref="944844135" role="house"/>
+  <member type="node" ref="944386781" role="house"/>
+  <member type="node" ref="944177126" role="house"/>
+  <member type="node" ref="945516254" role="house"/>
+  <member type="node" ref="944577047" role="house"/>
+  <member type="node" ref="945575725" role="house"/>
+  <member type="node" ref="944824365" role="house"/>
+  <member type="node" ref="944240843" role="house"/>
+  <member type="node" ref="945525984" role="house"/>
+  <member type="node" ref="944749447" role="house"/>
+  <member type="node" ref="944525196" role="house"/>
+  <member type="node" ref="945558964" role="house"/>
+  <member type="node" ref="944789498" role="house"/>
+  <member type="node" ref="944135438" role="house"/>
+  <member type="node" ref="945462831" role="house"/>
+  <member type="node" ref="944548827" role="house"/>
+  <member type="node" ref="945566213" role="house"/>
+  <member type="node" ref="944807278" role="house"/>
+  <member type="node" ref="944767847" role="house"/>
+  <member type="node" ref="945609358" role="house"/>
+  <member type="node" ref="945411590" role="house"/>
+  <member type="node" ref="944498432" role="house"/>
+  <member type="node" ref="945551507" role="house"/>
+  <member type="node" ref="944775303" role="house"/>
+  <member type="node" ref="944086429" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="6762"/>
+  <tag k="name" v="General Máximo Tajes"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1219354" visible="true" version="2" changeset="6149091" timestamp="2010-10-23T17:39:53Z" user="richlv" uid="47892">
+  <member type="way" ref="78107945" role="street"/>
+  <member type="node" ref="944507893" role="house"/>
+  <member type="node" ref="944104544" role="house"/>
+  <member type="node" ref="944445570" role="house"/>
+  <member type="node" ref="944283287" role="house"/>
+  <member type="node" ref="945592267" role="house"/>
+  <member type="node" ref="945566538" role="house"/>
+  <member type="node" ref="944759760" role="house"/>
+  <member type="node" ref="944751727" role="house"/>
+  <member type="node" ref="945585348" role="house"/>
+  <member type="node" ref="944824690" role="house"/>
+  <member type="node" ref="944243760" role="house"/>
+  <member type="node" ref="944772251" role="house"/>
+  <member type="node" ref="945555657" role="house"/>
+  <member type="node" ref="944116435" role="house"/>
+  <member type="node" ref="945540229" role="house"/>
+  <member type="node" ref="945546079" role="house"/>
+  <member type="node" ref="945562928" role="house"/>
+  <member type="node" ref="945572709" role="house"/>
+  <member type="node" ref="945520500" role="house"/>
+  <member type="node" ref="944144660" role="house"/>
+  <member type="node" ref="944092681" role="house"/>
+  <member type="node" ref="944212698" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="5533"/>
+  <tag k="name" v="Doctor Fructuoso Pittaluga Hijo"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1219886" visible="true" version="5" changeset="44188354" timestamp="2016-12-05T17:25:06Z" user="JuanVerde" uid="3474216">
+  <member type="way" ref="78099438" role="street"/>
+  <member type="way" ref="78105729" role="street"/>
+  <member type="way" ref="453350659" role="street"/>
+  <member type="way" ref="78106225" role="street"/>
+  <member type="way" ref="78110195" role="street"/>
+  <member type="way" ref="453350652" role="street"/>
+  <member type="way" ref="78114370" role="street"/>
+  <member type="way" ref="78118617" role="street"/>
+  <member type="node" ref="945561290" role="house"/>
+  <member type="node" ref="944548950" role="house"/>
+  <member type="node" ref="945543822" role="house"/>
+  <member type="node" ref="944767888" role="house"/>
+  <member type="node" ref="945609406" role="house"/>
+  <member type="node" ref="944809889" role="house"/>
+  <member type="node" ref="944184532" role="house"/>
+  <member type="node" ref="945519755" role="house"/>
+  <member type="node" ref="944585101" role="house"/>
+  <member type="node" ref="945577466" role="house"/>
+  <member type="node" ref="944575712" role="house"/>
+  <member type="node" ref="944774527" role="house"/>
+  <member type="node" ref="944542834" role="house"/>
+  <member type="node" ref="944061589" role="house"/>
+  <member type="node" ref="944310984" role="house"/>
+  <member type="node" ref="944826934" role="house"/>
+  <member type="node" ref="945542729" role="house"/>
+  <member type="node" ref="944770697" role="house"/>
+  <member type="node" ref="944175361" role="house"/>
+  <member type="node" ref="945541876" role="house"/>
+  <member type="node" ref="944812374" role="house"/>
+  <member type="node" ref="944772718" role="house"/>
+  <member type="node" ref="944115011" role="house"/>
+  <member type="node" ref="944842296" role="house"/>
+  <member type="node" ref="944756010" role="house"/>
+  <member type="node" ref="944090064" role="house"/>
+  <member type="node" ref="944768918" role="house"/>
+  <member type="node" ref="944473844" role="house"/>
+  <member type="node" ref="945520149" role="house"/>
+  <member type="node" ref="944141770" role="house"/>
+  <member type="node" ref="944349317" role="house"/>
+  <member type="node" ref="944740216" role="house"/>
+  <member type="node" ref="945552122" role="house"/>
+  <member type="node" ref="944775891" role="house"/>
+  <member type="node" ref="944752076" role="house"/>
+  <member type="node" ref="944516469" role="house"/>
+  <member type="node" ref="944509977" role="house"/>
+  <member type="node" ref="944758945" role="house"/>
+  <member type="node" ref="945575158" role="house"/>
+  <member type="node" ref="944523755" role="house"/>
+  <member type="node" ref="944542348" role="house"/>
+  <member type="node" ref="945567119" role="house"/>
+  <member type="node" ref="945416651" role="house"/>
+  <member type="node" ref="944193947" role="house"/>
+  <member type="node" ref="945543143" role="house"/>
+  <member type="node" ref="945567342" role="house"/>
+  <member type="node" ref="945541406" role="house"/>
+  <member type="node" ref="944741016" role="house"/>
+  <member type="node" ref="944551211" role="house"/>
+  <member type="node" ref="944756954" role="house"/>
+  <member type="node" ref="945513213" role="house"/>
+  <member type="node" ref="944521303" role="house"/>
+  <member type="node" ref="944801848" role="house"/>
+  <member type="node" ref="945463309" role="house"/>
+  <member type="node" ref="945431915" role="house"/>
+  <member type="node" ref="944740914" role="house"/>
+  <member type="node" ref="944748226" role="house"/>
+  <member type="node" ref="945524743" role="house"/>
+  <member type="node" ref="944531340" role="house"/>
+  <member type="node" ref="944136279" role="house"/>
+  <member type="node" ref="944846273" role="house"/>
+  <member type="node" ref="944334407" role="house"/>
+  <member type="node" ref="945513392" role="house"/>
+  <member type="node" ref="944522033" role="house"/>
+  <member type="node" ref="944206349" role="house"/>
+  <member type="node" ref="944775867" role="house"/>
+  <member type="node" ref="944526810" role="house"/>
+  <member type="node" ref="944768460" role="house"/>
+  <member type="node" ref="944550968" role="house"/>
+  <member type="node" ref="945517951" role="house"/>
+  <member type="node" ref="944849745" role="house"/>
+  <member type="node" ref="945538130" role="house"/>
+  <member type="node" ref="944353680" role="house"/>
+  <member type="node" ref="944206542" role="house"/>
+  <member type="node" ref="944748232" role="house"/>
+  <member type="node" ref="944109096" role="house"/>
+  <member type="node" ref="945588583" role="house"/>
+  <member type="node" ref="944572442" role="house"/>
+  <member type="node" ref="945572441" role="house"/>
+  <member type="node" ref="944740813" role="house"/>
+  <member type="node" ref="945596358" role="house"/>
+  <member type="node" ref="944828602" role="house"/>
+  <member type="node" ref="944760123" role="house"/>
+  <member type="node" ref="944750003" role="house"/>
+  <member type="node" ref="945563211" role="house"/>
+  <member type="node" ref="944050323" role="house"/>
+  <member type="node" ref="944787549" role="house"/>
+  <member type="node" ref="944523347" role="house"/>
+  <member type="node" ref="944173327" role="house"/>
+  <member type="node" ref="945469868" role="house"/>
+  <member type="node" ref="945572943" role="house"/>
+  <member type="node" ref="944808441" role="house"/>
+  <member type="node" ref="945596588" role="house"/>
+  <member type="node" ref="945578452" role="house"/>
+  <member type="node" ref="944771339" role="house"/>
+  <member type="node" ref="944054751" role="house"/>
+  <member type="node" ref="945522863" role="house"/>
+  <member type="node" ref="945587699" role="house"/>
+  <member type="node" ref="945418456" role="house"/>
+  <member type="node" ref="944043854" role="house"/>
+  <member type="node" ref="945610871" role="house"/>
+  <member type="node" ref="945462470" role="house"/>
+  <member type="node" ref="945573739" role="house"/>
+  <member type="node" ref="944095816" role="house"/>
+  <member type="node" ref="945561538" role="house"/>
+  <member type="node" ref="945064617" role="house"/>
+  <member type="node" ref="945532702" role="house"/>
+  <member type="node" ref="945554082" role="house"/>
+  <member type="node" ref="944569518" role="house"/>
+  <member type="node" ref="944495583" role="house"/>
+  <member type="node" ref="944297763" role="house"/>
+  <member type="node" ref="944832331" role="house"/>
+  <member type="node" ref="944804651" role="house"/>
+  <member type="node" ref="944475574" role="house"/>
+  <member type="node" ref="945592345" role="house"/>
+  <member type="node" ref="945544155" role="house"/>
+  <member type="node" ref="944751860" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="3306"/>
+  <tag k="name" v="Havre"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="1222191" visible="true" version="1" changeset="6020121" timestamp="2010-10-12T12:16:31Z" user="MaxM" uid="55730">
+  <member type="way" ref="78119034" role="street"/>
+  <member type="node" ref="945551399" role="house"/>
+  <member type="node" ref="945439336" role="house"/>
+  <member type="node" ref="945438025" role="house"/>
+  <member type="node" ref="945559571" role="house"/>
+  <member type="node" ref="945536727" role="house"/>
+  <member type="node" ref="944760224" role="house"/>
+  <member type="node" ref="945608431" role="house"/>
+  <member type="node" ref="944314952" role="house"/>
+  <member type="node" ref="944757963" role="house"/>
+  <member type="node" ref="944558915" role="house"/>
+  <member type="node" ref="945520211" role="house"/>
+  <member type="node" ref="944368386" role="house"/>
+  <member type="node" ref="945520297" role="house"/>
+  <member type="node" ref="945562713" role="house"/>
+  <member type="node" ref="945558647" role="house"/>
+  <member type="node" ref="945582303" role="house"/>
+  <member type="node" ref="944832417" role="house"/>
+  <member type="node" ref="944747102" role="house"/>
+  <member type="node" ref="945524551" role="house"/>
+  <member type="node" ref="944748523" role="house"/>
+  <member type="node" ref="944845483" role="house"/>
+  <member type="node" ref="944182480" role="house"/>
+  <member type="node" ref="944757415" role="house"/>
+  <member type="node" ref="945541510" role="house"/>
+  <member type="node" ref="944576265" role="house"/>
+  <member type="node" ref="944133221" role="house"/>
+  <member type="node" ref="945514819" role="house"/>
+  <member type="node" ref="945470195" role="house"/>
+  <member type="node" ref="944770946" role="house"/>
+  <member type="node" ref="944776736" role="house"/>
+  <member type="node" ref="944133466" role="house"/>
+  <member type="node" ref="944474284" role="house"/>
+  <member type="node" ref="945606984" role="house"/>
+  <member type="node" ref="944850084" role="house"/>
+  <member type="node" ref="944783107" role="house"/>
+  <member type="node" ref="944054119" role="house"/>
+  <member type="node" ref="944525139" role="house"/>
+  <member type="node" ref="944845289" role="house"/>
+  <member type="node" ref="945539293" role="house"/>
+  <member type="node" ref="945558786" role="house"/>
+  <member type="node" ref="944777702" role="house"/>
+  <member type="node" ref="945561145" role="house"/>
+  <member type="node" ref="945465028" role="house"/>
+  <member type="node" ref="944492445" role="house"/>
+  <member type="node" ref="945524641" role="house"/>
+  <member type="node" ref="944766735" role="house"/>
+  <member type="node" ref="944133645" role="house"/>
+  <member type="node" ref="945555380" role="house"/>
+  <member type="node" ref="944779240" role="house"/>
+  <member type="node" ref="944114681" role="house"/>
+  <member type="node" ref="944538915" role="house"/>
+  <member type="node" ref="945562655" role="house"/>
+  <member type="node" ref="945575679" role="house"/>
+  <member type="node" ref="944812844" role="house"/>
+  <member type="node" ref="945530813" role="house"/>
+  <member type="node" ref="945523849" role="house"/>
+  <member type="node" ref="945513184" role="house"/>
+  <member type="node" ref="944318209" role="house"/>
+  <member type="node" ref="944757528" role="house"/>
+  <tag k="mvdgis:cod_nombre" v="2148"/>
+  <tag k="name" v="Córcega"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="3292715" visible="true" version="1" changeset="18552755" timestamp="2013-10-26T15:15:03Z" user="muralito" uid="755114">
+  <member type="way" ref="243555981" role="from"/>
+  <member type="way" ref="78118639" role="to"/>
+  <member type="node" ref="917593835" role="via"/>
+  <tag k="restriction" v="no_u_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="3292713" visible="true" version="2" changeset="20000622" timestamp="2014-01-14T21:04:03Z" user="muralito" uid="755114">
+  <member type="way" ref="243555978" role="to"/>
+  <member type="node" ref="917593835" role="via"/>
+  <member type="way" ref="243555981" role="from"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="3439609" visible="true" version="1" changeset="20000622" timestamp="2014-01-14T21:04:03Z" user="muralito" uid="755114">
+  <member type="way" ref="243555978" role="from"/>
+  <member type="way" ref="256626465" role="to"/>
+  <member type="node" ref="917681355" role="via"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="3439610" visible="true" version="1" changeset="20000622" timestamp="2014-01-14T21:04:03Z" user="muralito" uid="755114">
+  <member type="way" ref="216566675" role="from"/>
+  <member type="way" ref="256626465" role="to"/>
+  <member type="node" ref="917370057" role="via"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="6705158" visible="true" version="1" changeset="43580160" timestamp="2016-11-12T12:23:00Z" user="muralito" uid="755114">
+  <member type="way" ref="78118639" role="from"/>
+  <member type="way" ref="452855368" role="to"/>
+  <member type="node" ref="917434078" role="via"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+ <relation id="1221622" visible="true" version="32" changeset="44189312" timestamp="2016-12-05T18:22:06Z" user="JuanVerde" uid="3474216">
+  <member type="way" ref="78098686" role="street"/>
+  <member type="way" ref="78099302" role="street"/>
+  <member type="way" ref="78099637" role="street"/>
+  <member type="way" ref="78099697" role="street"/>
+  <member type="way" ref="78100538" role="street"/>
+  <member type="way" ref="78100668" role="street"/>
+  <member type="way" ref="78102707" role="street"/>
+  <member type="way" ref="78102907" role="street"/>
+  <member type="way" ref="78103672" role="street"/>
+  <member type="way" ref="78103751" role="street"/>
+  <member type="way" ref="221131599" role="street"/>
+  <member type="way" ref="78104468" role="street"/>
+  <member type="way" ref="189145618" role="street"/>
+  <member type="way" ref="78105414" role="street"/>
+  <member type="way" ref="78105519" role="street"/>
+  <member type="way" ref="78105958" role="street"/>
+  <member type="way" ref="189145620" role="street"/>
+  <member type="way" ref="454394806" role="street"/>
+  <member type="way" ref="244245967" role="street"/>
+  <member type="way" ref="454394801" role="street"/>
+  <member type="way" ref="243555978" role="street"/>
+  <member type="way" ref="256626461" role="street"/>
+  <member type="way" ref="216566676" role="street"/>
+  <member type="way" ref="78106003" role="street"/>
+  <member type="way" ref="78107068" role="street"/>
+  <member type="way" ref="221131598" role="street"/>
+  <member type="way" ref="78107743" role="street"/>
+  <member type="way" ref="78107854" role="street"/>
+  <member type="way" ref="78108125" role="street"/>
+  <member type="way" ref="78108450" role="street"/>
+  <member type="way" ref="452855368" role="street"/>
+  <member type="way" ref="243555977" role="street"/>
+  <member type="way" ref="243555980" role="street"/>
+  <member type="way" ref="454394811" role="street"/>
+  <member type="way" ref="156742940" role="street"/>
+  <member type="way" ref="244245968" role="street"/>
+  <member type="way" ref="189145619" role="street"/>
+  <member type="way" ref="444578094" role="street"/>
+  <member type="way" ref="245088651" role="street"/>
+  <member type="way" ref="441722868" role="street"/>
+  <member type="way" ref="211973000" role="street"/>
+  <member type="way" ref="203831288" role="street"/>
+  <member type="way" ref="180834252" role="street"/>
+  <member type="way" ref="219566993" role="street"/>
+  <member type="way" ref="178813176" role="street"/>
+  <member type="way" ref="312271939" role="street"/>
+  <member type="way" ref="78108556" role="street"/>
+  <member type="way" ref="78108985" role="street"/>
+  <member type="way" ref="78109101" role="street"/>
+  <member type="way" ref="179733139" role="street"/>
+  <member type="way" ref="78109531" role="street"/>
+  <member type="way" ref="78109935" role="street"/>
+  <member type="way" ref="78110032" role="street"/>
+  <member type="way" ref="178813170" role="street"/>
+  <member type="way" ref="219566994" role="street"/>
+  <member type="way" ref="78110847" role="street"/>
+  <member type="way" ref="78110990" role="street"/>
+  <member type="way" ref="78111576" role="street"/>
+  <member type="way" ref="221131593" role="street"/>
+  <member type="way" ref="221131604" role="street"/>
+  <member type="way" ref="245088655" role="street"/>
+  <member type="way" ref="78111904" role="street"/>
+  <member type="way" ref="78112286" role="street"/>
+  <member type="way" ref="78113037" role="street"/>
+  <member type="way" ref="219566992" role="street"/>
+  <member type="way" ref="178813178" role="street"/>
+  <member type="way" ref="78113103" role="street"/>
+  <member type="way" ref="311970455" role="street"/>
+  <member type="way" ref="311970456" role="street"/>
+  <member type="way" ref="78113650" role="street"/>
+  <member type="way" ref="78113783" role="street"/>
+  <member type="way" ref="156742941" role="street"/>
+  <member type="way" ref="78114036" role="street"/>
+  <member type="way" ref="216566675" role="street"/>
+  <member type="way" ref="78114899" role="street"/>
+  <member type="way" ref="78115369" role="street"/>
+  <member type="way" ref="78115665" role="street"/>
+  <member type="way" ref="78116467" role="street"/>
+  <member type="way" ref="78116614" role="street"/>
+  <member type="way" ref="78116725" role="street"/>
+  <member type="way" ref="243555979" role="street"/>
+  <member type="way" ref="78116842" role="street"/>
+  <member type="way" ref="221131605" role="street"/>
+  <member type="way" ref="78117470" role="street"/>
+  <member type="way" ref="78118047" role="street"/>
+  <member type="way" ref="78118152" role="street"/>
+  <member type="way" ref="78118363" role="street"/>
+  <member type="way" ref="164285906" role="street"/>
+  <member type="way" ref="221131606" role="street"/>
+  <member type="way" ref="221131596" role="street"/>
+  <member type="way" ref="245088657" role="street"/>
+  <member type="way" ref="78118415" role="street"/>
+  <member type="way" ref="78118475" role="street"/>
+  <member type="way" ref="78119026" role="street"/>
+  <member type="way" ref="78119130" role="street"/>
+  <member type="way" ref="78119387" role="street"/>
+  <member type="way" ref="221131594" role="street"/>
+  <member type="way" ref="78119527" role="street"/>
+  <member type="way" ref="203831291" role="street"/>
+  <member type="way" ref="180834254" role="street"/>
+  <member type="way" ref="211972998" role="street"/>
+  <member type="way" ref="245088649" role="street"/>
+  <member type="way" ref="444578093" role="street"/>
+  <member type="way" ref="78119951" role="street"/>
+  <member type="way" ref="78120485" role="street"/>
+  <member type="way" ref="78247197" role="street"/>
+  <member type="way" ref="78247201" role="street"/>
+  <member type="way" ref="78250383" role="street"/>
+  <member type="way" ref="78250384" role="street"/>
+  <member type="way" ref="78250385" role="street"/>
+  <member type="way" ref="164285847" role="street"/>
+  <member type="way" ref="78250387" role="street"/>
+  <member type="way" ref="78250389" role="street"/>
+  <member type="way" ref="221131601" role="street"/>
+  <member type="way" ref="221131603" role="street"/>
+  <member type="way" ref="78250390" role="street"/>
+  <member type="way" ref="178583712" role="street"/>
+  <member type="way" ref="78250391" role="street"/>
+  <member type="way" ref="78558809" role="street"/>
+  <member type="way" ref="78558811" role="street"/>
+  <member type="way" ref="78558821" role="street"/>
+  <member type="way" ref="78558831" role="street"/>
+  <member type="way" ref="221131595" role="street"/>
+  <member type="way" ref="221131600" role="street"/>
+  <member type="node" ref="945604117" role="house"/>
+  <member type="node" ref="944758955" role="house"/>
+  <member type="node" ref="945548666" role="house"/>
+  <member type="node" ref="945562088" role="house"/>
+  <member type="node" ref="944773417" role="house"/>
+  <member type="node" ref="945557002" role="house"/>
+  <member type="node" ref="945597778" role="house"/>
+  <member type="node" ref="944577763" role="house"/>
+  <member type="node" ref="944157709" role="house"/>
+  <member type="node" ref="945469663" role="house"/>
+  <member type="node" ref="944467504" role="house"/>
+  <member type="node" ref="945547836" role="house"/>
+  <member type="node" ref="944190536" role="house"/>
+  <member type="node" ref="944825191" role="house"/>
+  <member type="node" ref="945518154" role="house"/>
+  <member type="node" ref="944092909" role="house"/>
+  <member type="node" ref="945559703" role="house"/>
+  <member type="node" ref="945584212" role="house"/>
+  <member type="node" ref="944493352" role="house"/>
+  <member type="node" ref="945558170" role="house"/>
+  <member type="node" ref="945522960" role="house"/>
+  <member type="node" ref="945070921" role="house"/>
+  <member type="node" ref="945535543" role="house"/>
+  <member type="node" ref="944759097" role="house"/>
+  <member type="node" ref="944767462" role="house"/>
+  <member type="node" ref="944121302" role="house"/>
+  <member type="node" ref="944833873" role="house"/>
+  <member type="node" ref="944747100" role="house"/>
+  <member type="node" ref="944776934" role="house"/>
+  <member type="node" ref="945543701" role="house"/>
+  <member type="node" ref="945553594" role="house"/>
+  <member type="node" ref="944104725" role="house"/>
+  <member type="node" ref="945599252" role="house"/>
+  <member type="node" ref="944178551" role="house"/>
+  <member type="node" ref="944544114" role="house"/>
+  <member type="node" ref="945453881" role="house"/>
+  <member type="node" ref="945603699" role="house"/>
+  <member type="node" ref="944827333" role="house"/>
+  <member type="node" ref="944253793" role="house"/>
+  <member type="node" ref="944474636" role="house"/>
+  <member type="node" ref="944148787" role="house"/>
+  <member type="node" ref="944557913" role="house"/>
+  <member type="node" ref="945441288" role="house"/>
+  <member type="node" ref="945420304" role="house"/>
+  <member type="node" ref="945584383" role="house"/>
+  <member type="node" ref="944317274" role="house"/>
+  <member type="node" ref="945531619" role="house"/>
+  <member type="node" ref="945595285" role="house"/>
+  <member type="node" ref="944214124" role="house"/>
+  <member type="node" ref="945581755" role="house"/>
+  <member type="node" ref="944832297" role="house"/>
+  <member type="node" ref="944119194" role="house"/>
+  <member type="node" ref="945579245" role="house"/>
+  <member type="node" ref="944148835" role="house"/>
+  <member type="node" ref="945050432" role="house"/>
+  <member type="node" ref="944755563" role="house"/>
+  <member type="node" ref="945600734" role="house"/>
+  <member type="node" ref="944777688" role="house"/>
+  <member type="node" ref="945608459" role="house"/>
+  <member type="node" ref="945550358" role="house"/>
+  <member type="node" ref="945587029" role="house"/>
+  <member type="node" ref="944323116" role="house"/>
+  <member type="node" ref="945535018" role="house"/>
+  <member type="node" ref="945599569" role="house"/>
+  <member type="node" ref="945576391" role="house"/>
+  <member type="node" ref="944825071" role="house"/>
+  <member type="node" ref="944750125" role="house"/>
+  <member type="node" ref="944526916" role="house"/>
+  <member type="node" ref="944138488" role="house"/>
+  <member type="node" ref="944569926" role="house"/>
+  <member type="node" ref="944779924" role="house"/>
+  <member type="node" ref="945591472" role="house"/>
+  <member type="node" ref="944342882" role="house"/>
+  <member type="node" ref="944827483" role="house"/>
+  <member type="node" ref="944277293" role="house"/>
+  <member type="node" ref="944752661" role="house"/>
+  <member type="node" ref="945468107" role="house"/>
+  <member type="node" ref="944564032" role="house"/>
+  <member type="node" ref="944109269" role="house"/>
+  <member type="node" ref="945588739" role="house"/>
+  <member type="node" ref="944758993" role="house"/>
+  <member type="node" ref="945434069" role="house"/>
+  <member type="node" ref="944767359" role="house"/>
+  <member type="node" ref="944747128" role="house"/>
+  <member type="node" ref="945607165" role="house"/>
+  <member type="node" ref="944198837" role="house"/>
+  <member type="node" ref="944783332" role="house"/>
+  <member type="node" ref="945538518" role="house"/>
+  <member type="node" ref="945610261" role="house"/>
+  <member type="node" ref="944501813" role="house"/>
+  <member type="node" ref="944843706" role="house"/>
+  <member type="node" ref="944754659" role="house"/>
+  <member type="node" ref="945527304" role="house"/>
+  <member type="node" ref="945556661" role="house"/>
+  <member type="node" ref="944760592" role="house"/>
+  <member type="node" ref="944762760" role="house"/>
+  <member type="node" ref="944747030" role="house"/>
+  <member type="node" ref="944811837" role="house"/>
+  <member type="node" ref="944072108" role="house"/>
+  <member type="node" ref="944576797" role="house"/>
+  <member type="node" ref="944445383" role="house"/>
+  <member type="node" ref="945544055" role="house"/>
+  <member type="node" ref="945427256" role="house"/>
+  <member type="node" ref="944190141" role="house"/>
+  <member type="node" ref="944773089" role="house"/>
+  <member type="node" ref="944056766" role="house"/>
+  <member type="node" ref="945465448" role="house"/>
+  <member type="node" ref="945537129" role="house"/>
+  <member type="node" ref="945419339" role="house"/>
+  <member type="node" ref="945447034" role="house"/>
+  <member type="node" ref="944756959" role="house"/>
+  <member type="node" ref="945573123" role="house"/>
+  <member type="node" ref="944752721" role="house"/>
+  <member type="node" ref="944756379" role="house"/>
+  <member type="node" ref="944757174" role="house"/>
+  <member type="node" ref="945517964" role="house"/>
+  <member type="node" ref="944403998" role="house"/>
+  <member type="node" ref="945551085" role="house"/>
+  <member type="node" ref="944070513" role="house"/>
+  <member type="node" ref="945567380" role="house"/>
+  <member type="node" ref="944807780" role="house"/>
+  <member type="node" ref="944376111" role="house"/>
+  <member type="node" ref="944819328" role="house"/>
+  <member type="node" ref="944783550" role="house"/>
+  <member type="node" ref="945538574" role="house"/>
+  <member type="node" ref="945602990" role="house"/>
+  <member type="node" ref="945029028" role="house"/>
+  <member type="node" ref="945581032" role="house"/>
+  <member type="node" ref="944831232" role="house"/>
+  <member type="node" ref="945469636" role="house"/>
+  <member type="node" ref="944848694" role="house"/>
+  <member type="node" ref="944827142" role="house"/>
+  <member type="node" ref="944272662" role="house"/>
+  <member type="node" ref="944801752" role="house"/>
+  <member type="node" ref="944144780" role="house"/>
+  <member type="node" ref="944509601" role="house"/>
+  <member type="node" ref="945526759" role="house"/>
+  <member type="node" ref="945587431" role="house"/>
+  <member type="node" ref="945599646" role="house"/>
+  <member type="node" ref="944527205" role="house"/>
+  <member type="node" ref="944130840" role="house"/>
+  <member type="node" ref="944766704" role="house"/>
+  <member type="node" ref="945087728" role="house"/>
+  <member type="node" ref="944813511" role="house"/>
+  <member type="node" ref="944831732" role="house"/>
+  <member type="node" ref="944804421" role="house"/>
+  <member type="node" ref="944278213" role="house"/>
+  <member type="node" ref="944802217" role="house"/>
+  <member type="node" ref="944510348" role="house"/>
+  <member type="node" ref="945580866" role="house"/>
+  <member type="node" ref="944136477" role="house"/>
+  <member type="node" ref="945029150" role="house"/>
+  <member type="node" ref="945558597" role="house"/>
+  <member type="node" ref="945585113" role="house"/>
+  <member type="node" ref="944790332" role="house"/>
+  <member type="node" ref="945578157" role="house"/>
+  <member type="node" ref="944163932" role="house"/>
+  <member type="node" ref="944508910" role="house"/>
+  <member type="node" ref="944448877" role="house"/>
+  <member type="node" ref="944740830" role="house"/>
+  <member type="node" ref="944284952" role="house"/>
+  <member type="node" ref="944803595" role="house"/>
+  <member type="node" ref="944748141" role="house"/>
+  <member type="node" ref="944569331" role="house"/>
+  <member type="node" ref="945455622" role="house"/>
+  <member type="node" ref="944471396" role="house"/>
+  <member type="node" ref="945609317" role="house"/>
+  <member type="node" ref="944845906" role="house"/>
+  <member type="node" ref="944543096" role="house"/>
+  <member type="node" ref="945575684" role="house"/>
+  <member type="node" ref="944118764" role="house"/>
+  <member type="node" ref="944363554" role="house"/>
+  <member type="node" ref="944479223" role="house"/>
+  <member type="node" ref="944824467" role="house"/>
+  <member type="node" ref="945608339" role="house"/>
+  <member type="node" ref="944569450" role="house"/>
+  <member type="node" ref="945522605" role="house"/>
+  <member type="node" ref="945560324" role="house"/>
+  <member type="node" ref="944747436" role="house"/>
+  <member type="node" ref="945532082" role="house"/>
+  <member type="node" ref="945596031" role="house"/>
+  <member type="node" ref="945430687" role="house"/>
+  <member type="node" ref="945572171" role="house"/>
+  <member type="node" ref="944778944" role="house"/>
+  <member type="node" ref="944800366" role="house"/>
+  <member type="node" ref="945568146" role="house"/>
+  <member type="node" ref="944810117" role="house"/>
+  <member type="node" ref="945419937" role="house"/>
+  <member type="node" ref="945441178" role="house"/>
+  <member type="node" ref="944749712" role="house"/>
+  <member type="node" ref="944844392" role="house"/>
+  <member type="node" ref="944178252" role="house"/>
+  <member type="node" ref="945517176" role="house"/>
+  <member type="node" ref="944533670" role="house"/>
+  <member type="node" ref="945538513" role="house"/>
+  <member type="node" ref="945602946" role="house"/>
+  <member type="node" ref="945554370" role="house"/>
+  <member type="node" ref="945594997" role="house"/>
+  <member type="node" ref="945603619" role="house"/>
+  <member type="node" ref="945046259" role="house"/>
+  <member type="node" ref="944831682" role="house"/>
+  <member type="node" ref="945558531" role="house"/>
+  <member type="node" ref="944070107" role="house"/>
+  <member type="node" ref="945430265" role="house"/>
+  <member type="node" ref="944757585" role="house"/>
+  <member type="node" ref="944842680" role="house"/>
+  <member type="node" ref="945604917" role="house"/>
+  <member type="node" ref="944468601" role="house"/>
+  <member type="node" ref="944752444" role="house"/>
+  <member type="node" ref="945518248" role="house"/>
+  <member type="node" ref="944776253" role="house"/>
+  <member type="node" ref="945539197" role="house"/>
+  <member type="node" ref="944104924" role="house"/>
+  <member type="node" ref="944758268" role="house"/>
+  <member type="node" ref="944805669" role="house"/>
+  <member type="node" ref="945574402" role="house"/>
+  <member type="node" ref="944077674" role="house"/>
+  <member type="node" ref="945432059" role="house"/>
+  <member type="node" ref="945557766" role="house"/>
+  <member type="node" ref="944842633" role="house"/>
+  <member type="node" ref="944811242" role="house"/>
+  <member type="node" ref="945578626" role="house"/>
+  <member type="node" ref="944369284" role="house"/>
+  <member type="node" ref="944542665" role="house"/>
+  <member type="node" ref="944828760" role="house"/>
+  <member type="node" ref="945592632" role="house"/>
+  <member type="node" ref="944579416" role="house"/>
+  <member type="node" ref="944849980" role="house"/>
+  <member type="node" ref="945545482" role="house"/>
+  <member type="node" ref="944070101" role="house"/>
+  <member type="node" ref="945562171" role="house"/>
+  <member type="node" ref="945441371" role="house"/>
+  <member type="node" ref="945535754" role="house"/>
+  <member type="node" ref="945541806" role="house"/>
+  <member type="node" ref="945549739" role="house"/>
+  <member type="node" ref="944831697" role="house"/>
+  <member type="node" ref="944116824" role="house"/>
+  <member type="node" ref="944138110" role="house"/>
+  <member type="node" ref="945574586" role="house"/>
+  <member type="node" ref="944310785" role="house"/>
+  <member type="node" ref="944766691" role="house"/>
+  <member type="node" ref="944530373" role="house"/>
+  <member type="node" ref="945585627" role="house"/>
+  <member type="node" ref="945583420" role="house"/>
+  <member type="node" ref="945574221" role="house"/>
+  <member type="node" ref="944565037" role="house"/>
+  <member type="node" ref="944442827" role="house"/>
+  <member type="node" ref="945579549" role="house"/>
+  <member type="node" ref="944202130" role="house"/>
+  <member type="node" ref="944118731" role="house"/>
+  <member type="node" ref="944841030" role="house"/>
+  <member type="node" ref="945452616" role="house"/>
+  <member type="node" ref="945548019" role="house"/>
+  <member type="node" ref="945537044" role="house"/>
+  <member type="node" ref="944750407" role="house"/>
+  <member type="node" ref="944841991" role="house"/>
+  <member type="node" ref="945469103" role="house"/>
+  <member type="node" ref="945578175" role="house"/>
+  <member type="node" ref="944752162" role="house"/>
+  <member type="node" ref="944354126" role="house"/>
+  <member type="node" ref="944785480" role="house"/>
+  <member type="node" ref="944111058" role="house"/>
+  <member type="node" ref="945468811" role="house"/>
+  <member type="node" ref="945563444" role="house"/>
+  <member type="node" ref="945606697" role="house"/>
+  <member type="node" ref="945574929" role="house"/>
+  <member type="node" ref="945596663" role="house"/>
+  <member type="node" ref="944772752" role="house"/>
+  <member type="node" ref="945545184" role="house"/>
+  <member type="node" ref="945543900" role="house"/>
+  <member type="node" ref="944778949" role="house"/>
+  <member type="node" ref="944403898" role="house"/>
+  <member type="node" ref="944182641" role="house"/>
+  <member type="node" ref="945518953" role="house"/>
+  <member type="node" ref="944822676" role="house"/>
+  <member type="node" ref="945573598" role="house"/>
+  <member type="node" ref="944121103" role="house"/>
+  <member type="node" ref="945591987" role="house"/>
+  <member type="node" ref="944764479" role="house"/>
+  <member type="node" ref="944819443" role="house"/>
+  <member type="node" ref="944227064" role="house"/>
+  <member type="node" ref="944452403" role="house"/>
+  <member type="node" ref="944754241" role="house"/>
+  <member type="node" ref="944092849" role="house"/>
+  <member type="node" ref="944848792" role="house"/>
+  <member type="node" ref="944811612" role="house"/>
+  <member type="node" ref="944319942" role="house"/>
+  <member type="node" ref="944752486" role="house"/>
+  <member type="node" ref="945588007" role="house"/>
+  <member type="node" ref="944181215" role="house"/>
+  <member type="node" ref="945590841" role="house"/>
+  <member type="node" ref="945072572" role="house"/>
+  <member type="node" ref="944566053" role="house"/>
+  <member type="node" ref="944527310" role="house"/>
+  <member type="node" ref="944516818" role="house"/>
+  <member type="node" ref="944843763" role="house"/>
+  <member type="node" ref="944830369" role="house"/>
+  <member type="node" ref="944824582" role="house"/>
+  <member type="node" ref="944560340" role="house"/>
+  <member type="node" ref="945566571" role="house"/>
+  <member type="node" ref="944780039" role="house"/>
+  <member type="node" ref="945541050" role="house"/>
+  <member type="node" ref="944316214" role="house"/>
+  <member type="node" ref="945446540" role="house"/>
+  <member type="node" ref="944804384" role="house"/>
+  <member type="node" ref="945424428" role="house"/>
+  <member type="node" ref="944114555" role="house"/>
+  <member type="node" ref="944777437" role="house"/>
+  <member type="node" ref="944142679" role="house"/>
+  <member type="node" ref="945599329" role="house"/>
+  <member type="node" ref="944324212" role="house"/>
+  <member type="node" ref="944808420" role="house"/>
+  <member type="node" ref="945461766" role="house"/>
+  <member type="node" ref="945558266" role="house"/>
+  <member type="node" ref="945567610" role="house"/>
+  <member type="node" ref="945438598" role="house"/>
+  <member type="node" ref="944776393" role="house"/>
+  <member type="node" ref="944849291" role="house"/>
+  <member type="node" ref="945541402" role="house"/>
+  <member type="node" ref="945562037" role="house"/>
+  <member type="node" ref="945534173" role="house"/>
+  <member type="node" ref="945562487" role="house"/>
+  <member type="node" ref="944837492" role="house"/>
+  <member type="node" ref="944825134" role="house"/>
+  <member type="node" ref="944774017" role="house"/>
+  <member type="node" ref="945530096" role="house"/>
+  <member type="node" ref="944759606" role="house"/>
+  <member type="node" ref="945538265" role="house"/>
+  <member type="node" ref="944178894" role="house"/>
+  <member type="node" ref="944522699" role="house"/>
+  <member type="node" ref="944527632" role="house"/>
+  <member type="node" ref="945595216" role="house"/>
+  <member type="node" ref="944841440" role="house"/>
+  <member type="node" ref="944806926" role="house"/>
+  <member type="node" ref="944193883" role="house"/>
+  <member type="node" ref="945572363" role="house"/>
+  <member type="node" ref="944764012" role="house"/>
+  <member type="node" ref="944187471" role="house"/>
+  <member type="node" ref="944578207" role="house"/>
+  <member type="node" ref="944768449" role="house"/>
+  <member type="node" ref="945415377" role="house"/>
+  <member type="node" ref="944338477" role="house"/>
+  <member type="node" ref="945536612" role="house"/>
+  <member type="node" ref="945590913" role="house"/>
+  <member type="node" ref="945433024" role="house"/>
+  <member type="node" ref="945554250" role="house"/>
+  <member type="node" ref="944146006" role="house"/>
+  <member type="node" ref="944750469" role="house"/>
+  <member type="node" ref="945535353" role="house"/>
+  <member type="node" ref="944808569" role="house"/>
+  <member type="node" ref="945528458" role="house"/>
+  <member type="node" ref="944802484" role="house"/>
+  <member type="node" ref="945545238" role="house"/>
+  <member type="node" ref="944807096" role="house"/>
+  <member type="node" ref="944284566" role="house"/>
+  <member type="node" ref="944501641" role="house"/>
+  <member type="node" ref="945453475" role="house"/>
+  <member type="node" ref="944590193" role="house"/>
+  <member type="node" ref="944805895" role="house"/>
+  <member type="node" ref="944749531" role="house"/>
+  <member type="node" ref="944836003" role="house"/>
+  <member type="node" ref="945469839" role="house"/>
+  <member type="node" ref="944288693" role="house"/>
+  <member type="node" ref="945531062" role="house"/>
+  <member type="node" ref="945465607" role="house"/>
+  <member type="node" ref="945074930" role="house"/>
+  <member type="node" ref="945571739" role="house"/>
+  <member type="node" ref="944802554" role="house"/>
+  <member type="node" ref="944150272" role="house"/>
+  <member type="node" ref="945567833" role="house"/>
+  <member type="node" ref="944809357" role="house"/>
+  <member type="node" ref="944548745" role="house"/>
+  <member type="node" ref="944757820" role="house"/>
+  <member type="node" ref="945436922" role="house"/>
+  <member type="node" ref="945527968" role="house"/>
+  <member type="node" ref="944244553" role="house"/>
+  <member type="node" ref="944811650" role="house"/>
+  <member type="node" ref="944477288" role="house"/>
+  <member type="node" ref="945562129" role="house"/>
+  <member type="node" ref="945556302" role="house"/>
+  <member type="node" ref="944577178" role="house"/>
+  <member type="node" ref="945540633" role="house"/>
+  <member type="node" ref="945553186" role="house"/>
+  <member type="node" ref="945526849" role="house"/>
+  <member type="node" ref="945416664" role="house"/>
+  <member type="node" ref="945558251" role="house"/>
+  <member type="node" ref="945573247" role="house"/>
+  <member type="node" ref="944363679" role="house"/>
+  <member type="node" ref="944456180" role="house"/>
+  <member type="node" ref="944769325" role="house"/>
+  <member type="node" ref="944348615" role="house"/>
+  <member type="node" ref="944751374" role="house"/>
+  <member type="node" ref="945526099" role="house"/>
+  <member type="node" ref="945516576" role="house"/>
+  <member type="node" ref="945575852" role="house"/>
+  <member type="node" ref="945460631" role="house"/>
+  <member type="node" ref="944802002" role="house"/>
+  <member type="node" ref="944047167" role="house"/>
+  <member type="node" ref="945594377" role="house"/>
+  <member type="node" ref="944495586" role="house"/>
+  <member type="node" ref="944828343" role="house"/>
+  <member type="node" ref="944330349" role="house"/>
+  <member type="node" ref="944740548" role="house"/>
+  <member type="node" ref="944778947" role="house"/>
+  <member type="node" ref="944777292" role="house"/>
+  <member type="node" ref="945082609" role="house"/>
+  <member type="node" ref="944190055" role="house"/>
+  <member type="node" ref="944272015" role="house"/>
+  <member type="node" ref="944107091" role="house"/>
+  <member type="node" ref="944767395" role="house"/>
+  <member type="node" ref="945468852" role="house"/>
+  <member type="node" ref="945543765" role="house"/>
+  <member type="node" ref="945609342" role="house"/>
+  <member type="node" ref="944775287" role="house"/>
+  <member type="node" ref="945572352" role="house"/>
+  <member type="node" ref="945562613" role="house"/>
+  <member type="node" ref="945426921" role="house"/>
+  <member type="node" ref="944837740" role="house"/>
+  <member type="node" ref="944758019" role="house"/>
+  <member type="node" ref="945566352" role="house"/>
+  <member type="node" ref="944282285" role="house"/>
+  <member type="node" ref="944134326" role="house"/>
+  <member type="node" ref="945539000" role="house"/>
+  <member type="node" ref="945545605" role="house"/>
+  <member type="node" ref="944214302" role="house"/>
+  <member type="node" ref="944849691" role="house"/>
+  <member type="node" ref="945579268" role="house"/>
+  <member type="node" ref="944583634" role="house"/>
+  <member type="node" ref="945565258" role="house"/>
+  <member type="node" ref="944542683" role="house"/>
+  <member type="node" ref="945563885" role="house"/>
+  <member type="node" ref="945573688" role="house"/>
+  <member type="node" ref="945556646" role="house"/>
+  <member type="node" ref="944152300" role="house"/>
+  <member type="node" ref="945524424" role="house"/>
+  <member type="node" ref="944538779" role="house"/>
+  <member type="node" ref="944842197" role="house"/>
+  <member type="node" ref="944787107" role="house"/>
+  <member type="node" ref="944195398" role="house"/>
+  <member type="node" ref="945539094" role="house"/>
+  <member type="node" ref="944762353" role="house"/>
+  <member type="node" ref="945551101" role="house"/>
+  <member type="node" ref="944845559" role="house"/>
+  <member type="node" ref="944121200" role="house"/>
+  <member type="node" ref="945526026" role="house"/>
+  <member type="node" ref="944320631" role="house"/>
+  <member type="node" ref="944748902" role="house"/>
+  <member type="node" ref="944739666" role="house"/>
+  <member type="node" ref="945529858" role="house"/>
+  <member type="node" ref="945604407" role="house"/>
+  <member type="node" ref="944750657" role="house"/>
+  <member type="node" ref="944815989" role="house"/>
+  <member type="node" ref="945556585" role="house"/>
+  <member type="node" ref="945430953" role="house"/>
+  <member type="node" ref="945556732" role="house"/>
+  <member type="node" ref="944491993" role="house"/>
+  <member type="node" ref="945576364" role="house"/>
+  <member type="node" ref="944825044" role="house"/>
+  <member type="node" ref="944759386" role="house"/>
+  <member type="node" ref="944410212" role="house"/>
+  <member type="node" ref="944833218" role="house"/>
+  <member type="node" ref="944768519" role="house"/>
+  <member type="node" ref="944814797" role="house"/>
+  <member type="node" ref="944845877" role="house"/>
+  <member type="node" ref="944824910" role="house"/>
+  <member type="node" ref="944762106" role="house"/>
+  <member type="node" ref="945539271" role="house"/>
+  <member type="node" ref="944759265" role="house"/>
+  <member type="node" ref="945597668" role="house"/>
+  <member type="node" ref="944576503" role="house"/>
+  <member type="node" ref="944549730" role="house"/>
+  <member type="node" ref="944740948" role="house"/>
+  <member type="node" ref="944834063" role="house"/>
+  <member type="node" ref="945595449" role="house"/>
+  <member type="node" ref="944198640" role="house"/>
+  <member type="node" ref="944775184" role="house"/>
+  <member type="node" ref="944568488" role="house"/>
+  <member type="node" ref="944795259" role="house"/>
+  <member type="node" ref="944052160" role="house"/>
+  <member type="node" ref="945527408" role="house"/>
+  <member type="node" ref="945544062" role="house"/>
+  <member type="node" ref="944569666" role="house"/>
+  <member type="node" ref="944772531" role="house"/>
+  <member type="node" ref="944065085" role="house"/>
+  <member type="node" ref="945538921" role="house"/>
+  <member type="node" ref="944758919" role="house"/>
+  <member type="node" ref="945584449" role="house"/>
+  <member type="node" ref="944281970" role="house"/>
+  <member type="node" ref="945539931" role="house"/>
+  <member type="node" ref="945557277" role="house"/>
+  <member type="node" ref="944773252" role="house"/>
+  <member type="node" ref="944237551" role="house"/>
+  <member type="node" ref="945576323" role="house"/>
+  <member type="node" ref="944526819" role="house"/>
+  <member type="node" ref="944581666" role="house"/>
+  <member type="node" ref="944509602" role="house"/>
+  <member type="node" ref="945029029" role="house"/>
+  <member type="node" ref="945566980" role="house"/>
+  <member type="node" ref="944838244" role="house"/>
+  <member type="node" ref="944848707" role="house"/>
+  <member type="node" ref="945433488" role="house"/>
+  <member type="node" ref="944493149" role="house"/>
+  <member type="node" ref="944570021" role="house"/>
+  <member type="node" ref="944802055" role="house"/>
+  <member type="node" ref="945531200" role="house"/>
+  <member type="node" ref="945417373" role="house"/>
+  <member type="node" ref="944434674" role="house"/>
+  <member type="node" ref="945535398" role="house"/>
+  <member type="node" ref="944198046" role="house"/>
+  <member type="node" ref="944260222" role="house"/>
+  <member type="node" ref="944140698" role="house"/>
+  <member type="node" ref="944553726" role="house"/>
+  <member type="node" ref="944757784" role="house"/>
+  <member type="node" ref="944807127" role="house"/>
+  <member type="node" ref="944085916" role="house"/>
+  <member type="node" ref="945543688" role="house"/>
+  <member type="node" ref="945564091" role="house"/>
+  <member type="node" ref="944749222" role="house"/>
+  <member type="node" ref="945523736" role="house"/>
+  <member type="node" ref="944832958" role="house"/>
+  <member type="node" ref="944307905" role="house"/>
+  <member type="node" ref="944845013" role="house"/>
+  <member type="node" ref="945595038" role="house"/>
+  <member type="node" ref="944796091" role="house"/>
+  <member type="node" ref="944436378" role="house"/>
+  <member type="node" ref="945558563" role="house"/>
+  <member type="node" ref="944261671" role="house"/>
+  <member type="node" ref="944059969" role="house"/>
+  <member type="node" ref="944826745" role="house"/>
+  <member type="node" ref="945528040" role="house"/>
+  <member type="node" ref="944777462" role="house"/>
+  <member type="node" ref="944777604" role="house"/>
+  <member type="node" ref="945513816" role="house"/>
+  <member type="node" ref="945433131" role="house"/>
+  <member type="node" ref="944523022" role="house"/>
+  <member type="node" ref="944393886" role="house"/>
+  <member type="node" ref="944146090" role="house"/>
+  <member type="node" ref="944541850" role="house"/>
+  <member type="node" ref="944774080" role="house"/>
+  <member type="node" ref="944516026" role="house"/>
+  <member type="node" ref="945540423" role="house"/>
+  <member type="node" ref="945583406" role="house"/>
+  <member type="node" ref="945554146" role="house"/>
+  <member type="node" ref="944804120" role="house"/>
+  <member type="node" ref="944516474" role="house"/>
+  <member type="node" ref="945591429" role="house"/>
+  <member type="node" ref="945561643" role="house"/>
+  <member type="node" ref="944581817" role="house"/>
+  <member type="node" ref="945552610" role="house"/>
+  <member type="node" ref="944198039" role="house"/>
+  <member type="node" ref="944780811" role="house"/>
+  <member type="node" ref="944835013" role="house"/>
+  <member type="node" ref="945565382" role="house"/>
+  <member type="node" ref="945562248" role="house"/>
+  <member type="node" ref="945602314" role="house"/>
+  <member type="node" ref="944775359" role="house"/>
+  <member type="node" ref="945434499" role="house"/>
+  <member type="node" ref="945539599" role="house"/>
+  <member type="node" ref="945604176" role="house"/>
+  <member type="node" ref="944816164" role="house"/>
+  <member type="node" ref="944747283" role="house"/>
+  <member type="node" ref="944804922" role="house"/>
+  <member type="node" ref="944780585" role="house"/>
+  <member type="node" ref="945594313" role="house"/>
+  <member type="node" ref="944424846" role="house"/>
+  <member type="node" ref="944542028" role="house"/>
+  <member type="node" ref="944849272" role="house"/>
+  <member type="node" ref="944432938" role="house"/>
+  <member type="node" ref="945599898" role="house"/>
+  <member type="node" ref="944174411" role="house"/>
+  <member type="node" ref="945550859" role="house"/>
+  <member type="node" ref="945602062" role="house"/>
+  <member type="node" ref="944831190" role="house"/>
+  <member type="node" ref="944150941" role="house"/>
+  <member type="node" ref="944529986" role="house"/>
+  <member type="node" ref="944148151" role="house"/>
+  <member type="node" ref="944845679" role="house"/>
+  <member type="node" ref="945469225" role="house"/>
+  <member type="node" ref="944203590" role="house"/>
+  <member type="node" ref="945592598" role="house"/>
+  <member type="node" ref="944171957" role="house"/>
+  <member type="node" ref="944535065" role="house"/>
+  <member type="node" ref="945527089" role="house"/>
+  <member type="node" ref="944107705" role="house"/>
+  <member type="node" ref="944764797" role="house"/>
+  <member type="node" ref="945603718" role="house"/>
+  <member type="node" ref="945468960" role="house"/>
+  <member type="node" ref="944555253" role="house"/>
+  <member type="node" ref="944779296" role="house"/>
+  <member type="node" ref="944456907" role="house"/>
+  <member type="node" ref="944763803" role="house"/>
+  <member type="node" ref="945576387" role="house"/>
+  <member type="node" ref="945591468" role="house"/>
+  <member type="node" ref="944194610" role="house"/>
+  <member type="node" ref="945470327" role="house"/>
+  <member type="node" ref="944779327" role="house"/>
+  <member type="node" ref="945584410" role="house"/>
+  <member type="node" ref="945558614" role="house"/>
+  <member type="node" ref="945562709" role="house"/>
+  <member type="node" ref="944774259" role="house"/>
+  <member type="node" ref="944750546" role="house"/>
+  <member type="node" ref="944771153" role="house"/>
+  <member type="node" ref="944375535" role="house"/>
+  <member type="node" ref="945540310" role="house"/>
+  <member type="node" ref="944747993" role="house"/>
+  <member type="node" ref="945546143" role="house"/>
+  <member type="node" ref="944116660" role="house"/>
+  <member type="node" ref="944752360" role="house"/>
+  <member type="node" ref="944838398" role="house"/>
+  <member type="node" ref="944340254" role="house"/>
+  <member type="node" ref="945536911" role="house"/>
+  <member type="node" ref="944776186" role="house"/>
+  <member type="node" ref="945461720" role="house"/>
+  <member type="node" ref="945458276" role="house"/>
+  <member type="node" ref="944771911" role="house"/>
+  <member type="node" ref="945608190" role="house"/>
+  <member type="node" ref="945432882" role="house"/>
+  <member type="node" ref="944081660" role="house"/>
+  <member type="node" ref="945535310" role="house"/>
+  <member type="node" ref="944475208" role="house"/>
+  <member type="node" ref="945597228" role="house"/>
+  <member type="node" ref="944843542" role="house"/>
+  <member type="node" ref="945562001" role="house"/>
+  <member type="node" ref="944746996" role="house"/>
+  <member type="node" ref="945531633" role="house"/>
+  <member type="node" ref="945543604" role="house"/>
+  <member type="node" ref="944519916" role="house"/>
+  <member type="node" ref="944835061" role="house"/>
+  <member type="node" ref="945534136" role="house"/>
+  <member type="node" ref="944176204" role="house"/>
+  <member type="node" ref="944805080" role="house"/>
+  <member type="node" ref="944165023" role="house"/>
+  <member type="node" ref="945512860" role="house"/>
+  <member type="node" ref="945455653" role="house"/>
+  <member type="node" ref="944516655" role="house"/>
+  <member type="node" ref="944077743" role="house"/>
+  <member type="node" ref="945427440" role="house"/>
+  <member type="node" ref="945576559" role="house"/>
+  <member type="node" ref="944138669" role="house"/>
+  <member type="node" ref="945544602" role="house"/>
+  <member type="node" ref="944493851" role="house"/>
+  <member type="node" ref="944182919" role="house"/>
+  <member type="node" ref="945530052" role="house"/>
+  <member type="node" ref="945448178" role="house"/>
+  <member type="node" ref="944566812" role="house"/>
+  <member type="node" ref="945530361" role="house"/>
+  <member type="node" ref="944751503" role="house"/>
+  <member type="node" ref="944310836" role="house"/>
+  <member type="node" ref="944811448" role="house"/>
+  <member type="node" ref="945591818" role="house"/>
+  <member type="node" ref="945561431" role="house"/>
+  <member type="node" ref="945551223" role="house"/>
+  <member type="node" ref="945600223" role="house"/>
+  <member type="node" ref="945425793" role="house"/>
+  <member type="node" ref="945590453" role="house"/>
+  <member type="node" ref="944846296" role="house"/>
+  <member type="node" ref="944185063" role="house"/>
+  <member type="node" ref="944264047" role="house"/>
+  <member type="node" ref="944843022" role="house"/>
+  <member type="node" ref="944774209" role="house"/>
+  <member type="node" ref="944523034" role="house"/>
+  <member type="node" ref="945428754" role="house"/>
+  <member type="node" ref="945535380" role="house"/>
+  <member type="node" ref="944769092" role="house"/>
+  <member type="node" ref="944834638" role="house"/>
+  <member type="node" ref="944317644" role="house"/>
+  <member type="node" ref="944445689" role="house"/>
+  <member type="node" ref="945436715" role="house"/>
+  <member type="node" ref="945595068" role="house"/>
+  <member type="node" ref="944541842" role="house"/>
+  <member type="node" ref="944739006" role="house"/>
+  <member type="node" ref="944278317" role="house"/>
+  <member type="node" ref="944256922" role="house"/>
+  <member type="node" ref="944503334" role="house"/>
+  <member type="node" ref="944343544" role="house"/>
+  <member type="node" ref="944845550" role="house"/>
+  <member type="node" ref="945470617" role="house"/>
+  <member type="node" ref="944537641" role="house"/>
+  <member type="node" ref="944759498" role="house"/>
+  <member type="node" ref="944142848" role="house"/>
+  <member type="node" ref="944777915" role="house"/>
+  <member type="node" ref="945518280" role="house"/>
+  <member type="node" ref="944771861" role="house"/>
+  <member type="node" ref="945562236" role="house"/>
+  <member type="node" ref="945582252" role="house"/>
+  <member type="node" ref="944163466" role="house"/>
+  <member type="node" ref="944571058" role="house"/>
+  <member type="node" ref="944753203" role="house"/>
+  <member type="node" ref="945558322" role="house"/>
+  <member type="node" ref="944232217" role="house"/>
+  <member type="node" ref="944841480" role="house"/>
+  <member type="node" ref="944780805" role="house"/>
+  <member type="node" ref="944525904" role="house"/>
+  <member type="node" ref="945574216" role="house"/>
+  <member type="node" ref="945555548" role="house"/>
+  <member type="node" ref="944772144" role="house"/>
+  <member type="node" ref="944826937" role="house"/>
+  <member type="node" ref="944588494" role="house"/>
+  <member type="node" ref="945561095" role="house"/>
+  <member type="node" ref="944171813" role="house"/>
+  <member type="node" ref="944789138" role="house"/>
+  <member type="node" ref="945547319" role="house"/>
+  <member type="node" ref="944072692" role="house"/>
+  <member type="node" ref="944803413" role="house"/>
+  <member type="node" ref="944812367" role="house"/>
+  <member type="node" ref="944772285" role="house"/>
+  <member type="node" ref="944845571" role="house"/>
+  <member type="node" ref="944382932" role="house"/>
+  <member type="node" ref="945592018" role="house"/>
+  <member type="node" ref="945445335" role="house"/>
+  <member type="node" ref="944570679" role="house"/>
+  <member type="node" ref="944843344" role="house"/>
+  <member type="node" ref="944778302" role="house"/>
+  <member type="node" ref="945411901" role="house"/>
+  <member type="node" ref="944498473" role="house"/>
+  <member type="node" ref="944309209" role="house"/>
+  <member type="node" ref="944125692" role="house"/>
+  <member type="node" ref="945607737" role="house"/>
+  <member type="node" ref="945580685" role="house"/>
+  <member type="node" ref="945530460" role="house"/>
+  <member type="node" ref="945607413" role="house"/>
+  <member type="node" ref="945538163" role="house"/>
+  <member type="node" ref="944783643" role="house"/>
+  <member type="node" ref="944502080" role="house"/>
+  <member type="node" ref="945411956" role="house"/>
+  <member type="node" ref="944558820" role="house"/>
+  <member type="node" ref="945531589" role="house"/>
+  <member type="node" ref="945573323" role="house"/>
+  <member type="node" ref="944566122" role="house"/>
+  <member type="node" ref="944410335" role="house"/>
+  <member type="node" ref="944807157" role="house"/>
+  <member type="node" ref="944764800" role="house"/>
+  <member type="node" ref="944278757" role="house"/>
+  <member type="node" ref="944133727" role="house"/>
+  <member type="node" ref="945580815" role="house"/>
+  <member type="node" ref="944165171" role="house"/>
+  <member type="node" ref="945469145" role="house"/>
+  <member type="node" ref="944837477" role="house"/>
+  <member type="node" ref="945537296" role="house"/>
+  <member type="node" ref="944771955" role="house"/>
+  <member type="node" ref="945608234" role="house"/>
+  <member type="node" ref="945526872" role="house"/>
+  <member type="node" ref="944843999" role="house"/>
+  <member type="node" ref="944777747" role="house"/>
+  <member type="node" ref="945551957" role="house"/>
+  <member type="node" ref="944842959" role="house"/>
+  <member type="node" ref="945601757" role="house"/>
+  <member type="node" ref="944133412" role="house"/>
+  <member type="node" ref="944382626" role="house"/>
+  <member type="node" ref="944765431" role="house"/>
+  <member type="node" ref="944241014" role="house"/>
+  <member type="node" ref="944749476" role="house"/>
+  <member type="node" ref="945532334" role="house"/>
+  <member type="node" ref="944373560" role="house"/>
+  <member type="node" ref="944464759" role="house"/>
+  <member type="node" ref="945564535" role="house"/>
+  <member type="node" ref="944572720" role="house"/>
+  <member type="node" ref="944818354" role="house"/>
+  <member type="node" ref="944773761" role="house"/>
+  <member type="node" ref="944075482" role="house"/>
+  <member type="node" ref="945592551" role="house"/>
+  <member type="node" ref="944740900" role="house"/>
+  <member type="node" ref="944830902" role="house"/>
+  <member type="node" ref="944758340" role="house"/>
+  <member type="node" ref="945463011" role="house"/>
+  <member type="node" ref="944101066" role="house"/>
+  <member type="node" ref="944440354" role="house"/>
+  <member type="node" ref="945419287" role="house"/>
+  <member type="node" ref="945553059" role="house"/>
+  <member type="node" ref="945545639" role="house"/>
+  <member type="node" ref="945578387" role="house"/>
+  <member type="node" ref="944541710" role="house"/>
+  <member type="node" ref="944817509" role="house"/>
+  <member type="node" ref="944309798" role="house"/>
+  <member type="node" ref="945459309" role="house"/>
+  <member type="node" ref="944073412" role="house"/>
+  <member type="node" ref="945552938" role="house"/>
+  <member type="node" ref="944101346" role="house"/>
+  <member type="node" ref="944767596" role="house"/>
+  <member type="node" ref="945463009" role="house"/>
+  <member type="node" ref="944836781" role="house"/>
+  <member type="node" ref="944812038" role="house"/>
+  <member type="node" ref="944782089" role="house"/>
+  <member type="node" ref="945542143" role="house"/>
+  <member type="node" ref="944484968" role="house"/>
+  <member type="node" ref="945585094" role="house"/>
+  <member type="node" ref="945572406" role="house"/>
+  <member type="node" ref="944771997" role="house"/>
+  <member type="node" ref="944514271" role="house"/>
+  <member type="node" ref="945539954" role="house"/>
+  <member type="node" ref="945596308" role="house"/>
+  <member type="node" ref="944142858" role="house"/>
+  <member type="node" ref="944812943" role="house"/>
+  <member type="node" ref="944842606" role="house"/>
+  <member type="node" ref="945459789" role="house"/>
+  <member type="node" ref="944451433" role="house"/>
+  <member type="node" ref="944515634" role="house"/>
+  <member type="node" ref="944429193" role="house"/>
+  <member type="node" ref="945418331" role="house"/>
+  <member type="node" ref="944241479" role="house"/>
+  <member type="node" ref="944754279" role="house"/>
+  <member type="node" ref="945603188" role="house"/>
+  <member type="node" ref="945572913" role="house"/>
+  <member type="node" ref="944469351" role="house"/>
+  <member type="node" ref="945526955" role="house"/>
+  <member type="node" ref="944750404" role="house"/>
+  <member type="node" ref="944139048" role="house"/>
+  <member type="node" ref="945601461" role="house"/>
+  <member type="node" ref="945417030" role="house"/>
+  <member type="node" ref="945599859" role="house"/>
+  <member type="node" ref="944511140" role="house"/>
+  <member type="node" ref="944796911" role="house"/>
+  <member type="node" ref="945515787" role="house"/>
+  <member type="node" ref="944217624" role="house"/>
+  <member type="node" ref="945523665" role="house"/>
+  <member type="node" ref="944804755" role="house"/>
+  <member type="node" ref="945551890" role="house"/>
+  <member type="node" ref="944451524" role="house"/>
+  <member type="node" ref="945468330" role="house"/>
+  <member type="node" ref="944510447" role="house"/>
+  <member type="node" ref="944414132" role="house"/>
+  <member type="node" ref="944809937" role="house"/>
+  <member type="node" ref="944789849" role="house"/>
+  <member type="node" ref="944805372" role="house"/>
+  <member type="node" ref="944543344" role="house"/>
+  <member type="node" ref="945602772" role="house"/>
+  <member type="node" ref="945555444" role="house"/>
+  <member type="node" ref="944756518" role="house"/>
+  <member type="node" ref="944573529" role="house"/>
+  <member type="node" ref="944174293" role="house"/>
+  <member type="node" ref="944324946" role="house"/>
+  <member type="node" ref="945573355" role="house"/>
+  <member type="node" ref="945607027" role="house"/>
+  <member type="node" ref="944232875" role="house"/>
+  <member type="node" ref="945468674" role="house"/>
+  <member type="node" ref="944052193" role="house"/>
+  <member type="node" ref="944214139" role="house"/>
+  <member type="node" ref="944100672" role="house"/>
+  <member type="node" ref="945567703" role="house"/>
+  <member type="node" ref="944519865" role="house"/>
+  <member type="node" ref="944384809" role="house"/>
+  <member type="node" ref="944783139" role="house"/>
+  <member type="node" ref="945575403" role="house"/>
+  <member type="node" ref="945567298" role="house"/>
+  <member type="node" ref="944769767" role="house"/>
+  <member type="node" ref="945419709" role="house"/>
+  <member type="node" ref="944807392" role="house"/>
+  <member type="node" ref="944577188" role="house"/>
+  <member type="node" ref="944759579" role="house"/>
+  <member type="node" ref="944826866" role="house"/>
+  <member type="node" ref="945557923" role="house"/>
+  <member type="node" ref="945526552" role="house"/>
+  <member type="node" ref="944049056" role="house"/>
+  <member type="node" ref="944511630" role="house"/>
+  <member type="node" ref="945561362" role="house"/>
+  <member type="node" ref="944548164" role="house"/>
+  <member type="node" ref="945410763" role="house"/>
+  <member type="node" ref="944549793" role="house"/>
+  <member type="node" ref="945562016" role="house"/>
+  <member type="node" ref="945546830" role="house"/>
+  <member type="node" ref="944837469" role="house"/>
+  <member type="node" ref="944773491" role="house"/>
+  <member type="node" ref="944133873" role="house"/>
+  <member type="node" ref="945551939" role="house"/>
+  <member type="node" ref="944821537" role="house"/>
+  <member type="node" ref="945512514" role="house"/>
+  <member type="node" ref="944774176" role="house"/>
+  <member type="node" ref="945534887" role="house"/>
+  <member type="node" ref="944758460" role="house"/>
+  <member type="node" ref="945599473" role="house"/>
+  <member type="node" ref="944844840" role="house"/>
+  <member type="node" ref="944516285" role="house"/>
+  <member type="node" ref="945454846" role="house"/>
+  <member type="node" ref="944748182" role="house"/>
+  <member type="node" ref="944108782" role="house"/>
+  <member type="node" ref="945594644" role="house"/>
+  <member type="node" ref="944139207" role="house"/>
+  <member type="node" ref="945567339" role="house"/>
+  <member type="node" ref="944341852" role="house"/>
+  <member type="node" ref="945576757" role="house"/>
+  <member type="node" ref="945073166" role="house"/>
+  <member type="node" ref="944475848" role="house"/>
+  <member type="node" ref="945533322" role="house"/>
+  <member type="node" ref="944233494" role="house"/>
+  <member type="node" ref="944511430" role="house"/>
+  <member type="node" ref="945051258" role="house"/>
+  <member type="node" ref="944832348" role="house"/>
+  <member type="node" ref="945597276" role="house"/>
+  <member type="node" ref="944748859" role="house"/>
+  <member type="node" ref="1550460279" role="house"/>
+  <member type="way" ref="164141222" role="street"/>
+  <member type="way" ref="344193276" role="street"/>
+  <member type="way" ref="344193275" role="street"/>
+  <member type="way" ref="164141228" role="street"/>
+  <member type="way" ref="164143624" role="street"/>
+  <member type="way" ref="164143639" role="street"/>
+  <member type="way" ref="221131602" role="street"/>
+  <member type="way" ref="164141225" role="street"/>
+  <member type="way" ref="164141227" role="street"/>
+  <member type="way" ref="457946558" role="street"/>
+  <tag k="mvdgis:cod_nombre" v="3564"/>
+  <tag k="name" v="Avenida Italia"/>
+  <tag k="type" v="street"/>
+ </relation>
+ <relation id="6769566" visible="true" version="1" changeset="44190858" timestamp="2016-12-05T19:41:53Z" user="JuanVerde" uid="3474216">
+  <member type="way" ref="454394801" role="from"/>
+  <member type="node" ref="917593835" role="via"/>
+  <member type="way" ref="78118639" role="to"/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+</osm>

@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rulepool>
+	<rule>
+		<lhs>
+			<symbol value="Building"/>
+			<matches>
+				<and>
+					<le>
+						<axis axis="X"/>
+						<num value="0"/>
+					</le>
+					<le>
+						<axis axis="Z"/>
+						<num value="0"/>
+					</le>
+				</and>
+			</matches>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="Y"/>
+				<ratioList>
+					<ratio>
+						<num value="15"/>
+						<isAbsolute value="true"/>
+						<symbol value="Building First Floor"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Building Floors"/>
+					</ratio>
+					<ratio>
+						<num value="10"/>
+						<isAbsolute value="true"/>
+						<symbol value="Roof"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+
+	<rule>
+		<lhs>
+			<symbol value="Building Floors"/>
+		</lhs>
+		<rhs>
+			<repeat>
+				<axis axis="Y"/>
+				<num value="15"/>
+				<symbol value="Building Floor"/>
+			</repeat>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Building First Floor"/>
+		</lhs>
+		<rhs>
+			<component>
+				<component component="LEFT"/>
+				<symbol value="Wall"/>
+			</component>
+			<component>
+				<component component="RIGHT"/>
+				<symbol value="Wall"/>
+			</component>
+			<component>
+				<component component="BACK"/>
+				<symbol value="Wall Section"/>
+			</component>
+			<component>
+				<component component="FRONT"/>
+				<symbol value="Wall With Door"/>
+			</component>
+			<component>
+				<component component="FLOOR"/>
+				<symbol value="Floor"/>
+			</component>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Building Floor"/>
+		</lhs>
+		<rhs>
+			<component>
+				<component component="LEFT"/>
+				<symbol value="Wall"/>
+			</component>
+			<component>
+				<component component="RIGHT"/>
+				<symbol value="Wall"/>
+			</component>
+			<component>
+				<component component="BACK"/>
+				<symbol value="Wall Section"/>
+			</component>
+			<component>
+				<component component="FRONT"/>
+				<symbol value="Wall"/>
+			</component>
+			<component>
+				<component component="FLOOR"/>
+				<symbol value="Floor"/>
+			</component>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Church"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="Z"/>
+				<ratioList>
+					<ratio>
+						<rand type="double" begin="0.2" end="0.3"/>
+						<isAbsolute value="false"/>
+						<symbol value="Entrance Hall Big"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Main Church"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Entrance Hall Big"/>
+		</lhs>
+		<rhs>
+			<scaleAxis>
+				<axis axis="X"/>
+				<rand type="double" begin="0.4" end="0.7"/>
+				<center value="true"/>
+			</scaleAxis>
+			<scaleAxis>
+				<axis axis="Y"/>
+				<rand type="double" begin="0.6" end="0.8"/>
+				<center value="false"/>
+			</scaleAxis>
+			<instantiate>
+				<symbol value="Entrance Hall"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Main Church"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="Y"/>
+				<ratioList>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Main Church Body"/>
+					</ratio>
+					<ratio>
+						<div>
+							<size axis="X"/>
+							<num value="3"/>
+						</div>
+						<isAbsolute value="true"/>
+						<symbol value="Main Church Roof"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Entrance Hall"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="Y"/>
+				<ratioList>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Entrance Hall Body"/>
+					</ratio>
+					<ratio>
+						<div>
+							<size axis="X"/>
+							<num value="3"/>
+						</div>
+						<isAbsolute value="true"/>
+						<symbol value="Roof"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Main Church Roof"/>
+		</lhs>
+		<rhs>
+			<instantiate>
+				<symbol value="Roof"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Flat Roof"/>
+		</lhs>
+		<rhs>
+			<viewComponent>
+				<component component="TOP"/>
+			</viewComponent>
+			<instantiate>
+				<symbol value="Roof Tiles"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Roof"/>
+		</lhs>
+		<rhs>
+			<push/>
+			<viewComponent>
+				<component component="LEFT"/>
+			</viewComponent>
+			<scaleAxis>
+				<axis axis="Z"/>
+				<num value="0.5"/>
+				<center value="false"/>
+			</scaleAxis>
+			<instantiate>
+				<symbol value="Roof Half"/>
+			</instantiate>
+			<pop/>
+			<viewComponent>
+				<component component="RIGHT"/>
+			</viewComponent>
+			<scaleAxis>
+				<axis axis="Z"/>
+				<num value="0.5"/>
+				<center value="false"/>
+			</scaleAxis>
+			<instantiate>
+				<symbol value="Roof Half"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Roof Half"/>
+		</lhs>
+		<rhs>
+			<component>
+				<component component="SLOPE"/>
+				<symbol value="Roof Tiles"/>
+			</component>
+			<component>
+				<component component="MIRRORED_LEFT_RIGHT"/>
+				<symbol value="Wall Triangle Section"/>
+			</component>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Main Church Body"/>
+		</lhs>
+		<rhs>
+			<instantiate>
+				<symbol value="Church Interior"/>
+			</instantiate>
+			<component>
+				<component component="LEFT"/>
+				<symbol value="Wall"/>
+			</component>
+			<component>
+				<component component="RIGHT"/>
+				<symbol value="Wall"/>
+			</component>
+			<component>
+				<component component="BACK"/>
+				<symbol value="Wall Section"/>
+			</component>
+			<component>
+				<component component="FRONT"/>
+				<symbol value="Wall With Door"/>
+			</component>
+			<component>
+				<component component="FLOOR"/>
+				<symbol value="Floor"/>
+			</component>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Entrance Hall Body"/>
+		</lhs>
+		<rhs>
+			<component>
+				<component component="LEFT"/>
+				<symbol value="Wall"/>
+			</component>
+			<component>
+				<component component="RIGHT"/>
+				<symbol value="Wall"/>
+			</component>
+			<component>
+				<component component="FRONT"/>
+				<symbol value="Wall With Door"/>
+			</component>
+			<component>
+				<component component="FLOOR"/>
+				<symbol value="Floor"/>
+			</component>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Wall With Door"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="X"/>
+				<ratioList>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Wall Section"/>
+					</ratio>
+					<ratio>
+						<num value="6"/>
+						<isAbsolute value="true"/>
+						<symbol value="Door Section Vertical"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Wall Section"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Door Section Vertical"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="Y"/>
+				<ratioList>
+					<ratio>
+						<num value="8"/>
+						<isAbsolute value="true"/>
+						<symbol value="Double Door"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Wall Section"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Double Door"/>
+		</lhs>
+		<rhs>
+			<resizeAxis>
+				<axis axis="Z"/>
+				<num value="0.2"/>
+				<center value="true"/>
+			</resizeAxis>
+			<scaleAxis>
+				<axis axis="X"/>
+				<num value="0.5"/>
+				<center value="false"/>
+			</scaleAxis>
+			<instantiate>
+				<symbol value="Door Ajar"/>
+			</instantiate>
+			<relativeTranslateAxis>
+				<axis axis="X"/>
+				<num value="2.0"/>
+			</relativeTranslateAxis>
+			<rotate>
+				<axis axis="Y"/>
+				<num value="180"/>
+				<center value="false"/>
+			</rotate>
+			<relativeTranslateAxis>
+				<axis axis="Z"/>
+				<num value="-1.0"/>
+			</relativeTranslateAxis>
+			<instantiate>
+				<symbol value="Door Ajar"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Door Ajar"/>
+			<remembered value="false"/>
+		</lhs>
+		<rhs>
+			<instantiate>
+				<symbol value="Door"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Door Ajar"/>
+			<remembered value="false"/>
+		</lhs>
+		<rhs>
+			<rotate>
+				<axis axis="Y"/>
+				<rand type="double" begin="-30.0" end="30.0"/>
+				<center value="false"/>
+			</rotate>
+			<instantiate>
+				<symbol value="Door"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Wall"/>
+		</lhs>
+		<rhs>
+			<repeat>
+				<axis axis="X"/>
+				<num value="12"/>
+				<symbol value="Window Section"/>
+			</repeat>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window Section"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="X"/>
+				<ratioList>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Wall Section"/>
+					</ratio>
+					<ratio>
+						<num value="2"/>
+						<isAbsolute value="true"/>
+						<symbol value="Window Section Vertical"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Wall Section"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window Section Vertical"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="Y"/>
+				<ratioList>
+					<ratio>
+						<num value="2"/>
+						<isAbsolute value="false"/>
+						<symbol value="Wall Section"/>
+					</ratio>
+					<ratio>
+						<num value="5"/>
+						<isAbsolute value="true"/>
+						<symbol value="Slim Window"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Wall Section"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Slim Window"/>
+		</lhs>
+		<rhs>
+			<resizeAxis>
+				<axis axis="Z"/>
+				<num value="1.0"/>
+				<center value="true"/>
+			</resizeAxis>
+			<instantiate>
+				<symbol value="Window"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window"/>
+			<weight>
+				<num value="0"/>
+			</weight>
+		</lhs>
+		<rhs>
+			<resizeAxis>
+				<axis axis="Z"/>
+				<num value="0.2"/>
+				<center value="true"/>
+			</resizeAxis>
+			<instantiate>
+				<symbol value="Window Body"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window"/>
+			<weight>
+				<num value="1"/>
+			</weight>
+		</lhs>
+		<rhs>
+			<component>
+				<component component="RING"/>
+				<symbol value="Flat Window Side"/>
+			</component>
+			<resizeAxis>
+				<axis axis="Z"/>
+				<num value="0.2"/>
+				<center value="true"/>
+			</resizeAxis>
+			<instantiate>
+				<symbol value="Window Body"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Flat Window Side"/>
+		</lhs>
+		<rhs>
+			<resizeAxis>
+				<axis axis="Z"/>
+				<num value="-0.5"/>
+				<center value="false"/>
+			</resizeAxis>
+			<instantiate>
+				<symbol value="Window Side"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window Side"/>
+			<weight>
+				<num value="1"/>
+			</weight>
+		</lhs>
+		<rhs>
+			<instantiate>
+				<symbol value="Stone"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window Side"/>
+			<weight>
+				<num value="0"/>
+			</weight>
+		</lhs>
+		<rhs>
+			<repeatRand>
+				<axis axis="Y"/>
+				<num value="0.5"/>
+				<symbol value="Stone Fixed Y"/>
+				<rand type="double" begin="1.0" end="3.0"/>
+			</repeatRand>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Stone Fixed Y"/>
+		</lhs>
+		<rhs>
+			<scaleAxis>
+				<axis axis="X"/>
+				<rand type="double" begin="0.5" end="0.9"/>
+				<center value="true"/>
+			</scaleAxis>
+			<scaleAxis>
+				<axis axis="Z"/>
+				<rand type="double" begin="0.5" end="0.9"/>
+				<center value="false"/>
+			</scaleAxis>
+			<instantiate>
+				<symbol value="Stone"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window Body"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="X"/>
+				<ratioList>
+					<ratio>
+						<num value="0.1"/>
+						<isAbsolute value="true"/>
+						<symbol value="Board"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Window Body No X Board"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window Body No X Board"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="Y"/>
+				<ratioList>
+					<ratio>
+						<num value="0.1"/>
+						<isAbsolute value="true"/>
+						<symbol value="Board"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Window to Iterate"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window to Iterate"/>
+		</lhs>
+		<rhs>
+			<repeat>
+				<axis axis="X"/>
+				<num value="1"/>
+				<symbol value="Window X Iteration"/>
+			</repeat>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window X Iteration"/>
+		</lhs>
+		<rhs>
+			<repeat>
+				<axis axis="Y"/>
+				<num value="1"/>
+				<symbol value="Window Iteration"/>
+			</repeat>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window Iteration"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="X"/>
+				<ratioList>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Window with Top Board"/>
+					</ratio>
+					<ratio>
+						<num value="0.1"/>
+						<isAbsolute value="true"/>
+						<symbol value="Board"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window with Top Board"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="Y"/>
+				<ratioList>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Window Fat Pane"/>
+					</ratio>
+					<ratio>
+						<num value="0.1"/>
+						<isAbsolute value="true"/>
+						<symbol value="Board"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Window Fat Pane"/>
+		</lhs>
+		<rhs>
+			<resizeAxis>
+				<axis axis="Z"/>
+				<num value="0.0"/>
+				<center value="true"/>
+			</resizeAxis>
+			<instantiate>
+				<symbol value="Window Pane"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Church Interior"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="Z"/>
+				<ratioList>
+					<ratio>
+						<rand type="double" begin="3.0" end="6.0"/>
+						<isAbsolute value="false"/>
+						<symbol value="Seating Section"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Stage Section"/>
+					</ratio>
+					<ratio>
+						<num value="0.001"/>
+						<isAbsolute value="true"/>
+						<symbol value="Invalid"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Stage Section"/>
+		</lhs>
+		<rhs>
+			<resizeAxis>
+				<axis axis="Y"/>
+				<num value="2.0"/>
+			</resizeAxis>
+			<scaleXYZ>
+				<num value="0.95"/>
+				<num value="1.0"/>
+				<num value="0.95"/>
+				<center value="true"/>
+			</scaleXYZ>
+			<instantiate>
+				<symbol value="Stage"/>
+			</instantiate>
+			<relativeTranslateAxis>
+				<axis axis="Y"/>
+				<num value="1.0"/>
+			</relativeTranslateAxis>
+			<relativeTranslateAxis>
+				<axis axis="Z"/>
+				<num value="0.2"/>
+			</relativeTranslateAxis>
+			<resizeAxis>
+				<axis axis="X"/>
+				<num value="2.0"/>
+				<center value="true"/>
+			</resizeAxis>
+			<resizeAxis>
+				<axis axis="Y"/>
+				<num value="4.0"/>
+				<center value="false"/>
+			</resizeAxis>
+			<resizeAxis>
+				<axis axis="Z"/>
+				<num value="1.0"/>
+				<center value="false"/>
+			</resizeAxis>
+			<instantiate>
+				<symbol value="Priest Thing"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Seating Section"/>
+		</lhs>
+		<rhs>
+			<split>
+				<axis axis="X"/>
+				<ratioList>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Invalid"/>
+					</ratio>
+					<ratio>
+						<num value="3"/>
+						<isAbsolute value="false"/>
+						<symbol value="Seat Column"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Invalid"/>
+					</ratio>
+					<ratio>
+						<num value="3"/>
+						<isAbsolute value="false"/>
+						<symbol value="Seat Column"/>
+					</ratio>
+					<ratio>
+						<num value="1"/>
+						<isAbsolute value="false"/>
+						<symbol value="Invalid"/>
+					</ratio>
+				</ratioList>
+			</split>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Seat Column"/>
+		</lhs>
+		<rhs>
+			<resizeAxis>
+				<axis axis="Y"/>
+				<num value="3.0"/>
+				<center value="false"/>
+			</resizeAxis>
+			<scaleAxis>
+				<axis axis="Z"/>
+				<num value="0.8"/>
+				<center value="true"/>
+			</scaleAxis>
+			<instantiate>
+				<symbol value="Actual Seat Column"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Actual Seat Column"/>
+		</lhs>
+		<rhs>
+			<repeat>
+				<axis axis="Z"/>
+				<num value="5.0"/>
+				<symbol value="Seat"/>
+			</repeat>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Seat"/>
+		</lhs>
+		<rhs>
+			<scaleAxis>
+				<axis axis="Z"/>
+				<num value="0.5"/>
+				<center value="false"/>
+			</scaleAxis>
+			<scaleAxis>
+				<axis axis="Y"/>
+				<num value="0.5"/>
+				<center value="false"/>
+			</scaleAxis>
+			<instantiate>
+				<symbol value="Seat Part"/>
+			</instantiate>
+			<relativeTranslateAxis>
+				<axis axis="Y"/>
+				<num value="1.0"/>
+			</relativeTranslateAxis>
+			<scaleAxis>
+				<axis axis="Z"/>
+				<num value="0.2"/>
+				<center value="false"/>
+			</scaleAxis>
+			<instantiate>
+				<symbol value="Seat Part"/>
+			</instantiate>
+		</rhs>
+	</rule>
+	<rule>
+		<lhs>
+			<symbol value="Building Polygonized"/>
+		</lhs>
+		<rhs>
+			<view>
+				<axis axis="Y"/>
+				<toFtom value="true"/>
+				<axis axis="Z"/>
+				<toFtom value="true"/>
+			</view>
+			<relativeTranslateAxis>
+				<axis axis="Z"/>
+				<num value="1.0"/>
+			</relativeTranslateAxis>
+			<flatten>
+				<axis axis="Z"/>
+			</flatten>
+			<inheritFloorPlan/>
+			<instantiate>
+				<symbol value="Floor Polygon"/>
+			</instantiate>
+		</rhs>
+	</rule>
+</rulepool>
